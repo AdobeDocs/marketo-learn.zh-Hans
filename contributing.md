@@ -1,8 +1,8 @@
 ---
-source-git-commit: 1a71a11a686ca3aa9d6f7451f394aa1f6a40e653
+source-git-commit: 33fc78768c3664f9ed9b608c260414b16f37613a
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # 参与
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ## 行为准则
 
-此项目符合Adobe [行为准则](code-of-conduct.md). 参与本项活动时，您应遵守本准则。 请将不可接受的行为报告给
+此项目遵循 Adobe [行为准则](code-of-conduct.md)。如果参与，请遵守本准则。请将不可接受的行为报告给
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## 参与者指南文档
 
-请参阅 [参与者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+请参阅 [参与者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## 有疑问吗？
 
@@ -26,12 +26,11 @@ ht-degree: 0%
 
 ## 参与者许可协议
 
-所有参与到该项目的第三方稿件都必须附有签署的参与者许可协议。 这将允许Adobe在项目中重新分发您贡献的内容。 [签署我们的CLA](http://opensource.adobe.com/cla.html). 您只需提交一次AdobeCLA即可，因此，如果您之前已提交过，则无需重新提交！
+所有参与到该项目的第三方稿件都必须附有签署的参与者许可协议。 这将允许 Adobe 在项目中再次分发您的贡献。[签署我们的CLA](http://opensource.adobe.com/cla.html). 您只需提交一次AdobeCLA即可，因此，如果您之前已提交过，则无需重新提交！
 
 ## 代码审阅
 
-所有提交均应以拉取请求的形式进行，并且需要由项目提交者进行审阅。 读取 [GitHub的拉取请求文档](https://help.github.com/articles/about-pull-requests/)
-有关发送拉取请求的更多信息。
+所有提交都应采用提取请求的形式，并且需要由项目提交者进行审核。请阅读 [GitHub 的提取请求文档](https://help.github.com/cn/articles/about-pull-requests/)，了解有关发送提取请求的更多信息。
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
