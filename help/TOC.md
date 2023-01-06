@@ -1,11 +1,11 @@
 ---
-user-guide-title: Marketo EngageTutorials
-user-guide-description: Adobe Marketo Engage的视频和教程集合。
-breadcrumb-title: Marketo EngageTutorials
-source-git-commit: 03c055f28897708262f82ea9addf0b59b691c735
+user-guide-title: Marketo Engage 教程
+user-guide-description: Adobe Marketo Engage 的视频和教程集合。
+breadcrumb-title: Marketo Engage 教程
+source-git-commit: 0684c5bdea44a6852e7b889eeb3c6ab11419da96
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 2%
+source-wordcount: '190'
+ht-degree: 11%
 
 ---
 
@@ -77,3 +77,5 @@ ht-degree: 2%
 + 实例管理 {#instance-management}
    + [最佳实践](instance-management/best-practice-learn.md)
    + [最佳实践演练](instance-management/best-practice-watch.md)
++ 事件 {#events}
+   + [商机评分](events/lead-scoring.md)
