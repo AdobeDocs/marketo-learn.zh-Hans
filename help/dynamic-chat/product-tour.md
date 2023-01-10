@@ -1,6 +1,6 @@
 ---
 title: 动态聊天的产品导览
-description: 了解动态聊天，这是一款新的聊天机器人解决方案，专为Adobe的营销和销售而构建。
+description: 了解 Adobe 提供的面向营销和销售的全新聊天机器人解决方案 - Dynamic Chat。
 role: User
 level: Beginner
 kt: 9697
@@ -9,7 +9,7 @@ exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
 source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 

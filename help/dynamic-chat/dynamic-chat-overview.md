@@ -1,11 +1,11 @@
 ---
 title: 动态聊天教程
-description: 了解Adobe Experience League上的动态聊天。 通过这些教程和文档，您可以更好地了解如何使用动态聊天创建个性化对话。
+description: 了解 Adobe Experience League 的 Dynamic Chat。利用这些教程和文档，您可以进一步了解如何使用 Dynamic Chat 创建个性化对话。
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 

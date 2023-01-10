@@ -1,11 +1,11 @@
 ---
 title: Marketo Engage教程
-description: 观看视频教程(位于 [!DNL Marketo Engage]. 提高您对如何使用营销自动化功能等方面的了解。
+description: 观看视频教程(位于 [!DNL Marketo Engage]. 帮助您更好地了解如何使用营销自动化功能等内容。
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 最近添加的 [!DNL Marketo Engage] 教程：
 
 * **[[!UICONTROL 动态聊天]  教程](dynamic-chat/dynamic-chat-overview.md)**
-   _通过这些教程和文档，您可以更好地了解如何使用动态聊天创建个性化对话。_
+   _利用这些教程和文档，您可以进一步了解如何使用 Dynamic Chat 创建个性化对话。_
 
 * **[[!DNL Sales Insight Actions] 教程](/help/sales-insight-actions/overview.md)**
    _使用 [!UICONTROL 销售分析操作] 通过营销支持的智能和参与工具在单个工作流中一起加速潜在客户开发工作。_
