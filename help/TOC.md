@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
-source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
+source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '205'
 ht-degree: 10%
 
 ---
@@ -69,7 +69,6 @@ ht-degree: 10%
 + 潜在客户和数据管理 {#lead-and-data-management}
    + [商机评分](lead-and-data-management/lead-scoring-learn.md)
    + [商机评分演示](lead-and-data-management/lead-scoring-watch.md)
-   + [商机评分示例](lead-and-data-management/lead-scoring.md)
    + [订阅中心](lead-and-data-management/subscription-center-learn.md)
    + [订阅中心演练](lead-and-data-management/subscription-center-watch.md)
    + [CRM同步](lead-and-data-management/crm-sync-learn.md)
@@ -80,3 +79,6 @@ ht-degree: 10%
    + [销售分析操作概述](sales-insight-actions/sales-insight-actions-overview.md)
    + [访问您的Sales Insight Actions实例](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [将销售活动日志记录配置为 [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ 隐藏 {#hidden}
+   + [Marketo和Mochas铅评分](events/marketo-and-mochas/lead-scoring.md)
+   + [Marketo和Mochas Marketo Measure归因](events/marketo-and-mochas/attribution.md)
