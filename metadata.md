@@ -3,11 +3,12 @@ cloud: Experience Cloud
 solution: Marketo Engage
 product: marketo
 type: Tutorial
+doc-type: video
 feature-set: Marketo Engage
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo-learn.zh-Hans
 index: true
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

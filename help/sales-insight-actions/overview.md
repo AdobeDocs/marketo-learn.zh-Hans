@@ -1,8 +1,9 @@
 ---
 title: 销售分析操作Tutorials
 description: 使用 [!UICONTROL 销售分析操作] 通过营销支持的智能和参与工具在单个工作流中一起加速潜在客户开发工作。
+doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
