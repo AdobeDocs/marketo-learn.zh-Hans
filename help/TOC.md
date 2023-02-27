@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
-source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
+source-git-commit: 9ea687c89fc22808fc6e2f53ea6832ef882a9980
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 10%
@@ -13,25 +13,11 @@ ht-degree: 10%
 # [!DNL Marketo Engage] 教程 {#tutorials}
 
 + [[!DNL Marketo Engage] 教程](overview.md)
-+ 跨渠道营销 {#cross-channel-marketing}
-   + [集成移动营销](cross-channel-marketing/mobile-marketing-learn.md)
-   + [移动营销演示](cross-channel-marketing/mobile-marketing-watch.md)
-   + [社交营销](cross-channel-marketing/social-marketing-learn.md)
-   + [社交营销演示](cross-channel-marketing/social-marketing-watch.md)
-   + [Web个性化](cross-channel-marketing/web-personalization-learn.md)
-   + [Web个性化演练](cross-channel-marketing/web-personalization-watch.md)
-   + [SEO和PPC](cross-channel-marketing/seo-and-ppc-learn.md)
-   + [SEO和PPC演练](cross-channel-marketing/seo-and-ppc-watch.md)
-+ 动态聊天 {#dynamic-chat}
-   + [动态聊天教程](dynamic-chat/dynamic-chat-overview.md)
-   + [产品导览](dynamic-chat/product-tour.md)
-   + [安装](dynamic-chat/setup.md)
-   + [Marketo集成](dynamic-chat/marketo-integration.md)
-   + [用户管理](dynamic-chat/user-management.md)
-   + [对话框管理](dynamic-chat/dialogue-management.md)
-   + [会议预订](dynamic-chat/meeting-booking.md)
-   + [15分钟后上线](dynamic-chat/go-live-in-15-minutes.md)
-   + [在对话中嵌入PDF](dynamic-chat/document-cloud-integration.md)
++ 基础 {#fundamentals}
+   + [目标和战略](fundamentals/goals-and-strategy-learn.md)
+   + [组织结构](fundamentals/organizational-structure-learn.md)
+   + [内容营销](fundamentals/content-marketing-learn.md)
+   + [买家角色](fundamentals/buyer-personas-learn.md)
 + 电子邮件营销 {#email-marketing}
    + [计划电子邮件](email-marketing/scheduled-email-learn.md)
    + [计划的电子邮件演示](email-marketing/scheduled-email-watch.md)
@@ -44,7 +30,6 @@ ht-degree: 10%
    + [登陆页面 ](email-marketing/landing-pages-learn.md)
    + [登陆页面演练](email-marketing/landing-pages-watch.md)
    + [Forms](email-marketing/forms-learn.md)
-   + [Forms演练](email-marketing/forms-watch.md)
    + [电子邮件投放能力](email-marketing/email-deliverability-learn.md)
    + [电子邮件投放能力演练](email-marketing/email-deliverability-watch.md)
    + [触发的电子邮件](email-marketing/triggered-email-learn.md)
@@ -52,20 +37,34 @@ ht-degree: 10%
    + [铅培养](email-marketing/lead-nuturing-learn.md)
    + [动态和预测内容](email-marketing/dynamic-and-predictive-content-learn.md)
    + [筛选电子邮件机器人活动 — 设置](filtering-email-bot-activities/setup.md)
-+ 事件 {#events}
-   + [事件](events/events-learn.md)
++ 跨渠道营销 {#cross-channel-marketing}
    + [事件演练](events/events-watch.md)
-   + [设计有效的交互式网络研讨会](events/design-an-effective-interactive-webinar.md)
+   + [Forms演练](email-marketing/forms-watch.md)
+   + [集成移动营销](cross-channel-marketing/mobile-marketing-learn.md)
+   + [移动营销演示](cross-channel-marketing/mobile-marketing-watch.md)
+   + [SEO和PPC](cross-channel-marketing/seo-and-ppc-learn.md)
+   + [SEO和PPC演练](cross-channel-marketing/seo-and-ppc-watch.md)
+   + [社交营销](cross-channel-marketing/social-marketing-learn.md)
+   + [社交营销演示](cross-channel-marketing/social-marketing-watch.md)
    + [网络研讨会](events/webinar-learn.md)
    + [网络研讨会演示](events/webinar-watch.md)
-+ 基础 {#fundamentals}
-   + [目标和战略](fundamentals/goals-and-strategy-learn.md)
-   + [组织结构](fundamentals/organizational-structure-learn.md)
-   + [内容营销](fundamentals/content-marketing-learn.md)
-   + [买家角色](fundamentals/buyer-personas-learn.md)
-+ 实例管理 {#instance-management}
-   + [最佳实践](instance-management/best-practice-learn.md)
-   + [最佳实践演练](instance-management/best-practice-watch.md)
+   + [Web个性化](cross-channel-marketing/web-personalization-learn.md)
+   + [Web个性化演练](cross-channel-marketing/web-personalization-watch.md)
++ 动态聊天 {#dynamic-chat}
+   + [动态聊天教程](dynamic-chat/dynamic-chat-overview.md)
+   + [产品导览](dynamic-chat/product-tour.md)
+   + [安装](dynamic-chat/setup.md)
+   + [Marketo集成](dynamic-chat/marketo-integration.md)
+   + [用户管理](dynamic-chat/user-management.md)
+   + [对话框管理](dynamic-chat/dialogue-management.md)
+   + [会议预订](dynamic-chat/meeting-booking.md)
+   + [15分钟后上线](dynamic-chat/go-live-in-15-minutes.md)
+   + [在对话中嵌入PDF](dynamic-chat/document-cloud-integration.md)
++ 销售分析操作 {#sales-insight-actions}
+   + [概述](sales-insight-actions/overview.md)
+   + [销售分析操作概述](sales-insight-actions/sales-insight-actions-overview.md)
+   + [访问您的Sales Insight Actions实例](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [将销售活动日志记录配置为 [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 潜在客户和数据管理 {#lead-and-data-management}
    + [商机评分](lead-and-data-management/lead-scoring-learn.md)
    + [商机评分演示](lead-and-data-management/lead-scoring-watch.md)
@@ -74,11 +73,12 @@ ht-degree: 10%
    + [CRM同步](lead-and-data-management/crm-sync-learn.md)
    + [潜在客户生命周期](lead-and-data-management/lead-lifecycle-learn.md)
    + [潜在客户生命周期演示](lead-and-data-management/lead-lifecycle-watch.md)
-+ 销售分析操作 {#sales-insight-actions}
-   + [概述](sales-insight-actions/overview.md)
-   + [销售分析操作概述](sales-insight-actions/sales-insight-actions-overview.md)
-   + [访问您的Sales Insight Actions实例](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [将销售活动日志记录配置为 [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ 实例管理 {#instance-management}
+   + [最佳实践](instance-management/best-practice-learn.md)
+   + [最佳实践演练](instance-management/best-practice-watch.md)
++ 事件 {#events}
+   + [事件](events/events-learn.md)
+   + [设计有效的交互式网络研讨会](events/design-an-effective-interactive-webinar.md)
 + 隐藏 {#hidden}
    + [Marketo和Mochas铅评分](events/marketo-and-mochas/lead-scoring.md)
    + [Marketo和Mochas Marketo Measure归因](events/marketo-and-mochas/attribution.md)
