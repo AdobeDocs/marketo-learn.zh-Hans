@@ -15,7 +15,7 @@ ht-degree: 19%
 浏览我们的教程库并充分利用 [!DNL Marketo Engage]. 这些教程可帮助补充 [[!DNL Marketo] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} 帮助您更好地了解营销自动化功能。
 
 <div id="whats-new-section">
-## 新增功能
+##新增功能
 
 最近添加的 [!DNL Marketo Engage] 教程：
 
