@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
-source-git-commit: c5b64aee7dad048693b846c65c32f215a767ba29
+source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 10%
+source-wordcount: '214'
+ht-degree: 9%
 
 ---
 
@@ -57,8 +57,14 @@ ht-degree: 10%
    + [会议预订](dynamic-chat/meeting-booking.md)
    + [15分钟后上线](dynamic-chat/go-live-in-15-minutes.md)
    + [在对话中嵌入PDF](dynamic-chat/document-cloud-integration.md)
+   + [在流设计器中搜索](dynamic-chat/search-in-stream-designer.md)
+   + [捕获推断属性](dynamic-chat/capture-inferred-attributes.md)
+   + [对话框预览](dynamic-chat/dialogue-preview.md)
+   + [参与度报告](dynamic-chat/engagement-report.md)
+   + [静态内容的全球化](dynamic-chat/globalization-of-static-content.md)
+   + [角色和权限](dynamic-chat/roles-and-permissions.md)
 + 销售分析操作 {#sales-insight-actions}
-   + [概览](sales-insight-actions/overview.md)
+   + [概述](sales-insight-actions/overview.md)
    + [销售分析操作概述](sales-insight-actions/sales-insight-actions-overview.md)
    + [访问您的Sales Insight Actions实例](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [将销售活动日志记录配置为 [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
