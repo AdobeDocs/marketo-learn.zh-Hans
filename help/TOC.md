@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
-source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
+source-git-commit: aaa97cd7837810f7c213ed46d849cc875d0bff18
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 9%
+source-wordcount: '217'
+ht-degree: 10%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 9%
    + [组织结构](fundamentals/organizational-structure-learn.md)
    + [内容营销](fundamentals/content-marketing-learn.md)
    + [买家角色](fundamentals/buyer-personas-learn.md)
+   + [项目和营销策划](fundamentals/programs-and-campaigns.md)
 + 电子邮件营销 {#email-marketing}
    + [计划电子邮件](email-marketing/scheduled-email-learn.md)
    + [计划的电子邮件演示](email-marketing/scheduled-email-watch.md)
@@ -60,7 +61,7 @@ ht-degree: 9%
    + [在流设计器中搜索](dynamic-chat/search-in-stream-designer.md)
    + [捕获推断属性](dynamic-chat/capture-inferred-attributes.md)
    + [对话框预览](dynamic-chat/dialogue-preview.md)
-   + [参与度报告](dynamic-chat/engagement-report.md)
+   + [参与报告](dynamic-chat/engagement-report.md)
    + [静态内容的全球化](dynamic-chat/globalization-of-static-content.md)
    + [角色和权限](dynamic-chat/roles-and-permissions.md)
 + 销售分析操作 {#sales-insight-actions}

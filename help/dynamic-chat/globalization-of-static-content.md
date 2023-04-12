@@ -7,13 +7,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12966
 thumbnail: 3416924.jpeg
-source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
+exl-id: 19ccc619-50f9-4737-875c-8f87f55a0183
+source-git-commit: 7e4dd6f3d2e3a34751dcdc047337bea0d9c955bf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # 静态内容的全球化
 

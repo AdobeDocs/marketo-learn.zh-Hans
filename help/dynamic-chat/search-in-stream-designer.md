@@ -7,13 +7,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12968
 thumbnail: 3416925.jpeg
-source-git-commit: 329d52c42598f86a0b5d43b401351fe9fa1fef8f
+exl-id: 598814fc-75f4-46b8-8975-c0a1c43b92ea
+source-git-commit: 7e4dd6f3d2e3a34751dcdc047337bea0d9c955bf
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
-
 
 # 在流设计器中搜索
 
