@@ -6,7 +6,7 @@ exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: aad9219bab058bbd3773b2bcac6726f30e6641fd
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 8%
    *我们可以利用Munchkin ID根据通过动态聊天捕获的每个潜在客户识别并填充推断出的属性。*
 * **[对话框预览](dialogue-preview.md)**
    *使用对话框预览功能，在发布之前预览对话框非常简单。*
-* **[参与度报告](engagement-report.md)**
+* **[参与报告](engagement-report.md)**
    *查看Web访客与对话互动的趋势*
 * **[静态内容的全球化](globalization-of-static-content.md)**
    *您可以将静态/系统内容个性化为所选的语言。*
