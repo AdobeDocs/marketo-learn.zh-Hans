@@ -1,12 +1,12 @@
 ---
 title: Marketo Engage教程
-description: 观看视频教程(位于 [!DNL Marketo Engage]. 帮助您更好地了解如何使用营销自动化功能等内容。
+description: 观看关于  [!DNL Marketo Engage] 的视频教程。帮助您更好地了解如何使用营销自动化等功能。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: c6472ca19d0fcf147d53de6ecb8f263f41046e7b
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 19%
+ht-degree: 21%
 
 ---
 
