@@ -3,7 +3,7 @@ title: Marketo Engage教程
 description: 观看关于  [!DNL Marketo Engage] 的视频教程。帮助您更好地了解如何使用营销自动化等功能。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 49cb28338f1b0701f9c1c6df334435d59961ef4d
+source-git-commit: 59d9ded613045d0ea7345b496e1a9656bf1e3295
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 21%
@@ -27,7 +27,7 @@ ht-degree: 21%
 * **[[!DNL Sales Insight Actions] 教程](/help/sales-insight-actions/overview.md)**
    _使用 [!UICONTROL 销售分析操作] 通过营销支持的智能和参与工具在单个工作流中一起加速潜在客户开发工作。_
 
-* **[筛选电子邮件机器人活动教程](filtering-email-bot-activities/setup.md)**
+* **[筛选电子邮件机器人活动教程](/help/filtering-email-bot-activities/setup.md)**
 
    _该指南可帮助您启用由机器人识别电子邮件活动的功能，以及如何过滤和创建除机器人之外的营销活动。_
 
