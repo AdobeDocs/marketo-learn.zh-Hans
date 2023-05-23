@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13258
 thumbnail: 3419622.jpeg
-source-git-commit: 8c30b7b2784f54bd1d29207fbecc522963a33103
+source-git-commit: 4db7653b7d3f978d47b5f01feee30ef07c6334f3
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
