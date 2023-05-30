@@ -1,12 +1,13 @@
 ---
 title: 集成移动营销
-description: 了解如何通过移动设备的便利性创建实时和个人连接，与购买者建立关系。
+description: 了解如何通过方便的移动设备创建实时和个人连接，从而与买家发展关系。
+feature: null
 role: User
 level: Beginner
 kt: 10727
 thumbnail: 345403.jpeg
 exl-id: 4fb8e452-11d0-4d89-85c2-5a9ed097853b
-source-git-commit: abd1129f903ade72bf1dbfeea0bc22ffc5552242
+source-git-commit: 965e7fd5cbac9eb7b34398b9317143b0e8418ba6
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -15,6 +16,6 @@ ht-degree: 0%
 
 # 将移动营销与Marketo集成
 
-如今，随着技术的泛滥，移动营销是最迫切的应用策略之一。 了解如何通过移动设备的便利性创建实时和个人连接，与购买者建立关系。
+随着科技的不断涌现，移动营销已成为企业必须采取的策略之一。 了解如何通过方便的移动设备创建实时和个人连接，从而与买家发展关系。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on)
