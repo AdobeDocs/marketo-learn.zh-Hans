@@ -1,5 +1,5 @@
 ---
-title: Marketo Engage教學課程
+title: Marketo Engage教程
 description: 观看关于  [!DNL Marketo Engage] 的视频教程。帮助您更好地了解如何使用营销自动化等功能。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
@@ -10,34 +10,34 @@ ht-degree: 21%
 
 ---
 
-# [!DNL Marketo Engage] 教學課程
+# [!DNL Marketo Engage] 教程
 
-瀏覽我們的教學課程庫並充份運用 [!DNL Marketo Engage]. 這些教學課程可協助補充 [[!DNL Marketo] 產品檔案](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} 協助您進一步瞭解行銷自動化功能。
+浏览我们的教程库并充分利用 [!DNL Marketo Engage]. 这些教程可帮助补充 [[!DNL Marketo] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} 以帮助您更好地了解营销自动化功能。
 
 <div id="whats-new-section">
 
 ## 新增功能
 
-最近新增 [!DNL Marketo Engage] 教學課程：
+最近添加 [!DNL Marketo Engage] 教程：
 
-* **[[!UICONTROL Dynamic Chat]  教學課程](/help/dynamic-chat/dynamic-chat-overview.md)**
+* **[[!UICONTROL Dynamic Chat]  教程](/help/dynamic-chat/dynamic-chat-overview.md)**
 
    _利用这些教程和文档，您可以进一步了解如何使用 Dynamic Chat 创建个性化对话。_
 
-* **[[!DNL Sales Insight Actions] 教學課程](/help/sales-insight-actions/overview.md)**
-   _使用 [!UICONTROL 銷售分析動作] 透過行銷支援的智慧和參與工具，在單一工作流程中加速開發潛在客戶。_
+* **[[!DNL Sales Insight Actions] 教程](/help/sales-insight-actions/overview.md)**
+   _使用 [!UICONTROL 销售分析操作] 利用营销支持的智能和参与工具在单个工作流中共同加快发现潜在客户的工作。_
 
-* **[篩選電子郵件機器人活動教學課程](/help/filtering-email-bot-activities/setup.md)**
+* **[筛选电子邮件机器人活动教程](/help/filtering-email-bot-activities/setup.md)**
 
-   _本指南可協助您啟用由機器人識別電子郵件活動的功能，以及如何篩選及建立排除機器人的行銷活動。_
+   _该指南可帮助您启用按机器人识别电子邮件活动，以及如何过滤和创建排除机器人的营销活动。_
 
-* **[整合行動裝置行銷](/help/cross-channel-marketing/mobile-marketing-learn.md)**
+* **[集成移动营销](/help/cross-channel-marketing/mobile-marketing-learn.md)**
 
-   _瞭解如何透過方便的行動裝置建立即時和個人連線，以與您的買家建立關係。_
+   _了解如何通过方便的移动设备创建实时和个人连接，从而与买家发展关系。_
 
-* **[動態和預測性內容](/help/email-marketing/dynamic-and-predictive-content-learn.md)**
+* **[动态和预测内容](/help/email-marketing/dynamic-and-predictive-content-learn.md)**
 
-   _瞭解如何使用Marketo Content AI，以及如何在使用Marketo時套用動態內容。_
+   _了解如何使用Marketo Content AI以及在使用Marketo时如何应用动态内容。_
 
 </div>
 <div id="recs-overview-body-1"></div>
