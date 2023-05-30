@@ -1,14 +1,18 @@
 ---
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+title: 了解项目和活动
+description: 通过制定内容营销策略，吸引、获取和吸引受众。
+role: User
+level: Beginner
+kt: 13203
+thumbnail: 3418042.jpg
+source-git-commit: 512f8725093d655a2145551f06b73831c6185d0d
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '20'
 ht-degree: 0%
 
 ---
-title：瞭解方案和行銷活動說明：透過開發內容行銷策略，吸引、贏取對象並與之互動。
-角色：使用者層級：初級kt：13203縮圖： 3418042.jpg
----
 
-# 瞭解方案和行銷活動
+
+# 了解项目和活动
 
 {{$include /help/_includes/incl-programs-and-campaigns.md}}
