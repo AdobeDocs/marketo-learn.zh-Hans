@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
-source-git-commit: 688b3906f03b84e9d5e7233a2646fec76976aa93
+source-git-commit: 5b30792d417c8ff5f9102c580fe218c9f4c6de25
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 8%
@@ -20,7 +20,7 @@ ht-degree: 8%
    + [买家角色](/help/fundamentals/buyer-personas-learn.md)
    + [项目和活动](/help/fundamentals/programs-and-campaigns.md)
    + [在UI中导航](/help/fundamentals/ui-navigation.md)
-   + [了解项目和活动](help/fundamentals/understand-programs-and-campaigns.md)
+   + [了解项目和活动](/help/fundamentals/understand-programs-and-campaigns.md)
 + 项目和活动 {#programs}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
    + [默认程序](/help/programs/default-programs.md)
