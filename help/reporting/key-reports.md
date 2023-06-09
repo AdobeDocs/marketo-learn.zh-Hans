@@ -6,10 +6,10 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-05-30T00:00:00Z
 jira: KT-13261
-thumbnail: KT-13261.jpeg
+thumbnail: 3420138.jpeg
 hide: true
 hidefromtoc: true
-source-git-commit: 4ee9eb7ba27db04d9272cf171c986da72e0ee538
+source-git-commit: fe4e45fbf2394ffcb2ec9218bd2487d6048c3b8b
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
