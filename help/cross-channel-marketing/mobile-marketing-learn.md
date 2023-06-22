@@ -3,10 +3,10 @@ title: 集成移动营销
 description: 了解如何通过方便的移动设备创建实时和个人连接，从而与买家发展关系。
 role: User
 level: Beginner
-kt: 10727
+jira: KT-10727
 thumbnail: 345403.jpeg
 exl-id: 4fb8e452-11d0-4d89-85c2-5a9ed097853b
-source-git-commit: 688b3906f03b84e9d5e7233a2646fec76976aa93
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%

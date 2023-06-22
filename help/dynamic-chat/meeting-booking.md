@@ -3,10 +3,10 @@ title: 使受众能够与您的销售团队预约会议
 description: 使用Dynamic Chat加快与销售人员的沟通 [!DNL target] 潜在客户。
 role: User
 level: Beginner
-kt: 9696
+jira: KT-9696
 thumbnail: 340258.jpeg
 exl-id: ad61b583-b62a-45a3-afca-7533891a224b
-source-git-commit: 6014e75c879589770cfb5dcdc3ad19be80269ced
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

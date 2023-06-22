@@ -1,12 +1,12 @@
 ---
 title: 了解如何设置和管理订阅中心
-description: 难以与订阅者通信？ 让他们告诉您他们想要的通信，以及他们希望从您那里听到的频率。 了解如何创建和管理订阅中心以开发适当的终止时间和流程。
+description: 难以与订阅者沟通？ 让他们告诉您他们想要什么沟通方式以及他们想要从您那里听到多少信息。 了解如何创建和管理订阅中心以制定适当的节奏和流程。
 role: User
 level: Beginner
-kt: 10742
+jira: KT-10742
 thumbnail: 345426.jpeg
 exl-id: 969ce461-d932-44ea-90b2-975fa79525c2
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # 了解如何设置和管理订阅中心
 
-难以与订阅者通信？ 让他们告诉您他们想要的通信，以及他们希望从您那里听到的频率。 了解如何创建和管理订阅中心以开发适当的终止时间和流程。
+难以与订阅者沟通？ 让他们告诉您他们想要什么沟通方式以及他们想要从您那里听到多少信息。 了解如何创建和管理订阅中心以制定适当的节奏和流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on)

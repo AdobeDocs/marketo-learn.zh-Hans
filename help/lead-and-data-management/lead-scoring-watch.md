@@ -1,20 +1,20 @@
 ---
-title: 如何构建商机评分程序
-description: 观看如何构建商机评分操作计划、在营销活动中使用令牌以及导入预建营销活动。
+title: 如何构建商机评分计划
+description: 观看如何构建商机评分运营计划、在营销活动中使用令牌以及导入预建的营销活动。
 role: User
 level: Beginner
-kt: 10741
+jira: KT-10741
 thumbnail: 345425.jpeg
 exl-id: ee60e851-afc0-4094-8131-9d3593f73dd8
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# 如何构建商机评分程序
+# 如何构建商机评分计划
 
-观看如何构建商机评分操作计划、在营销活动中使用令牌以及导入预建营销活动。
+观看如何构建商机评分运营计划、在营销活动中使用令牌以及导入预建的营销活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on)

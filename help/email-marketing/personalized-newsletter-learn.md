@@ -1,20 +1,20 @@
 ---
-title: 了解如何创建个性化的新闻稿电子邮件程序……（标题不得超过60个字符）
-description: 使用个性化电子邮件快讯以经济高效的方式与潜在客户和客户互动。
+title: 了解如何创建个性化的新闻稿电子邮件计划……（标题不应超过60个字符）
+description: 使用个性化的电子邮件新闻稿，以经济高效的方式与潜在客户和客户接洽。
 role: User
 level: Beginner
-kt: 10751
+jira: KT-10751
 thumbnail: 345471.jpeg
 exl-id: 35f33547-49ff-4e2e-a4b8-2cf8aa21d385
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# 了解如何创建个性化的新闻稿电子邮件程序……（标题不得超过60个字符）
+# 了解如何创建个性化的新闻稿电子邮件计划……（标题不应超过60个字符）
 
-使用个性化电子邮件快讯以经济高效的方式与潜在客户和客户互动。
+使用个性化的电子邮件新闻稿，以经济高效的方式与潜在客户和客户接洽。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on)

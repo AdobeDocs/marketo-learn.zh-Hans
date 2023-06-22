@@ -1,20 +1,20 @@
 ---
-title: 了解制定营销目标和策略
-description: 如果所有营销工作都符合支持组织目标的策略，您将能够更好地证明项目和营销策划的价值。
+title: 了解如何制定营销目标和策略
+description: 当您的所有营销工作都适合支持组织目标的策略时，您将能够更好地证明项目和营销活动的价值。
 role: User
 level: Beginner
-kt: 10735
+jira: KT-10735
 thumbnail: 345419.jpeg
 exl-id: 8fda2fba-97df-48f0-a1ce-37d60eaa3730
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# 了解制定营销目标和策略
+# 了解如何制定营销目标和策略
 
-如果所有营销工作都符合支持组织目标的策略，您将能够更好地证明项目和营销策划的价值。 了解如何通过制定营销目标和策略来集中您的工作。
+当您的所有营销工作都适合支持组织目标的策略时，您将能够更好地证明项目和营销活动的价值。 了解如何通过制定营销目标和策略来集中您的工作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345419/?quality=12&learn=on)
