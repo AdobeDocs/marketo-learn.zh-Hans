@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
-source-git-commit: 709d91f881ea8ea0c851c5fc03939ca3bfa842f7
+source-git-commit: cce7cf1bf7dee93837ab399a0b4cfc79bfa925bf
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '259'
 ht-degree: 8%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 8%
    + [买家角色](/help/fundamentals/buyer-personas-learn.md)
    + [项目和活动](/help/fundamentals/programs-and-campaigns.md)
    + [在UI中导航](/help/fundamentals/ui-navigation.md)
-   + [了解项目和活动](/help/fundamentals/understand-programs-and-campaigns.md)
 + 项目和活动 {#programs-and-campaigns}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
    + [默认程序](/help/programs/default-programs.md)
@@ -37,7 +36,7 @@ ht-degree: 8%
    + [封闭式内容选件演练](/help/email-marketing/gated-content-offer-watch.md)
    + [A/B测试](/help/email-marketing/ab-testing-learn.md)
    + [A/B测试演练](/help/email-marketing/ab-testing-watch.md)
-   + [登陆页面 ](/help/email-marketing/landing-pages-learn.md)
+   + [登陆页面](/help/email-marketing/landing-pages-learn.md)
    + [登陆页面演练](/help/email-marketing/landing-pages-watch.md)
    + [Forms](/help/email-marketing/forms-learn.md)
    + [电子邮件可投放性](/help/email-marketing/email-deliverability-learn.md)
