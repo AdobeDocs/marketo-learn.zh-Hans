@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
-source-git-commit: 964c933df83b3f915785c5c7c4ccf4cfeacb74dc
+source-git-commit: 0ae3946dbb09034052fefc66019d0b1a2ea942e4
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '271'
 ht-degree: 8%
 
 ---
@@ -22,12 +22,13 @@ ht-degree: 8%
    + [在UI中导航](/help/fundamentals/ui-navigation.md)
 + 项目和活动 {#programs-and-campaigns}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
-   + [默认程序](/help/programs/default-programs.md)
-   + [利用默认程序的灵活性](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [电子邮件程序](/help/programs/email-programs.md)
+   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
    + [活动项目群](/help/programs/event-programs.md)
    + [参与计划](/help/programs/engagement-programs.md)
-   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
+   + [电子邮件程序](/help/programs/email-programs.md)
+   + [默认程序]{#default-programs}
+      + [创建和测量默认程序](/help/programs/create-and-measure-default-programs.md)
+      + [利用默认程序的灵活性](/help/programs/leverage-the-flexibility-of-default-programs.md)
 + 电子邮件营销 {#email-marketing}
    + [计划的电子邮件](/help/email-marketing/scheduled-email-learn.md)
    + [计划的电子邮件演练](/help/email-marketing/scheduled-email-watch.md)
