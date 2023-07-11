@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
-source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
+source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '277'
 ht-degree: 8%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 8%
    + [买家角色](/help/fundamentals/buyer-personas-learn.md)
    + [项目和活动](/help/fundamentals/programs-and-campaigns.md)
    + [在UI中导航](/help/fundamentals/ui-navigation.md)
+   + [组织新实例的最佳实践](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+   + [创建基础项目的最佳实践](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
 + 项目和活动 {#programs-and-campaigns}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
@@ -87,9 +89,6 @@ ht-degree: 8%
    + [CRM同步](/help/lead-and-data-management/crm-sync-learn.md)
    + [潜在客户生命周期](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [潜在客户生命周期演练](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ 实例管理 {#instance-management}
-   + [最佳实践](/help/instance-management/best-practice-learn.md)
-   + [最佳实践演练](/help/instance-management/best-practice-watch.md)
 + 事件 {#events}
    + [活动演练](/help/events/events-watch.md)
    + [创建事件程序](/help/events/events-learn.md)
