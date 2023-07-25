@@ -8,7 +8,8 @@ last-substantial-update: 2023-05-30T00:00:00Z
 jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
-source-git-commit: b23ba9f2bf8ebc824385649b9d5b9b464eb2af97
+feature: Smart Campaigns
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%

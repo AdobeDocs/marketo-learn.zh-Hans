@@ -7,13 +7,14 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13260
 thumbnail: 3419374.jpeg
-source-git-commit: 512f8725093d655a2145551f06b73831c6185d0d
+exl-id: 5261f631-04ba-49b8-95fb-b8af48e5dd91
+feature: Programs
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # 参与计划
 

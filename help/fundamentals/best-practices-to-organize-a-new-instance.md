@@ -7,7 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
-source-git-commit: 8aeef083b27c23dac3828db9519e0cbd79f31f7e
+feature: Getting Started
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%

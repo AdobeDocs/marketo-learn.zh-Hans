@@ -6,7 +6,8 @@ level: Beginner
 jira: KT-10726
 thumbnail: 345404.jpeg
 exl-id: 4bd03272-cd14-43b7-9bbb-ef1cd9c3b0a5
-source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
+feature: Web Personalization
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%

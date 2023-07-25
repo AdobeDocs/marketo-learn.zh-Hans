@@ -6,7 +6,8 @@ level: Beginner
 jira: KT-10754
 thumbnail: 345473.jpeg
 exl-id: 0cf8cd90-04eb-486b-aea6-10c6b8f62298
-source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
+feature: Programs, Events
+source-git-commit: a80bf39486992aa7a11988e6517197860b60e6c2
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

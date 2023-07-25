@@ -5,7 +5,8 @@ doc-type: overview-page
 role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
-source-git-commit: 464d3912cb244b764b4dc6ee70919104104bdab9
+feature: Dynamic Chat
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 9%

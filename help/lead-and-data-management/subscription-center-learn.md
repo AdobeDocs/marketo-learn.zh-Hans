@@ -6,7 +6,8 @@ level: Beginner
 jira: KT-10742
 thumbnail: 345426.jpeg
 exl-id: 969ce461-d932-44ea-90b2-975fa79525c2
-source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
+feature: Deliverability
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

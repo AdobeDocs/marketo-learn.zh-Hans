@@ -5,7 +5,8 @@ doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 6570cbdbdc4403b24b8c0bdbf4d064d326925b92
+feature: Sales Insight Actions
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%

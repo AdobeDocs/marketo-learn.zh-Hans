@@ -6,7 +6,8 @@ level: Beginner
 jira: KT-10239
 thumbnail: 342164.jpeg
 exl-id: d0e8df26-e09e-4330-a74b-06c81ed7ce14
-source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
+feature: Dynamic Chat
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

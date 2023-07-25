@@ -9,13 +9,14 @@ jira: KT-13261
 thumbnail: 3420138.jpeg
 hide: true
 hidefromtoc: true
-source-git-commit: fe4e45fbf2394ffcb2ec9218bd2487d6048c3b8b
+exl-id: 6110c26a-5920-4b98-82fa-bbe76f402a71
+feature: Reporting
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Engage中的关键报表
 
