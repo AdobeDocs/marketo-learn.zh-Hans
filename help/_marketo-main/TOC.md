@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 8%
+source-wordcount: '295'
+ht-degree: 7%
 
 ---
 
@@ -32,13 +32,17 @@ ht-degree: 8%
       + [创建和测量默认程序](/help/programs/create-and-measure-default-programs.md)
       + [利用默认程序的灵活性](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [参与计划](/help/programs/engagement-programs.md)
+   + 参与图 {#engagement-maps}
+      + [参与图概述](help/campaigns/engagement-maps/engagement-map-overview.md)
+      + [参与度图嵌套营销活动](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [参与图错误检测和解决](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + 电子邮件营销 {#email-marketing}
    + [计划的电子邮件](/help/email-marketing/scheduled-email-learn.md)
    + [计划的电子邮件演练](/help/email-marketing/scheduled-email-watch.md)
    + [个性化新闻稿](/help/email-marketing/personalized-newsletter-learn.md)
    + [个性化新闻稿演练](/help/email-marketing/personalized-newsletter-watch.md)
    + [封闭式内容选件](/help/email-marketing/gated-content-offer-learn.md)
-   + [封闭式内容选件演练](/help/email-marketing/gated-content-offer-watch.md)
+   + [封闭式内容提供演练](/help/email-marketing/gated-content-offer-watch.md)
    + [A/B测试](/help/email-marketing/ab-testing-learn.md)
    + [A/B测试演练](/help/email-marketing/ab-testing-watch.md)
    + [登陆页面](/help/email-marketing/landing-pages-learn.md)
@@ -46,9 +50,9 @@ ht-degree: 8%
    + [Forms](/help/email-marketing/forms-learn.md)
    + [电子邮件可投放性](/help/email-marketing/email-deliverability-learn.md)
    + [电子邮件可投放性演练](/help/email-marketing/email-deliverability-watch.md)
-   + [触发的电子邮件](/help/email-marketing/triggered-email-learn.md)
+   + [触发式电子邮件](/help/email-marketing/triggered-email-learn.md)
    + [触发了电子邮件演练](/help/email-marketing/triggered-email-watch.md)
-   + [潜在客户培养](/help/email-marketing/lead-nuturing-learn.md)
+   + [引导培养](/help/email-marketing/lead-nuturing-learn.md)
    + [动态和预测内容](/help/email-marketing/dynamic-and-predictive-content-learn.md)
    + [筛选电子邮件机器人活动 — 设置](/help/filtering-email-bot-activities/setup.md)
 + 跨渠道营销 {#cross-channel-marketing}
@@ -64,7 +68,7 @@ ht-degree: 8%
 + Dynamic Chat {#dynamic-chat}
    + [Dynamic Chat教程](/help/dynamic-chat/dynamic-chat-overview.md)
    + [产品导览](/help/dynamic-chat/product-tour.md)
-   + [设置和安装](/help/dynamic-chat/setup.md)
+   + [安装和安装](/help/dynamic-chat/setup.md)
    + [Marketo集成](/help/dynamic-chat/marketo-integration.md)
    + [用户管理](/help/dynamic-chat/user-management.md)
    + [对话框管理](/help/dynamic-chat/dialogue-management.md)
@@ -80,11 +84,11 @@ ht-degree: 8%
 + 销售分析操作 {#sales-insight-actions}
    + [概述](/help/sales-insight-actions/overview.md)
    + [销售分析操作概述](/help/sales-insight-actions/sales-insight-actions-overview.md)
-   + [访问您的Sales Insight操作实例](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [访问您的销售分析操作实例](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [将销售活动日志记录配置到 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 潜在客户和数据管理 {#lead-and-data-management}
    + [商机评分](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [销售线索评分演练](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [领先得分演练](/help/lead-and-data-management/lead-scoring-watch.md)
    + [订阅中心](/help/lead-and-data-management/subscription-center-learn.md)
    + [订阅中心演练](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM同步](/help/lead-and-data-management/crm-sync-learn.md)
@@ -98,6 +102,6 @@ ht-degree: 8%
    + [设计高效的交互式网络研讨会](/help/events/design-an-effective-interactive-webinar.md)
 + 报告和分析 {#reporting}
    + [报告和分析](/help/reporting/reporting-and-analytics.md)
-   + [关键报告](/help/reporting/key-reports.md)
+   + [关键报表](/help/reporting/key-reports.md)
 + 集成 {#integrations}
    + [Marketo与Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html){target="_blank"}
