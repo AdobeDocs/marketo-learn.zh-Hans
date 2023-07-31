@@ -3,13 +3,13 @@ title: 设计高效的交互式网络研讨会
 description: 了解如何创建和设计有效的交互式网络研讨会
 jira: KT-13352
 thumbnail: 3418602.jpeg
+feature: Events
 role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-feature: Programs, Events
-source-git-commit: fe4a644f5d0289c0e9cc93788e4e6c490a30b5cf
+source-git-commit: d251bb97c6484f90b55aa2c4901065f74af33448
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
