@@ -1,21 +1,21 @@
 ---
-title: 如何通过Web个性化吸引访客
-description: 观看如何连接 [!DNL Marketo] 数位广告LaunchPoint合作伙伴的电子邮件。
+title: 如何使用Web个性化吸引访客
+description: 观看如何连接 [!DNL Marketo] 我们的一些数字广告LaunchPoint合作伙伴。
 role: User
 level: Beginner
 jira: KT-10726
 thumbnail: 345404.jpeg
 exl-id: 4bd03272-cd14-43b7-9bbb-ef1cd9c3b0a5
 feature: Web Personalization
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# 如何通过Web个性化吸引访客
+# 如何使用Web个性化吸引访客
 
-观看如何连接 [!DNL Marketo] 数位广告LaunchPoint合作伙伴的电子邮件。
+观看如何连接 [!DNL Marketo] 我们的一些数字广告LaunchPoint合作伙伴。
 
->[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}

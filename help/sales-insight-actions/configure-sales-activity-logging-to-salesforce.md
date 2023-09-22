@@ -1,22 +1,22 @@
 ---
-title: 将销售活动日志记录配置到 [!DNL Salesforce]
-description: 将销售活动日志记录配置到 [!DNL Salesforce]
+title: 将Sales Activity日志记录配置到 [!DNL Salesforce]
+description: 将Sales Activity日志记录配置到 [!DNL Salesforce]
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
 
-# 将销售活动日志记录配置到 [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
+# 将Sales Activity日志记录配置到 [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
 
 了解如何配置销售分析操作活动并将其记录到您的 [!DNL Salesforce] 帐户。
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
 
 ## 相关视频
 

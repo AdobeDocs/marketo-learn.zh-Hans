@@ -9,9 +9,9 @@ jira: KT-12967
 thumbnail: 3416920.jpeg
 exl-id: ac7de00d-9093-427a-bbf7-c26a703d9c63
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 了解如何创建新角色并为Dynamic Chat用户设置权限。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416920/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416920/?quality=12&learn=on){transcript=true}
 
 ## 更有用的视频
 

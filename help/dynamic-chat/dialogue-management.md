@@ -7,9 +7,9 @@ jira: KT-9698
 thumbnail: 340259.jpeg
 exl-id: 1c02fc09-feec-4506-9941-76ceeb1e3520
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 设计有针对性的个性化对话是为每个Web访客创造出色的对话体验的关键。 了解如何创建和管理对话。
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
 
 ## 更有用的视频
 
