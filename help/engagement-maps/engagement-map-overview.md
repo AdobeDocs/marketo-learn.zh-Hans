@@ -9,16 +9,16 @@ hidefromtoc: false
 last-substantial-update: 2023-07-31T00:00:00Z
 jira: KT-13740
 thumbnail: 3422232.jpeg
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+exl-id: 9bb2499e-8a0c-4fdc-89c8-ef467cafc363
+source-git-commit: 5f39a3d1a845aad7faf5fce1f9de4deae93495af
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '29'
 ht-degree: 0%
 
 ---
 
-
 # 参与图概述
 
-了解如何使用参与图构建可重复使用的营销活动并提高速度
+了解参与度图如何提高营销活动速度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
