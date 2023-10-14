@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '307'
 ht-degree: 8%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 8%
    + [组织新实例的最佳实践](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳实践](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用令牌进行个性化](/help/personalization/personalize-with-tokens.md)
-   + [继承的实例审核](/help/fundamentals/inherted-instance-audit.md)
+   + [审核继承的实例](/help/fundamentals/inherted-instance-audit.md)
 + 项目和活动 {#programs-and-campaigns}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
@@ -91,8 +91,8 @@ ht-degree: 8%
    + [访问您的销售分析操作实例](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [将销售活动日志记录配置到 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 潜在客户和数据管理 {#lead-and-data-management}
-   + [商机评分](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [领先得分演练](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [商机/人员评分](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [负责人/人员评分演练](/help/lead-and-data-management/lead-scoring-watch.md)
    + [订阅中心](/help/lead-and-data-management/subscription-center-learn.md)
    + [订阅中心演练](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM同步](/help/lead-and-data-management/crm-sync-learn.md)

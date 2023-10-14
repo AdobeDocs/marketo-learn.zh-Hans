@@ -10,9 +10,9 @@ last-substantial-update: 2023-08-08T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
 hide: true
-source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
+source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在本教程中，我们将向您介绍Marketo Engage中最重要的部分，包括“管理员”、“营销活动”、“设计工作室”和“数据库”，并在此过程中向您提供有关审核和优化的提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
