@@ -6,7 +6,8 @@ breadcrumb-url: /docs/marketo-learn/auditing-an-inherited-instance/overview.html
 index: false
 role: Admin
 level: Beginner
-source-git-commit: 0e41f837cf57388986614455f6f16fd9041ac0e7
+auto-video-transcripts: true
+source-git-commit: c2b949e268e66a0d85c251658a49048e451fac1e
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 3%
