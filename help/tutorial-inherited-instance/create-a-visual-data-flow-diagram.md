@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-03T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 94ed2bdf9c0427e4d18c04921b55008773b6736a
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 创建可视化数据流图以了解您的营销技术栈栈
 
-作为接管项目的管理员 [!DNL Marketo Engage] 对于已经存在多年的实例，这就像是一项不可能对其进行高效审核和清理的任务。 Adobe时间 [!DNL Marketo Champion]，Kelly Jo Horton，进入了一个历史悠久的实例后，她通过以下方式应对了这一挑战 [创建“潜在客户和数据源”的图表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} 熟悉数据世界。 在本教程中，您将了解如何通过构建Kelly Jo Horton分享的示例来创建自己的数据流图。 让我们了解一下您的MarTech生态系统！
+作为接管项目的管理员 [!DNL Marketo Engage] 对于已经存在多年的实例，这就像是一项不可能对其进行高效审核和清理的任务。 Adobe时间 [!DNL Marketo Champion] (2019)凯莉·乔·霍顿(Kelly Jo Horton)进入了一个历史悠久的阶段，她通过以下方式应对这一挑战 [创建“潜在客户和数据源”的图表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} 熟悉数据世界。 在本教程中，您将了解如何通过构建Kelly Jo Horton分享的示例来创建自己的数据流图。 让我们了解一下您的MarTech生态系统！
 
 ## 为何要为继承的实例创建架构图？
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 ## 作者
 
 **凯莉·乔·霍顿**\
-AdobeMarketo冠军校友
+AdobeMarketo王(2019)
 *Etumos高级客户合作伙伴*
 
 ![凯莉·乔·霍顿](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
