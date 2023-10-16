@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%

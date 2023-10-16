@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 当您步入旧版时 [!DNL Marketo Engage] 例如，它往往伴随着缺乏最新功能和技术文档的挑战。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 这是关键策略之一， [在既定Marketo Engage实例中工作时，提高效率](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-此分步教程源自 [!DNL Adobe Marketo Champion]，Nick Hajdin，将指导您完成此过程，以概要说明实例设置，记录主要运行程序，并维护 [!DNL changelog] 实施严格的治理政策。
+此分步教程源自 [!DNL Adobe Marketo Champion] (2018) Nick Hajdin将指导您完成此过程，以概要说明您的实例设置，记录您的主要运行程序，并维护 [!DNL changelog] 实施严格的治理政策。
 
 ## 为何要为继承的实例开发实例治理指南和文档？
 

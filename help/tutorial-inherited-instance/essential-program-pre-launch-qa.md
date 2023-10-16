@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-06T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
-source-wordcount: '5428'
+source-wordcount: '5436'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 如果您是 [!DNL Marketo Engage] 管理员或营销运营团队的成员，正确审查项目配置对于避免面对客户的错误至关重要。 虽然您可以从错误中吸取教训来限制错误，但这不是一个可扩展的过程。 了解如何在构建者和高级用户/审阅者之间设计和运行项目启动前质量保证(QA)流程，这有助于节省时间、防止错误并更快地培训内部用户。
 
-在本教程中，您将学习如何 [!DNL Marketo Engage] 管理员可以开发项目启动前QA流程，以帮助内部团队进行扩展。 项目启动前检查清单源自AdobeMarketo Champion(20) Grace Brebner ，它用作示例向您介绍关键元素和要求。
+在本教程中，您将学习如何 [!DNL Marketo Engage] 管理员可以开发项目启动前QA流程，以帮助内部团队进行扩展。 项目启动前核对清单，源自AdobeMarketo Champion (2021)； [格雷斯·布雷布纳的博客帖子](https://nation.marketo.com/t5/champion-program-blogs/the-ultimate-go-live-checklist/ba-p/245759)以为例，逐步说明关键元素和要求。
 
 ## 为何要设计项目启动前QA流程？
 
@@ -129,9 +129,9 @@ ht-degree: 1%
 |---|---|---|---|---|
 | 1 | **准确度** | 是否已检查、审核所有必要的智能营销活动，并认为它们准确？ | **是：** <br>如果您无法以“是”回答问题，则应在继续之前修复并检查这些内容。 | [智能营销活动核对清单](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.html){target="_blank"} |
 | 2 | **发送计数** | 如果您的电子邮件发送营销活动是批处理营销活动（未触发），请查看“计划”选项卡中的潜在客户计数 — 数字是否与您期望一致？ 它是否低于中止阈值？ | **是：** <br>如果您无法以“是”回答问题，则应在继续之前修复并检查这些内容。 | [计划您的电子邮件计划](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.html){target="_blank"} |
-| 3 | **主要规则** | 是否在适当或适当时使用主要分段/列表？ | **是或不适用：**<br> 主列表/分段旨在减少必须引用的字段数并降低人为错误的风险。 如果您不使用主列表/分段，那么您应该对规则充满信心。 |  |
+| 3 | **主要规则** | 是否在适当或适当时使用主要分段/列表？ | **是或不适用：**<br> 主要列表/分段旨在减少必须引用的字段数并降低人为错误的风险。 如果不使用主列表/分段，您应该对规则充满信心。 |  |
 | 4 | **归因** | 如果程序正在获取新的潜在客户（例如，事件程序），是否根据需要包含归因设置？ 是否正在映射客户获取计划？ | **是或不适用：** <br>如果您将人员导入项目，或者项目将获取新人员，则应当使用客户获取项目设置。 |  |
-| 5 | **参与计划** | 在参与项目中使用Smart Campaign时，是否执行了相应的步骤来确保根据需要添加、暂停和重新启动成员？ 这些步骤是否已经过其他人审核？ | **是或不适用：**<br> 如果这是参与计划，并且您无正当理由无法通过“是”回答，则在实施此计划之前请勿激活。 | [将人员添加到参与计划](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html){target="_blank"} |
+| 5 | **参与计划** | 在参与计划中使用智能营销活动时，是否执行了相应的步骤来确保根据需要添加、暂停和重新启动成员？ 这些步骤是否已经过其他人审核？ | **是或不适用：**<br> 如果这是参与计划，并且您无正当理由无法通过“是”回答，则在实施该计划之前请不要激活。 | [将人员添加到参与计划](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html){target="_blank"} |
 | 6 | **订阅首选项** | 是否已包括所有必要的订阅首选项因素？ | **是或不适用：**<br> 如果您不确定，请咨询您的 [!DNL Marketo Engage] 管理员。 您需要有充分理由才能继续进行N/A（例如，操作性发送）。 | [如何设置和管理订阅中心](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html){target="_blank"} |
 | 7 | **项目状态** | 是否包括更新项目状态的流程步骤？ | **是：** <br>如果您无法通过“是”选项回答，则应将它们添加到Smart Campaign流程步骤中。 | [更改项目状态](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.html){target="_blank"} |
 | 8 | **更广泛的影响** | <li>是否有任何流程步骤向同步到其他团队/系统的字段发送警报/写入？ <li>如果是，是否考虑到了数量，并向这些团队/系统的利益相关者提供了建议？ | **是、否或不适用：**<br> 任何答案都可以，但如果它确实有映射，您通常应该通知系统拥有者。 如果您不确定，请咨询您的管理员。 |  |
@@ -147,7 +147,7 @@ ht-degree: 1%
 | 1 | **逻辑** | 如果使用智能列表来识别受众的任何部分，那么是否已检查、审核逻辑并将其视为准确？ | **是：** <br>如果无法以“是”回答问题，则应修复智能列表设置，并在继续操作之前检查这些设置。 |  |
 | 2 | **列出导入流程** | 如果使用静态列表来识别受众的任何部分，数据源是否可信，以及是否根据列表导入流程准确完成了导入？ | **是：** <br>如果无法用是回答，则应当修复列表数据并检查这些数据，然后再继续。 | [在静态列表中添加/删除人员的方法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.html){target="_blank"}<br><br>[导入人员列表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html#step-import-your-spreadsheet-into-marketo) |
 | 3 | **排除项** | 列入阻止列表是否包含任何必需的排除项（例如，竞争对手、取消订阅项） | **是或不适用：** <br>您必须过滤掉取消订阅内容，除非您有很好的法律合规理由，不这样做。 如果没有包括任何这些内容，您应该对您的内容、活动规则和法律基础充满信心。 | [了解取消订阅](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html){target="_blank"}<br><br>[Change Data Value](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html){target="_blank"} |
-| 4 | **主列表** | 是否在适当时使用主要列表/分段？ | **是或不适用：** 主列表/分段旨在减少必须引用的字段数并降低人为错误的风险。 如果不使用主列表/分段，您应该对规则有信心。 | [定义区段规则](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html) |
+| 4 | **主要列表** | 是否在适当时使用主要列表/分段？ | **是或不适用：** 主要列表/分段旨在减少必须引用的字段数并降低人为错误的风险。 如果不使用主列表/分段，您应该对规则充满信心。 | [定义区段规则](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html) |
 
 >[!TAB 受众]
 
@@ -174,7 +174,7 @@ ht-degree: 1%
 | 8 | **文本版本** | <li>您是否创建了电子邮件的文本版本？ <li>您是否给自己发送了文本版本的测试？ | **是：**<br> 如果您无法以“是”回答问题，则应在继续之前进行测试。 |
 | 9 | **文本版本优化** | <li>文本版本的布局是否已优化？<li>是否显示任何HTML评论？<li>是否包含所有相关内容？ | **是：**<br> 自动生成的文本版本可能难以阅读 — 值得对其进行优化。 | [编辑电子邮件的文本版本](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.html){target="_blank"} |
 | 10 | **文本版本超链接和UTMS** | 超链接是否适用于这些区域并包括UTM？ :<ul><li>标题部分</li><li>图像区域（如果包含）</li><li>正文</li><li>CTA</li>页脚</li></ul> | **是：**<br> 如果您无法以“是”回答问题，则应在继续之前修复并检查这些内容。 自动文本版本无法可靠地提取变量！ |  |
-| 11 | **HTML/主版本** | <li>您是否创建了电子邮件的HTML/主要版本？<li>你给自己送去试试了吗？ | **是（除非仅使用纯文本）：**<br> 如果您无法回答“是”，则应在继续之前给自己发送测试。 | [编辑电子邮件的HTML](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.html){target="_blank"} |
+| 11 | **HTML/主版本** | <li>您是否创建了电子邮件的HTML/主版本？<li>你给自己送去试试了吗？ | **是（除非仅使用纯文本）：**<br> 如果您无法回答“是”，则应在继续之前给自己发送测试。 | [编辑电子邮件的HTML](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.html){target="_blank"} |
 | 12 | **图像** | <li>所有图像都有替换文本吗？ <li>是否有图像损坏？ | **是或不适用：**<br>. 如果无法以是回答问题，则应在继续操作之前修复并检查这些内容（除非没有图像）。 |  |
 | 13 | **图像压缩** | <li>您的图像编辑软件是否已为Web保存了所有图像？ <li>上传前是否进行了压缩？ <li>电子邮件加载时间是否可接受？ | **是或不适用：**<br>&#x200B;应压缩所有图像（如果使用的话）以提高加载速度。 | 您的hero images应小于120kb，并且所有较小的图像应更小。 高加载时间将影响性能。 |
 | 14 | **HTML版本超链接和UTM** | 是否所有超链接都有效，并包含这些区域的UTM？ :<ul><li>标题部分</li><li>图像区域（如果包含）</li><li>正文</li><li>CTA</li>页脚</li></ul> | **是：**<br> 不发送断开的链接。 如果您无法回答“是”，请先修复，然后再继续。 |  |

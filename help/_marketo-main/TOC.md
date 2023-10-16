@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '314'
 ht-degree: 8%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 8%
    + [组织新实例的最佳实践](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳实践](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用令牌进行个性化](/help/personalization/personalize-with-tokens.md)
-   + [审核继承的实例](/help/fundamentals/inherted-instance-audit.md)
+   + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + 项目和活动 {#programs-and-campaigns}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
    + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
