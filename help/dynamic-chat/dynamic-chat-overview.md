@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '369'
 ht-degree: 10%
 
 ---
@@ -48,6 +48,8 @@ ht-degree: 10%
      *使用对话框预览功能，在发布之前预览对话框非常简单。*
    * **[静态内容全球化](globalization-of-static-content.md)**
      *您可以将静态/系统内容个性化为您选择的语言。*
+   * **[会话表单](conversational-forms.md)**
+     *了解如何在网站访客填写表单后立即与其接洽。*
 * Live Chat和会议预订
    * **[设置实时聊天](set-up-live-chat.md)**
      *了解如何设置实时聊天。*
