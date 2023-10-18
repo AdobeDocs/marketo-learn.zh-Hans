@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '321'
 ht-degree: 9%
 
 ---
@@ -69,13 +69,15 @@ ht-degree: 9%
    + [Web个性化演练](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
    + [Dynamic Chat教程](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [产品导览](/help/dynamic-chat/product-tour.md)
+   + [产品导览[2023]](/help/dynamic-chat/product-tour.md)
+   + [产品导览[2022]](/help/dynamic-chat/product-tour-2022.md)
    + [安装和安装](/help/dynamic-chat/setup.md)
    + [Marketo集成](/help/dynamic-chat/marketo-integration.md)
    + [用户管理](/help/dynamic-chat/user-management.md)
    + [会话表单](/help/dynamic-chat/conversational-forms.md)
+   + [对话SDK](/help/dynamic-chat/conversations-sdk.md)
    + [对话框管理](/help/dynamic-chat/dialogue-management.md)
-   + [设置实时聊天](/help/dynamic-chat/set-up-live-chat.md)
+   + [将访客连接到实时代理](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [代理管理](/help/dynamic-chat/agent-management.md)
    + [会议预订](/help/dynamic-chat/meeting-booking.md)
    + [15分钟后上线](/help/dynamic-chat/go-live-in-15-minutes.md)

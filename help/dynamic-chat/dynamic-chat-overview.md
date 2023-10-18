@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 10%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 10%
 欢迎使用 [!UICONTROL Dynamic Chat]  教程网站。 使用这些教程和文档来帮助您更好地了解如何使用 [!UICONTROL Dynamic Chat]  创建个性化对话。 以下主题可以帮助您入门：
 
 * 概述
-   * **[快速产品导览](product-tour.md)**
+   * **[快速产品导览[2023]](product-tour.md)**
+     *大致了解2023年发布的所有新功能。*
+   * **[快速产品导览[2022]](product-tour.md)**
      *获取整个产品的概述，并了解如何利用这一功能 [!UICONTROL Dynamic Chat].*
    * **[15分钟后上线](go-live-in-15-minutes.md)**
      *分步指南可帮助您使用启用第一个对话框 [!UICONTROL Dynamic Chat]  15分钟搞定！*
@@ -50,9 +52,11 @@ ht-degree: 10%
      *您可以将静态/系统内容个性化为您选择的语言。*
    * **[会话表单](conversational-forms.md)**
      *了解如何在网站访客填写表单后立即与其接洽。*
+   * **[对话SDK](conversations-sdk.md)**
+     *了解如何实施Conversations SDK以将任何CTA点击转换为吸引人的对话。*
 * Live Chat和会议预订
-   * **[设置实时聊天](set-up-live-chat.md)**
-     *了解如何设置实时聊天。*
+   * **[将访客连接到实时代理](connect-visitors-to-live-agents.md)**
+     *连接您的合格销售线索以立即与销售代理接洽。*
    * **[使您的潜在客户能够与您的销售人员预约会议](meeting-booking.md)**
      *加快与销售人员的联系 [!DNL target] 具有会议预订功能的帐户。*
 * Analytics
