@@ -10,17 +10,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
-source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
+source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
 
 # Microsoft Dynamics同步快速入门
-
-*来源：AdobeMarketo Champions*
 
 了解Microsoft Dynamics 365同步的工作方式并正确配置设置，以允许两个系统相互交谈。 本教程将指导您了解同步的工作原理、下载Marketo商机管理(MLM)解决方案、安装用于服务器到服务器连接的MLM解决方案以及连接两个系统。 我们还会分享有关验证同步、限制已同步记录数量以及估计同步时间的其他提示和技巧，以帮助您设置Microsoft Dynamics同步。
 

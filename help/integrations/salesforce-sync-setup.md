@@ -10,17 +10,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
+source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
 
 # Salesforce同步快速入门
-
-*来源：AdobeMarketo Champions*
 
 了解Marketo Engage和Salesforce如何协同工作，保持销售和营销数据同步。 本教程将指导您了解同步的工作原理、设置同步以正确传输数据以及确保它正常运行所必须检查的事项。 我们分享了管理Salesforce同步的其他提示和技巧，以帮助您选择要同步的字段并隐藏不再需要的字段。
 
