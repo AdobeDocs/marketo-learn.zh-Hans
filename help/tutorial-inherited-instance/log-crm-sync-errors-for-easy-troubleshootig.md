@@ -9,7 +9,7 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: b2659102b57cf86f89d524f4786d3101800a0a38
+source-git-commit: 96ec338944d486b74ac77d91aba3ede482abf135
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 记录CRM同步错误以便轻松进行故障排除
 
-作为Marketo Engage管理员，检查您的实例是否与CRM保持同步应该成为的关键部分。 [每日例程](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (在Marketo Engage界面的右上角找到)在这里，您可以开始查找和调查频繁出现的同步问题，这里有一个专业提示，可帮助您以有条不紊的方式管理实例运行状况。  AdobeMarketo Champion(2022)，Amy Goldfine建议管理员用户保留CRM同步错误的日志，以便更轻松地执行故障排除。
+作为Marketo Engage管理员，检查您的实例是否与CRM保持同步应该成为的关键部分。 [每日例程](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (在Marketo Engage界面的右上角找到)在这里，您可以开始查找和调查频繁出现的同步问题，这里有一个专业提示，可帮助您以有条不紊的方式管理实例运行状况。 AdobeMarketo Champion (2019-2022)，Amy Goldfine建议管理员用户保留CRM同步错误的日志，以便更轻松地执行故障排除。
 
 ![Sync Errors选项卡屏幕截图](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
