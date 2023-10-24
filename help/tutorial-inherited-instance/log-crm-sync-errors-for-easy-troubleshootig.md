@@ -9,9 +9,9 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
+source-git-commit: b2659102b57cf86f89d524f4786d3101800a0a38
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -52,8 +52,8 @@ ht-degree: 0%
 ## 作者
 
 **艾米·戈德法恩**\
-AdobeMarketo冠军（2022年）
-*高级经理，营销运营，可迭代*
+AdobeMarketo王(2019-2022)
+*创始人，MarketingOpsAdvice.com*
 
 ![艾米·戈德法恩](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
