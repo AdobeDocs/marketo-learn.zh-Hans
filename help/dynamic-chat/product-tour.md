@@ -1,6 +1,6 @@
 ---
 title: Dynamic Chat产品导览
-description: 了解Dynamic Chat，这是一种通过Adobe为营销和销售而构建的新聊天解决方案。
+description: 了解 Adobe 提供的面向营销和销售的全新聊天解决方案 Dynamic Chat。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,7 +10,7 @@ thumbnail: 3425033.jpeg
 source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
