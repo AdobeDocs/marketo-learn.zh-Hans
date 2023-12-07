@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 8%
+source-wordcount: '322'
+ht-degree: 7%
 
 ---
 
@@ -87,7 +87,6 @@ ht-degree: 8%
    + [对话框预览](/help/dynamic-chat/dialogue-preview.md)
    + [参与报告](/help/dynamic-chat/engagement-report.md)
    + [静态内容全球化](/help/dynamic-chat/globalization-of-static-content.md)
-   + [角色和权限](/help/dynamic-chat/roles-and-permissions.md)
 + 销售分析操作 {#sales-insight-actions}
    + [概述](/help/sales-insight-actions/overview.md)
    + [销售分析操作概述](/help/sales-insight-actions/sales-insight-actions-overview.md)
@@ -101,7 +100,7 @@ ht-degree: 8%
    + [CRM同步](/help/lead-and-data-management/crm-sync-learn.md)
    + [潜在客户生命周期](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [潜在客户生命周期演练](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ 事件 {#events}
++ 活动 {#events}
    + [活动演练](/help/events/events-watch.md)
    + [创建事件程序](/help/events/events-learn.md)
    + [网络研讨会](/help/events/webinar-learn.md)

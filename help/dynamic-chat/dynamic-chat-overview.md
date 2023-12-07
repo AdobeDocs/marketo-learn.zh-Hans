@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 9%
+source-wordcount: '392'
+ht-degree: 8%
 
 ---
 
@@ -33,8 +33,6 @@ ht-degree: 9%
      *通过对话定位您的Web访客，并使用Marketo中的潜在客户信息对其进行个性化设置。*
    * **[添加和管理用户 [!UICONTROL Dynamic Chat]](user-management.md)**
      *了解如何在中添加或管理用户 [!UICONTROL Dynamic Chat] .*
-   * **[角色和权限](roles-and-permissions.md)**
-     *了解如何创建新角色并为Dynamic Chat用户设置权限。*
    * **[代理管理](agent-management.md)**
      *了解如何管理代理。*
 * 自动聊天
@@ -50,7 +48,7 @@ ht-degree: 9%
      *使用对话框预览功能，在发布之前预览对话框非常简单。*
    * **[静态内容全球化](globalization-of-static-content.md)**
      *您可以将静态/系统内容个性化为您选择的语言。*
-   * **[会话表单](conversational-forms.md)**
+   * **[对话式Forms](conversational-forms.md)**
      *了解如何在网站访客填写表单后立即与其接洽。*
    * **[对话SDK](conversations-sdk.md)**
      *了解如何实施Conversations SDK以将任何CTA点击转换为吸引人的对话。*
