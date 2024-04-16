@@ -3,7 +3,7 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 5b5a85ecff06d79143be92096083e0e9be5da919
+source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 8%
@@ -98,6 +98,8 @@ ht-degree: 8%
    + [订阅中心](/help/lead-and-data-management/subscription-center-learn.md)
    + [订阅中心演练](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM同步](/help/lead-and-data-management/crm-sync-learn.md)
+   + [Salesforce同步快速入门](/help/integrations/salesforce-sync-setup.md)
+   + [Microsoft Dynamics同步快速入门](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [潜在客户生命周期](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [潜在客户生命周期演练](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + 活动 {#events}
@@ -110,6 +112,4 @@ ht-degree: 8%
    + [报告和分析](/help/reporting/reporting-and-analytics.md)
    + [关键报表](/help/reporting/key-reports.md)
 + 集成 {#integrations}
-   + [Salesforce同步快速入门](/help/integrations/salesforce-sync-setup.md)
-   + [Microsoft Dynamics同步快速入门](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Marketo与Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
