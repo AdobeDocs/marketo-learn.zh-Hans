@@ -6,7 +6,7 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
+source-git-commit: b598324c7361191dce365157abbe9a2e45739820
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 8%
@@ -62,5 +62,5 @@ ht-degree: 8%
      *了解如何使用Dynamic ChatGenAI功能。*
 * Analytics
    * **[参与报告](engagement-report.md)**
-     *查看Web访客如何参与您的对话框的趋势*
+     *查看Web访客如何参与您的对话框的趋势。*
 
