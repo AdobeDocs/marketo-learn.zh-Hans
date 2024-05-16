@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
+source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '337'
 ht-degree: 8%
 
 ---
@@ -68,25 +68,32 @@ ht-degree: 8%
    + [Web个性化](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Web个性化演练](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
-   + [Dynamic Chat教程](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [产品导览[2023]](/help/dynamic-chat/product-tour.md)
-   + [产品导览[2022]](/help/dynamic-chat/product-tour-2022.md)
-   + [安装和安装](/help/dynamic-chat/setup.md)
-   + [Marketo集成](/help/dynamic-chat/marketo-integration.md)
-   + [用户管理](/help/dynamic-chat/user-management.md)
-   + [会话表单](/help/dynamic-chat/conversational-forms.md)
-   + [对话SDK](/help/dynamic-chat/conversations-sdk.md)
-   + [对话框管理](/help/dynamic-chat/dialogue-management.md)
-   + [将访客连接到实时代理](/help/dynamic-chat/connect-visitors-to-live-agents.md)
-   + [代理管理](/help/dynamic-chat/agent-management.md)
-   + [会议预订](/help/dynamic-chat/meeting-booking.md)
-   + [15分钟后上线](/help/dynamic-chat/go-live-in-15-minutes.md)
-   + [在对话中嵌入PDF](/help/dynamic-chat/document-cloud-integration.md)
-   + [在流设计器中搜索](/help/dynamic-chat/search-in-stream-designer.md)
-   + [捕获推断的属性](/help/dynamic-chat/capture-inferred-attributes.md)
-   + [对话框预览](/help/dynamic-chat/dialogue-preview.md)
-   + [参与报告](/help/dynamic-chat/engagement-report.md)
-   + [静态内容全球化](/help/dynamic-chat/globalization-of-static-content.md)
+   + 入门 {#dc-overview}
+      + [概述](/help/dynamic-chat/dynamic-chat-overview.md)
+      + [产品导览[2023]](/help/dynamic-chat/product-tour.md)
+      + [产品导览[2022]](/help/dynamic-chat/product-tour-2022.md)
+      + [15分钟后上线](/help/dynamic-chat/go-live-in-15-minutes.md)
+   + 设置 {#dc-setup}
+      + [安装和安装](/help/dynamic-chat/setup.md)
+      + [Marketo集成](/help/dynamic-chat/marketo-integration.md)
+      + [用户管理](/help/dynamic-chat/user-management.md)
+      + [代理管理](/help/dynamic-chat/agent-management.md)
+   + 自动聊天 {#dc-automated-chat}
+      + [对话框管理](/help/dynamic-chat/dialogue-management.md)
+      + [在对话中嵌入PDF](/help/dynamic-chat/document-cloud-integration.md)
+      + [在流设计器中搜索](/help/dynamic-chat/search-in-stream-designer.md)
+      + [捕获推断的属性](/help/dynamic-chat/capture-inferred-attributes.md)
+      + [对话框预览](/help/dynamic-chat/dialogue-preview.md)
+      + [静态内容全球化](/help/dynamic-chat/globalization-of-static-content.md)
+      + [会话表单](/help/dynamic-chat/conversational-forms.md)
+      + [对话SDK](/help/dynamic-chat/conversations-sdk.md)
+   + Live Chat和会议预订 {#dc-live-chat-meeting-booking}
+      + [将访客连接到实时代理](/help/dynamic-chat/connect-visitors-to-live-agents.md)
+      + [会议预订](/help/dynamic-chat/meeting-booking.md)
+   + 创作AI聊天 {#dc-generative-ai-chat}
+      + [推动GenAI支持的对话](/help/dynamic-chat/gen-ai-features.md)
+   + 分析 {#dc-analytics}
+      + [参与报告](/help/dynamic-chat/engagement-report.md)
 + 销售分析操作 {#sales-insight-actions}
    + [概述](/help/sales-insight-actions/overview.md)
    + [销售分析操作概述](/help/sales-insight-actions/sales-insight-actions-overview.md)
