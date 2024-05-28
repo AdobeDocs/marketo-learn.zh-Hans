@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: b598324c7361191dce365157abbe9a2e45739820
+source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 8%
+source-wordcount: '439'
+ht-degree: 7%
 
 ---
 
@@ -52,6 +52,8 @@ ht-degree: 8%
      *了解如何在网站访客填写表单后立即与其接洽。*
    * **[对话SDK](conversations-sdk.md)**
      *了解如何实施Conversations SDK以将任何CTA点击转换为吸引人的对话。*
+   * **[对话式登陆页面](conversational-landing-pages.md)**
+     *只需单击几下，即可将Dynamic Chat会话流安装到任何登陆页面(Marketo登陆页面或自定义)中，并转换任何链接或按钮以触发会话参与。*
 * Live Chat和会议预订
    * **[将访客连接到实时代理](connect-visitors-to-live-agents.md)**
      *连接您的合格销售线索以立即与销售代理接洽。*
@@ -63,4 +65,3 @@ ht-degree: 8%
 * Analytics
    * **[参与报告](engagement-report.md)**
      *查看Web访客如何参与您的对话框的趋势。*
-

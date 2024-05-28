@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 4237a26e3fe7c6b523b59486afdb161d2fad97e5
+source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '326'
 ht-degree: 8%
 
 ---
@@ -84,6 +84,7 @@ ht-degree: 8%
    + [静态内容全球化](/help/dynamic-chat/globalization-of-static-content.md)
    + [会话表单](/help/dynamic-chat/conversational-forms.md)
    + [对话SDK](/help/dynamic-chat/conversations-sdk.md)
+   + [对话式登陆页面](/help/dynamic-chat/conversational-landing-pages.md)
    + [将访客连接到实时代理](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [会议预订](/help/dynamic-chat/meeting-booking.md)
    + [推动GenAI支持的对话](/help/dynamic-chat/gen-ai-features.md)
