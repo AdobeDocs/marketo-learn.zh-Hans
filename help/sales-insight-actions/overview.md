@@ -1,27 +1,23 @@
 ---
-title: 销售分析操作Tutorials
+title: Sales Insight操作Tutorials
 description: 使用 [!UICONTROL 销售分析操作] 利用营销支持的智能和参与工具在单个工作流中共同加快发现潜在客户的工作。
 doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-# 销售分析操作Tutorials
+# Sales Insight操作Tutorials
 
 ![](assets/header.png)
 
 使用 [!UICONTROL 销售分析操作] 利用营销支持的智能和参与工具在单个工作流中共同加快发现潜在客户的工作。
-
->[!AVAILABILITY]
->
->此功能当前处于分阶段推出状态。 请联系您的客户成功经理或发送电子邮件至 `sales-insights(at)adobe(dot)com` 以请求访问权限。
 
 ## 专题Tutorials {#featured-tutorials}
 
@@ -37,7 +33,7 @@ ht-degree: 0%
 </td>
 <td>
 <a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="用于将Sales Activity Logging配置到的缩略图图像 [!DNL Salesforce]" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>将销售活动日志记录配置到 [!DNL Salesforce]</strong></a></div>
+<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>将Sales Activity日志记录配置到 [!DNL Salesforce]</strong></a></div>
 </td>
 </tr>
 </table>
@@ -59,15 +55,7 @@ ht-degree: 0%
 <td>
 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><img alt="操作数据同步常见问题的缩略图图像" src="assets/actions-data-sync-faq-thumb.png" /></a>
 <div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><strong>操作数据同步常见问题解答</strong></a></div>
-<p><em>与数据统一同步如何工作相关的常见问题解答。</em></p>
+<p><em>与数据统一同步的工作方式相关的常见问题解答。</em></p>
 </td>
 </tr>
 </table>
-
-## 个性化支持 {#personalized-support}
-
-要获得此功能的个性化支持，请 [计划呼叫](https://outlook.office365.com/owa/calendar/AdobeInc1@adobe.onmicrosoft.com/bookings/) 与产品团队合作。
-
-## 报告错误/反馈 {#report-a-bug-feedback}
-
-如果您遇到错误，或对此功能有一些一般性的反馈，请发送电子邮件至 `sales-insights(at)adobe(dot)com`.
