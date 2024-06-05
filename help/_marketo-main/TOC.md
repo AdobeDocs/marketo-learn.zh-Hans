@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: e4d3ae7bb16fa9e1ab58a79cedd8378dbbf56794
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '357'
 ht-degree: 8%
 
 ---
@@ -109,7 +109,13 @@ ht-degree: 8%
    + [创建事件程序](/help/events/events-learn.md)
    + [网络研讨会](/help/events/webinar-learn.md)
    + [网络研讨会演练](/help/events/webinar-watch.md)
+   + [交互式网络研讨会用户和许可证管理](/help/events/interactive-webinars-user-and-license-management.md)
+   + [交互式网络研讨会活动项目创建](/help/events/interactive-webinars-event-program-creation.md)
+   + [交互式网络研讨会活动计划概述](/help/events/interactive-webinars-event-program-overview.md)
+   + [交互式网络研讨会事件配置](/help/events/interactive-webinars-event-configuration.md)
    + [设计高效的交互式网络研讨会](/help/events/design-an-effective-interactive-webinar.md)
+   + [交互式网络研讨会事件交付](/help/events/interactive-webinars-event-delivery.md)
+   + [交互式网络研讨会 — 发布事件洞察和操作](/help/events/interactive-webinars-post-event-insights-and-actions.md)
 + 报告和分析 {#reporting}
    + [报告和分析](/help/reporting/reporting-and-analytics.md)
    + [关键报表](/help/reporting/key-reports.md)
