@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '464'
 ht-degree: 7%
 
 ---
@@ -52,6 +52,8 @@ ht-degree: 7%
      *了解如何在网站访客填写表单后立即与其接洽。*
    * **[对话SDK](conversations-sdk.md)**
      *了解如何实施Conversations SDK以将任何CTA点击转换为吸引人的对话。*
+   * **[可重用流](reusable-flows.md)**
+     *使用新的对话流卡简化对话的设计和管理。 创建一次对话流并将其重新用于多个对话框。*
    * **[对话式登陆页面](conversational-landing-pages.md)**
      *只需单击几下，即可将Dynamic Chat会话流安装到任何登陆页面(Marketo登陆页面或自定义)中，并转换任何链接或按钮以触发会话参与。*
 * Live Chat和会议预订
