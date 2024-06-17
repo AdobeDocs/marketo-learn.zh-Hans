@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '370'
 ht-degree: 7%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 7%
 + 基础知识 {#fundamentals}
    + [目标和战略](/help/fundamentals/goals-and-strategy-learn.md)
    + [组织结构](/help/fundamentals/organizational-structure-learn.md)
+   + [迁移到AdobeIdentity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [内容营销](/help/fundamentals/content-marketing-learn.md)
    + [买家角色](/help/fundamentals/buyer-personas-learn.md)
    + [项目和活动](/help/fundamentals/programs-and-campaigns.md)
