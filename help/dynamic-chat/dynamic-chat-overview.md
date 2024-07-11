@@ -1,15 +1,16 @@
 ---
 title: Dynamic Chat教程
 description: 了解 Adobe Experience League 的 Dynamic Chat。利用这些教程和文档，您可以进一步了解如何使用 Dynamic Chat 创建个性化对话。
+short-description: 使用这些教程和产品文档来帮助您更好地了解Dynamic Chat可以使用的各种方式。
 doc-type: overview-page
 role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 7%
+source-wordcount: '486'
+ht-degree: 6%
 
 ---
 
@@ -40,7 +41,7 @@ ht-degree: 7%
      *了解如何创建对话框以快速吸引Web访客 [!UICONTROL Dynamic Chat].*
    * **[在对话中嵌入PDF](document-cloud-integration.md)**
      *在您设计的个性化对话中共享PDF文档 [!UICONTROL Dynamic Chat].*
-   * **[在流设计器中搜索](search-in-stream-designer.md)**
+   * **[在Designer流中搜索](search-in-stream-designer.md)**
      *快速搜索可以帮助您通过一次单击访问流设计器中的任何信息卡。*
    * **[捕获推断的属性](capture-inferred-attributes.md)**
      *我们可以利用Munchkin ID识别并填充通过Dynamic Chat捕获的每个商机的推断属性。*
