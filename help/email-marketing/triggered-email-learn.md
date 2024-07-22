@@ -1,6 +1,6 @@
 ---
 title: 了解如何创建触发的电子邮件营销活动
-description: 了解如何使用 [!DNL Marketo] 利用购买者的行为，通过触发的电子邮件营销活动及时发送相关消息。
+description: 了解如何使用 [!DNL Marketo] 通过触发的电子邮件营销活动与及时相关的消息传递交互，以利用购买者的行为。
 role: User
 level: Beginner
 jira: KT-10762
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 了解如何创建触发的电子邮件营销活动
 
-了解如何使用 [!DNL Marketo] 利用购买者的行为，通过触发的电子邮件营销活动及时发送相关消息。
+了解如何使用[!DNL Marketo]通过触发的电子邮件营销活动与及时相关的消息传递进行交互，以利用购买者的行为。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}

@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 213
 last-substantial-update: 2024-06-05T00:00:00Z
 jira: KT-15684
-source-git-commit: e4d3ae7bb16fa9e1ab58a79cedd8378dbbf56794
+exl-id: 4fcbce7f-4dd0-475b-aa94-26e656db07e6
+source-git-commit: f70d1773f886f2b75bc88a7012be304f5665e40d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
-
 
 # 交互式网络研讨会用户和许可证管理
 

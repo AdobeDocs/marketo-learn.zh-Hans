@@ -1,6 +1,6 @@
 ---
 title: 如何将移动营销与Marketo集成
-description: 观看如何创建买方角色、设置KPI、确定通信节奏和使用 [!DNL Marketo’s] 营销日历等，以改进您的移动营销策略。
+description: 观看如何创建买方角色、设置KPI、确定通信节奏、使用 [!DNL Marketo’s] 营销日历等来改进您的移动营销策略。
 role: User
 level: Beginner
 jira: KT-10729
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 将移动营销与Marketo集成
 
-观看如何创建买方角色、设置KPI、确定通信节奏和使用 [!DNL Marketo] 营销日历等，以改进您的移动营销策略。
+观看如何创建买方角色、设置KPI、确定通信节奏、使用[!DNL Marketo]营销日历等，以改进您的移动营销策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}

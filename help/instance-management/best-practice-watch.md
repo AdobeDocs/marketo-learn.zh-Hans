@@ -1,5 +1,5 @@
 ---
-title: 使用方法 [!DNL Marketo] 实例和计划最佳实践
+title: 如何使用 [!DNL Marketo] 实例和程序最佳实践
 description: 观看如何在Marketo中实施Marketo建议的项目和实例最佳实践。
 role: User
 level: Beginner
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# 使用方法 [!DNL Marketo] 实例和计划最佳实践
+# 如何使用[!DNL Marketo]实例和程序最佳实践
 
 观看如何在Marketo中实施Marketo建议的项目和实例最佳实践。
 

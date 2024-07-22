@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14162
 thumbnail: 3424868.jpeg
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+exl-id: 50dd76d7-bd0c-4d5a-9094-579c92e54164
+source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 4%
 
 ---
-
 
 # 会话表单
 

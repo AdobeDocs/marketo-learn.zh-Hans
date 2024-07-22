@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 307
 last-substantial-update: 2024-06-05T00:00:00Z
 jira: KT-15699
-source-git-commit: e4d3ae7bb16fa9e1ab58a79cedd8378dbbf56794
+exl-id: b47b34b5-7992-41ed-a0cd-516c5ff358b9
+source-git-commit: f70d1773f886f2b75bc88a7012be304f5665e40d
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
 
 ---
-
 
 # 交互式网络研讨会事件配置
 

@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2024-05-16T00:00:00Z
 jira: KT-15521
-source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
+exl-id: 345a68ba-3fd1-46a3-9576-99bf425c507e
+source-git-commit: c7338871a357c3df1a2f3787a0d3cdbd7316a510
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
-
 
 # Dynamic Chat的创成式人工智能特征
 

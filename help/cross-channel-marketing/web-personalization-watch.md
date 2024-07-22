@@ -1,6 +1,6 @@
 ---
 title: 如何使用Web个性化吸引访客
-description: 观看如何连接 [!DNL Marketo] 我们的一些数字广告LaunchPoint合作伙伴。
+description: 观看如何将 [!DNL Marketo] 连接到我们的几个数字广告LaunchPoint合作伙伴。
 role: User
 level: Beginner
 jira: KT-10726
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 如何使用Web个性化吸引访客
 
-观看如何连接 [!DNL Marketo] 我们的一些数字广告LaunchPoint合作伙伴。
+观看如何将[!DNL Marketo]连接到我们的几个数字广告LaunchPoint合作伙伴。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}

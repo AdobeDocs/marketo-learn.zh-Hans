@@ -9,11 +9,11 @@ jira: KT-13261
 thumbnail: 3420138.jpeg
 hide: false
 hidefromtoc: false
-exl-id: 6110c26a-5920-4b98-82fa-bbe76f402a71
+exl-id: c2973736-d4dc-492f-8815-9bc93dc5a870
 feature: Reporting
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,10 @@ ht-degree: 0%
 
 阅读相关的产品指南：
 
-* [报表类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [报告类型概述](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
 
 向同行学习：
 
-* [专家客户博客文章：Chelsea Kiko如何在各种Marketo Engage领域进行报告](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
-* [专家客户网络研讨会：Courtney Tobe讲授基础知识](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
-* [专家客户网络研讨会：如何使用Britney Young构建全面的ROI报告策略](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)
+* [专家客户博客文章：Chelsea Kiko如何在各种Marketo Engage空间中进行报告](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* [专家客户网络研讨会：与Courtney Tobe一起参加基础知识讲座](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
+* [专家客户网络研讨会：如何与Britney Young一起构建全面的ROI报告策略](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)

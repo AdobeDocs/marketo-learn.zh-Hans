@@ -1,6 +1,6 @@
 ---
 title: Sales Insight操作Tutorials
-description: 使用 [!UICONTROL 销售分析操作] 利用营销支持的智能和参与工具在单个工作流中共同加快发现潜在客户的工作。
+description: 使用[!UICONTROL 销售分析操作]，通过一个工作流将营销支持的智能和参与工具一起用于加快发现潜在客户的工作。
 doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/header.png)
 
-使用 [!UICONTROL 销售分析操作] 利用营销支持的智能和参与工具在单个工作流中共同加快发现潜在客户的工作。
+使用[!UICONTROL 销售分析操作]，通过一个工作流将营销支持的智能和参与工具一起用于加快发现潜在客户的工作。
 
 ## 专题Tutorials {#featured-tutorials}
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 </td>
 <td>
 <a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="用于访问Sales Insight Actions实例的缩略图" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>访问您的Sales Insight操作实例</strong></a></div>
+<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>访问您的销售分析操作实例</strong></a></div>
 </td>
 <td>
 <a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="用于将Sales Activity Logging配置到的缩略图图像 [!DNL Salesforce]" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>将Sales Activity日志记录配置到 [!DNL Salesforce]</strong></a></div>
+<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>将销售活动日志记录配置到[!DNL Salesforce]</strong></a></div>
 </td>
 </tr>
 </table>
@@ -48,8 +48,8 @@ ht-degree: 0%
 <p><em>利用营销支持的智能和参与工具加快发现潜在客户的工作。</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="缩略图图像 [!DNL Sales Insight Actions] 用户入门指南" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] 用户入门指南</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="[!DNL Sales Insight Actions]用户入门指南的缩略图图像" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions]用户入门指南</strong></a></div>
 <p><em>新用户开始使用时需要遵循的步骤。</em></p>
 </td>
 <td>

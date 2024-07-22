@@ -7,11 +7,11 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-08T00:00:00Z
 jira: KT-13202
 thumbnail: 3419131.jpeg
-exl-id: b4c7aeb6-d1f9-4164-a318-3e12b0e8aaea
+exl-id: e2872743-f55a-43fa-a550-17bd5d104c49
 feature: Modern UX
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [Marketo Engage术语表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* [Marketo Engage词汇表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
 使用Marketo时可能会遇到的许多术语的定义。
 * [图标术语表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
 Marketo Engage界面的图标词汇表。

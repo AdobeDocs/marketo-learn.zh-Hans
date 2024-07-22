@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# 添加和管理用户 [!UICONTROL Dynamic Chat]
+# 添加和管理[!UICONTROL Dynamic Chat]的用户
 
-管理您的 [!UICONTROL Dynamic Chat]  用户通过Adobe Admin Console访问。
+通过Adobe Admin Console管理您的[!UICONTROL Dynamic Chat]用户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
 
 ## 更有用的视频
 
 * [创建和管理个性化对话](dialogue-management.md)
-* [激活您的Marketo集成 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [激活与[!UICONTROL Dynamic Chat]的Marketo集成](marketo-integration.md)
 * [使您的潜在客户能够与您的销售人员预约会议](meeting-booking.md)

@@ -20,5 +20,5 @@ ht-degree: 0%
 
 ## 相关视频
 
-* [将Sales Activity日志记录配置到 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [将销售活动日志记录配置到 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
 * [访问您的 [!DNL Sales Insight Actions] 实例](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

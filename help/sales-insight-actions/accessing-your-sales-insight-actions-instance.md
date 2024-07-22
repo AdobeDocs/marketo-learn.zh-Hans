@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # 访问您的Sales Insight操作实例 {#accessing-your-sales-insight-actions-instance}
 
-此视频概要介绍如何访问 [!UICONTROL 销售分析操作] 帐户以创建内容、配置您的帐户、邀请新用户等。
+本视频概述了如何访问您的[!UICONTROL 销售分析操作]帐户以创建内容、配置您的帐户、邀请新用户等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
 
 ## 相关视频
 
 * [销售分析操作概述](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [将Sales Activity日志记录配置到 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [将销售活动日志记录配置到 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}

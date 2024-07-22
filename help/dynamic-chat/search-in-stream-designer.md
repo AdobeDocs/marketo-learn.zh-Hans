@@ -26,4 +26,4 @@ ht-degree: 0%
 
 * [对话框预览](dialogue-preview.md)
 * [创建和管理个性化对话](dialogue-management.md)
-* [激活您的Marketo集成 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [激活与[!UICONTROL Dynamic Chat]的Marketo集成](marketo-integration.md)

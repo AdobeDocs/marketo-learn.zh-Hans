@@ -1,6 +1,6 @@
 ---
-title: 了解如何使用 [!DNL Marketo] 实例和计划最佳实践
-description: 关注 [!DNL Marketo's] 组织项目和实例的建议最佳实践可以帮助您和您的同事在需要时找到实例中的所需内容，并帮助您更准确地报告。
+title: 了解如何使用 [!DNL Marketo] 实例和程序最佳实践
+description: 按照 [!DNL Marketo's] 关于组织计划和实例的建议最佳实践，可以帮助您和您的同事在需要时在实例中找到您需要的内容，并有助于使您的报告更准确。
 role: User
 level: Beginner
 jira: KT-10736
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 了解如何使用 [!DNL Marketo] 实例和计划最佳实践
+# 了解如何使用[!DNL Marketo]实例和程序最佳实践
 
-关注 [!DNL Marketo's] 组织项目和实例的建议最佳实践可以帮助您和您的同事在需要时找到实例中的所需内容，并帮助您更准确地报告。
+按照[!DNL Marketo's]建议的组织项目和实例的最佳实践操作，可以帮助您和您的同事在需要时找到实例中所需的内容，并帮助您更准确地报告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}

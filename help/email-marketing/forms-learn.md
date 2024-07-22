@@ -1,6 +1,6 @@
 ---
 title: 了解如何创建和编辑表单
-description: 使用 [!DNL Marketo forms] 用于在潜在客户访问您的网站时逐步捕获人员数据。
+description: 当潜在客户访问您的网站时，使用 [!DNL Marketo forms] 逐步捕获人员数据。
 role: User
 level: Beginner
 jira: KT-10755
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 了解如何创建和编辑表单
 
-使用 [!DNL Marketo forms] 用于在潜在客户访问您的网站时逐步捕获人员数据。
+当潜在客户访问您的网站时，使用[!DNL Marketo forms]逐步捕获人员数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}

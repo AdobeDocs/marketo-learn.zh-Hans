@@ -1,5 +1,5 @@
 ---
-title: 了解如何通过以下方式优化SEO工作 [!DNL Marketo]
+title: 了解如何使用 [!DNL Marketo]优化SEO工作
 description: 您的网站是否会在数百个搜索结果中丢失？ 了解如何通过改进SEO和PPC策略来提高品牌知名度。
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# 了解如何通过以下方式优化SEO工作 [!DNL Marketo]
+# 了解如何使用[!DNL Marketo]优化您的SEO工作
 
 您的网站是否会在数百个搜索结果中丢失？ 了解如何通过改进SEO和PPC策略来提高品牌知名度。
 

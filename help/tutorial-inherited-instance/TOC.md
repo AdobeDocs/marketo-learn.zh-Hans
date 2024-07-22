@@ -9,8 +9,8 @@ level: Beginner
 auto-video-transcripts: true
 source-git-commit: c2b949e268e66a0d85c251658a49048e451fac1e
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 3%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 3%
 + [制定实例治理指南](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [直观地展示您的营销技术栈栈](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [项目启动前质量保证流程](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Marketo Engage 教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)

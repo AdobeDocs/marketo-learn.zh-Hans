@@ -1,6 +1,6 @@
 ---
 title: 如何构建人员生命周期计划
-description: 创建 [!UICONTROL 人员生命周期] 使用项目状态跟踪您的潜在客户的项目，并作用于那些准备好进行销售的潜在客户。
+description: 创建一个[!UICONTROL 人员生命周期]计划，使用计划状态跟踪您的潜在客户，并对准备销售的潜在客户执行操作。
 role: User
 level: Beginner
 jira: KT-10739
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 如何构建人员生命周期计划
 
-创建 [!UICONTROL 人员生命周期] 使用项目状态跟踪您的潜在客户的项目，并作用于那些准备好进行销售的潜在客户。
+创建一个[!UICONTROL 人员生命周期]计划，使用计划状态跟踪您的潜在客户，并对准备销售的潜在客户执行操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}

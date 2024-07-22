@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2024-05-28T00:00:00Z
 jira: KT-15601
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+exl-id: 8ccce57f-8c12-4d20-87d6-46e1797aa50a
+source-git-commit: 527b2146b5cbfd6261b2ef9edb5f8f5546bd453d
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # 对话式登陆页面
 

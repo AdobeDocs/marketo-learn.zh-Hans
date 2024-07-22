@@ -24,6 +24,6 @@ ht-degree: 7%
 
 ## 更有用的视频
 
-* [添加和管理用户 [!UICONTROL Dynamic Chat]](user-management.md)
+* [添加和管理[!UICONTROL Dynamic Chat]的用户](user-management.md)
 * [创建和管理个性化对话](dialogue-management.md)
-* [激活您的Marketo集成 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [激活与[!UICONTROL Dynamic Chat]的Marketo集成](marketo-integration.md)
