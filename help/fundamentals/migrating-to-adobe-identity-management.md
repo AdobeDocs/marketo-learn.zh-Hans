@@ -7,7 +7,7 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 7cdfe25c955ef1de485d67dc43440554b2237d40
+source-git-commit: 8c9705b79083fd7b143b88800046180c94d377da
 workflow-type: tm+mt
 source-wordcount: '1053'
 ht-degree: 0%
@@ -130,7 +130,7 @@ i.通过单击“接受邀请”按钮并使用Adobe身份登录来接受新的�
 
 我们感谢你在此过渡期间给予的合作。 感谢您对确保系统安全的理解和承诺。
 
-最好的，
+致敬，
 
 `[Your Name]`
 
