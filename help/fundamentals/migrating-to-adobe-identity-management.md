@@ -1,15 +1,15 @@
 ---
 title: 迁移到AdobeIdentity Management
-description: 描述即将推出。
+description: 本教程将帮助您将Marketo Engage订阅和用户迁移到Adobe Admin Console。
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 8c9705b79083fd7b143b88800046180c94d377da
+source-git-commit: 70f6e3cd3e114fd16ddd52f6d1a62fd914788621
 workflow-type: tm+mt
-source-wordcount: '1053'
+source-wordcount: '1070'
 ht-degree: 0%
 
 ---
