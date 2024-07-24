@@ -7,7 +7,7 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 70f6e3cd3e114fd16ddd52f6d1a62fd914788621
+source-git-commit: 247e961f6fcd4ec287c957ac34d557f1ad844f14
 workflow-type: tm+mt
 source-wordcount: '1070'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式。 通过
 
 您可以在&#x200B;**管理员** > **迁移控制台** > **迁移前**&#x200B;中修改迁移日期，以更好地满足内部时间线的要求。 了解有关重新计划以及[修改迁移日期](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}的限制的更多信息。
 
-* 向系统管理员发送电子邮件。
+#### 向系统管理员发送电子邮件 {#send-an-email-to-system-admin}
 
 以下是发送给系统管理员的示例电子邮件。 通常，您的IT部门会管理您的所有Adobe许可证。
 
@@ -90,7 +90,7 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式。 通过
 
 `---------------------------------------------------`
 
-* 向Marketo Engage用户发送电子邮件。
+#### 向Marketo Engage用户发送电子邮件 {#send-an-email-to-marketo-engage-users}
 
 以下是一封示例电子邮件，可用于向没有管理员权限的Marketo Engage用户宣布即将进行的迁移。
 
