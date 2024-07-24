@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
+source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式。 通过
 
 尊敬的`[IT Administrator/NAME]`：
 
-我们的Marketo Engage订阅将很快迁移到AdobeIdentity Management System。 [营销运营团队]需要您的帮助，以便在用户迁移开始之前完成一些必需的步骤，从而最大限度地减少对Marketo Engage用户的影响
+我们的Marketo Engage订阅将很快迁移到AdobeIdentity Management System。 `[Marketing Operation team]`需要您的帮助才能在用户迁移开始之前完成一些必需的步骤，以最大程度地降低对Marketo Engage用户的影响。
 
 `1.`确认该组织是否已在Adobe Admin Console中管理其他Adobe产品，以及Marketo Engage是否会迁移到同一控制台。
 
@@ -77,7 +77,7 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式。 通过
 
 `2.`在Adobe中查找主题行为“管理Adobe Marketo Engage `[Package Tier]`的用户访问权限所需的操作”的电子邮件。 此电子邮件是在我们Admin Console上配置Marketo Engage许可证后发送的。 只有系统管理员会收到此电子邮件。 收到请及时通知我们。
 
-* Adobe可能会寻求您这位用户的系统管理员的同意，以自动将Admin Console迁移到我们组织的现有控制台。 在主题为“管理用户对Adobe Marketo Engage `[Package Tier]`的访问权限所需的操作”的电子邮件中，单击“开始”按钮以导航到同意页面。
+* Adobe可能会寻求您这位用户的系统管理员的同意，以自动将Admin Console迁移到我们组织的现有控制台。 在主题行为“管理用户对Adobe Marketo Engage `[Package Tier]`的访问权限所需的操作”的电子邮件中，单击“开始”按钮以导航到同意页面。
 
 `3.` **可选：**&#x200B;在Adobe Admin Console上设置SSO（单点登录）。
 
@@ -123,12 +123,12 @@ i.您已收到一封包含链接的电子邮件验证请求电子邮件（有效
 i.通过单击“接受邀请”按钮并使用Adobe身份登录来接受新的邀请。
 二、 在Adobe登录页面上，请使用现有的Adobe ID登录。
 
-`3.`联系人：如果在迁移帐户后有任何问题或需要帮助，或者帐户未迁移且无法访问Marketo Engage，请通过[内部联系人电子邮件/电话]联系Marketo Engage迁移团队。
+`3.`联系人：如果在迁移帐户后有任何问题或需要帮助，或者如果帐户未迁移且您失去了Marketo Engage访问权限，请通过`[your internal contact email/phone]`联系Marketo Engage迁移团队。
 
 我们感谢你在此过渡期间给予的合作。 感谢您对确保系统安全的理解和承诺。
 
 最好的，
 
-[您的姓名]
+`[Your Name]`
 
 `---------------------------------------------------`
