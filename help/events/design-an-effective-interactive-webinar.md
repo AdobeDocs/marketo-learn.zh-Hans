@@ -1,7 +1,7 @@
 ---
 title: 设计高效的交互式网络研讨会
-description: 了解如何创建和设计有效的交互式网络研讨会
-short-description: 了解如何设计有效的交互式网络研讨会，这是确保网络研讨会活动富有吸引力且令人难忘的第一步。
+description: 学习如何创建和设计有效的交互式网络研讨会
+short-description: 了解如何设计有效的互动网络研讨会，这是确保您的网络研讨会活动引人入胜且令人难忘的第一步。
 jira: KT-13352
 thumbnail: 3418602.jpeg
 feature: Events
@@ -11,7 +11,7 @@ exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 

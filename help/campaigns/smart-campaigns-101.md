@@ -1,7 +1,7 @@
 ---
 title: Smart Campaigns 101
-description: 了解如何使用Smart Campaigns进行数据标准化和自动警报。
-short-description: 如果Marketo Engage是一辆汽车，那么Smart Campaign就是它的引擎。 智能营销活动可执行的功能超出您的想象，并且可轻松开始使用它们。
+description: 了解如何使用智能营销活动实现数据标准化和自动化警报。
+short-description: 如果说 Marketo Engage 是一辆汽车，那么 Smart Campaign 就是它的引擎。智能活动的功能超乎您的想象，并且可以轻松开始使用它们。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,7 +13,7 @@ feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 33%
 
 ---
 
