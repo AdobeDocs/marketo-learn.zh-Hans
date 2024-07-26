@@ -4,9 +4,10 @@ description: 本教程将帮助您将Marketo Engage订阅和用户迁移到Adobe
 role: User
 level: Beginner
 recommendations: noDisplay, noCatalog
+last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 472e307e05ccdb908e1551c5e351c0e8e9c292d9
+source-git-commit: a1248a4367a283bd1922269db3be8ed146f85648
 workflow-type: tm+mt
 source-wordcount: '1077'
 ht-degree: 0%
