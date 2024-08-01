@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
+source-git-commit: fa58833852b94a41441f39433f2d3ba5c05fa04c
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 ![](assets/header.png)
 
 使用[!UICONTROL 销售分析操作]，通过一个工作流将营销支持的智能和参与工具一起用于加快发现潜在客户的工作。
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions是一个基于Web的应用程序，它通过[Marketo Sales Insight包](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"}专门与Salesforce CRM集成。 它有时称为“Marketo Sales”，或简称为“Actions”。
 
 ## 专题Tutorials {#featured-tutorials}
 
