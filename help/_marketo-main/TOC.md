@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
+source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 7%
+source-wordcount: '381'
+ht-degree: 9%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 7%
    + [创建基础项目的最佳实践](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用令牌进行个性化](/help/personalization/personalize-with-tokens.md)
    + [实施新实例 — 教程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hans)
 + 项目和营销策划{#programs-and-campaigns}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
-   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
+   + [智能营销活动 101](/help/campaigns/smart-campaigns-101.md)
    + [电子邮件程序](/help/programs/email-programs.md)
    + [活动项目群](/help/programs/event-programs.md)
    + 默认程序{#default-programs}
@@ -124,3 +124,4 @@ ht-degree: 7%
    + [关键报表](/help/reporting/key-reports.md)
 + 集成{#integrations}
    + [Marketo与Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [API帮助 — 如何在变量中设置访问令牌](/help/integrations/api-set-access-token-variable.md)
