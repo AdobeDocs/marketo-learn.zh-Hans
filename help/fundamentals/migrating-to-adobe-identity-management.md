@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 17c1894d79f1e5c718409e64d6d34fc1359e0960
+source-git-commit: 820346b8475da5bd0cc5c6652b1cc6367b9fe54e
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1114'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,13 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式。 通过
 
 为了确保您的组织能够将Adobe Marketo Engage迁移到Adobe Admin Console，我们建议遵循以下核对清单以管理即将进行的更改。
 
-### 1.确定您的系统管理员，并讨论可能需要采取的操作 {#identify-your-system-administrators}
+### 1.确定您的系统管理员和IT团队，并讨论他们可能需要采取的操作 {#identify-your-system-administrators}
 
 * 如果您不确定组织中的哪些系统管理员，请联系您的Adobe客户团队或联系Adobe支持`marketocares@marketo.com`。
 
 * 确认您的Marketo Engage订阅将迁移到的Adobe Admin Console(或Adobe组织)。 您可能已拥有用于Dynamic Chat的Adobe Admin Console，这是Marketo Engage中的本机对话自动化工具。 Marketo Engage订阅必须部署在与[Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)相同的组织中
+
+* 请与您的IT团队合作，允许列表本文顶部](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}列出的[中所有Adobe域，以防止迁移到Adobe标识后Marketo Engage访问中断。
 
 * **可选：** [在用户迁移之前实施单点登录(SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}。
 
