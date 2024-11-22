@@ -9,10 +9,12 @@ jira: KT-13219
 thumbnail: 3419295.jpeg
 exl-id: bfe0fe57-0e59-483c-9092-14cc28a986d8
 feature: Reporting
-source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
+hide: true
+hidefromtoc: true
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 2%
 
 ---
 
