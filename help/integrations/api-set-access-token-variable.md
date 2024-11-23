@@ -3,13 +3,13 @@ title: Marketo如何API视频 — 如何在变量中设置访问令牌
 description: 了解如何设置Postman应用程序以及如何利用变量将数据保存到变量中以便可重复使用。
 feature: REST API
 role: Admin, Developer
-level: Advanced
+level: Experienced
 doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
 exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 3243c3047efa1bcb92581a58aafe17689ff945fd
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 24%
