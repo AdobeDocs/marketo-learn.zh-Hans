@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '370'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 9%
    + [内容营销](/help/fundamentals/content-marketing-learn.md)
    + [买家角色](/help/fundamentals/buyer-personas-learn.md)
    + [项目和活动](/help/fundamentals/programs-and-campaigns.md)
-   + [在UI中导航](/help/fundamentals/ui-navigation.md)
    + [组织新实例的最佳实践](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳实践](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用令牌进行个性化](/help/personalization/personalize-with-tokens.md)
@@ -30,12 +29,10 @@ ht-degree: 9%
 + 项目和营销策划{#programs-and-campaigns}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
    + [智能营销活动 101](/help/campaigns/smart-campaigns-101.md)
-   + [电子邮件程序](/help/programs/email-programs.md)
    + [活动项目群](/help/programs/event-programs.md)
    + 默认程序{#default-programs}
       + [创建和测量默认程序](/help/programs/create-and-measure-default-programs.md)
       + [利用默认程序的灵活性](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [参与计划](/help/programs/engagement-programs.md)
    + 参与图{#engagement-maps}
       + [参与图概述](/help/engagement-maps/engagement-map-overview.md)
       + [参与度图嵌套营销活动](/help/engagement-maps/engagement-map-nested-campaign.md)
