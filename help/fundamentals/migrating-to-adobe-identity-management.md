@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 2172f08f9a6171ef3a25cf6250e2f53eab8195fe
+source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
 workflow-type: tm+mt
-source-wordcount: '1170'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,8 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式。 通过
 * 请与您的IT团队合作，允许列表本文顶部[列出的所有Adobe域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}，以防止迁移到Adobe标识后Marketo Engage访问中断。
 
 * **可选：** [在用户迁移之前实施单点登录(SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}。
+
+* **可选：**&#x200B;在用户迁移之前自定义[所需的最长会话生命周期](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}以使Marketo Engage用户保持身份验证。
 
 * 在[示例电子邮件部分](#announce-the-migration-timeline)中了解要与系统管理员通信的内容。
 
@@ -84,9 +86,13 @@ Adobe正在改进您管理Adobe Marketo Engage订阅和用户的方式。 通过
 
 `3.`迁移后，Marketo Engage将从experience.adobe.com提供给Adobe Experience Cloud。 请允许列表本文顶部列出[的所有Adobe域](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}以防止我们的Marketo Engage访问中断。
 
-`4.` **可选：**&#x200B;在Adobe Admin Console上设置SSO（单点登录）。
+`4.` **可选：**&#x200B;在Adobe Admin Console中设置SSO（单点登录）。
 
-* 为了帮助使用SSO登录Adobe身份的用户，请在迁移用户之前协助在Adobe Admin Console上设置SSO。
+* 为了帮助使用SSO登录、使用Adobe标识进行迁移的用户，请在迁移用户之前协助在Adobe Admin Console中设置SSO。
+
+`5.` **可选：**&#x200B;在Adobe Admin Console中设置更长的[最长会话生命周期](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}。
+
+* 要避免用户频繁登录，请在“高级设置”中自定义较长的会话时长。
 
 我们感谢你在此过渡期间给予的合作。 完成这些步骤后，请通知我，以便我继续进行迁移。
 
