@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
+source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 9%
+source-wordcount: '430'
+ht-degree: 8%
 
 ---
 
@@ -121,3 +121,16 @@ ht-degree: 9%
 + 集成{#integrations}
    + [Marketo与Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API帮助 — 如何在变量中设置访问令牌](/help/integrations/api-set-access-token-variable.md)
++ 管理重复项{#manage-duplicates}
+   + [管理重复项简介](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [了解出现重复项的原因](/help/managing-duplicates/why-duplicates-occur.md)
+   + [识别和防止重复记录](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [确定何时需要重复记录](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [手动合并重复记录](/help/managing-duplicates/merge-manually.md)
+   + [批量合并重复项第1部分](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [批量合并重复项第2部分](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [批量合并重复项第3部分](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [自动化复制管理第1部分](/help/managing-duplicates/automate-integration-part-1.md)
+   + [自动化复制管理第2部分](/help/managing-duplicates/automate-integration-part-2.md)
+   + [简化重复管理](/help/managing-duplicates/simplify-acs.md)
+   + [选择管理重复项的最佳策略](/help/managing-duplicates/duplicate-strategy.md)
