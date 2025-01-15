@@ -1,5 +1,5 @@
 ---
-title: 识别和防止Marketo Engage中出现重复记录
+title: 标识和防止Marketo Engage中出现重复记录
 description: 探索用于通过结构化工作流和定期审核查找和防止重复项的工具和提示。
 role: Admin
 level: Intermediate, Experienced
@@ -8,15 +8,15 @@ duration: 0
 last-substantial-update: 2025-01-10T00:00:00Z
 jira: KT-16740
 hidefromtoc: true
-source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
+exl-id: d59faacb-b8c1-431e-844d-f5ef25b2d8eb
+source-git-commit: 921c8c4759efdcb365ff4055838ccffa3d8f567e
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# 识别和防止Marketo Engage中出现重复记录
+# 标识和防止Marketo Engage中出现重复记录
 
 探索用于通过结构化工作流和定期审核查找和防止重复项的工具和提示。
 
