@@ -3,10 +3,10 @@ title: Marketo Engage 教程
 description: 观看有关 [!DNL Marketo Engage]的视频教程。 帮助您更好地了解如何使用营销自动化等功能。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
+source-git-commit: b1bca74399683782c4691882f2239db60d117286
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 24%
+ht-degree: 19%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 24%
 
 ## 新增功能 {#whats-new}
 
+* [实施实时聊天的最佳实践](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+  _了解在Dynamic Chat中实施实时聊天功能时应遵循的最佳实践。_
+
 * [交互式网络研讨会概述](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _了解有关交互式网络研讨会(Marketo Engage中的内置网络研讨会平台)的所有信息。_
 
 * [迁移至Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _了解如何导航Adobe Identity Management迁移，以便您可以在一个中心位置开始为用户管理Adobe Marketo Engage及其他Adobe帐户和产品。_
-
-* [交互式网络研讨会活动后见解和行动](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-  _了解在何处查找有关交互式网络研讨会活动的表现和参与情况的详细信息。_
 
 ## 最受欢迎视频 {#most-popular-videos}
 
