@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '433'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 8%
 + 基础知识{#fundamentals}
    + [目标和战略](/help/fundamentals/goals-and-strategy-learn.md)
    + [组织结构](/help/fundamentals/organizational-structure-learn.md)
-   + [迁移到AdobeIdentity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
+   + [迁移到Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [内容营销](/help/fundamentals/content-marketing-learn.md)
    + [买家角色](/help/fundamentals/buyer-personas-learn.md)
    + [项目和活动](/help/fundamentals/programs-and-campaigns.md)
@@ -65,7 +65,7 @@ ht-degree: 8%
    + [社交媒体营销](/help/cross-channel-marketing/social-marketing-learn.md)
    + [Web个性化](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Web个性化演练](/help/cross-channel-marketing/web-personalization-watch.md)
-+ Dynamic Chat{#dynamic-chat}
++ Dynamic Chat {#dynamic-chat}
    + [概述](/help/dynamic-chat/dynamic-chat-overview.md)
    + [产品导览[2023]](/help/dynamic-chat/product-tour.md)
    + [产品导览[2022]](/help/dynamic-chat/product-tour-2022.md)
@@ -108,6 +108,7 @@ ht-degree: 8%
    + [创建事件程序](/help/events/events-learn.md)
    + [网络研讨会](/help/events/webinar-learn.md)
    + [网络研讨会演练](/help/events/webinar-watch.md)
+   + [交互式网络研讨会概述](/help/events/interactive-webinars-overview.md)
    + [交互式网络研讨会用户和许可证管理](/help/events/interactive-webinars-user-and-license-management.md)
    + [交互式网络研讨会活动项目创建](/help/events/interactive-webinars-event-program-creation.md)
    + [交互式网络研讨会活动计划概述](/help/events/interactive-webinars-event-program-overview.md)
@@ -119,7 +120,7 @@ ht-degree: 8%
 + 报告和分析{#reporting}
    + [关键报表](/help/reporting/key-reports.md)
 + 集成{#integrations}
-   + [Marketo与Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API帮助 — 如何在变量中设置访问令牌](/help/integrations/api-set-access-token-variable.md)
 + 管理重复项{#manage-duplicates}
    + [管理重复项简介](/help/managing-duplicates/introduction-managing-duplicates.md)
