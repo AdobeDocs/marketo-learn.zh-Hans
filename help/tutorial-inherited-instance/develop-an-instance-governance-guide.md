@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 使用文档开发实例治理指南
 
-当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的Marketo Engage实例](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，这是提高效率[的关键策略之一。
+当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的Marketo Engage实例[&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，这是提高效率的关键策略之一。
 
 此分步教程源自[!DNL Adobe Marketo Champion] (2018)，作者Nick Hajdin将指导您完成此过程，概述实例设置、记录主要运行程序并维护[!DNL changelog]以实施严格的治理策略。
 
