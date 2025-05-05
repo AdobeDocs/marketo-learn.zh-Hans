@@ -26,9 +26,9 @@ ht-degree: 0%
 
 **产品指南：**
 
-* [了解程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
-* [创建程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
-* [最佳实践：如何组织程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
-* [导入程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
-* [了解标记](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
+* [了解程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=zh-Hans)
+* [创建程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html?lang=zh-Hans)
+* [最佳实践：如何组织程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=zh-Hans)
+* [导入程序](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=zh-Hans)
+* [了解标记](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html?lang=zh-Hans)
 * [引导评分的最终指南](https://business.adobe.com/resources/guides/lead-scoring.html)

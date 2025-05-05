@@ -26,10 +26,10 @@ ht-degree: 19%
 * [实施实时聊天的最佳实践](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _了解在Dynamic Chat中实施实时聊天功能时应遵循的最佳实践。_
 
-* [交互式网络研讨会概述](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+* [交互式网络研讨会概述](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _了解有关交互式网络研讨会(Marketo Engage中的内置网络研讨会平台)的所有信息。_
 
-* [迁移至Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+* [迁移至Adobe Identity Management](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _了解如何导航Adobe Identity Management迁移，以便您可以在一个中心位置开始为用户管理Adobe Marketo Engage及其他Adobe帐户和产品。_
 
 ## 最受欢迎视频 {#most-popular-videos}
@@ -41,8 +41,8 @@ ht-degree: 19%
 <div><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/programs-and-campaigns/smart-campaigns-101"><strong>智能营销活动 101</strong></a></div>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><img alt="对话Forms的缩略图图像" src="assets/tutorials-homepage-2.png"></a>
-<div><a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong>对话式Forms</strong></a></div>
+<a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><img alt="对话Forms的缩略图图像" src="assets/tutorials-homepage-2.png"></a>
+<div><a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/dynamic-chat/conversational-forms"><strong>对话式Forms</strong></a></div>
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns"><img alt="了解Marketo项目和营销策划" src="assets/tutorials-homepage-3.png" /></a>

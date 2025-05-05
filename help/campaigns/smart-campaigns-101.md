@@ -28,7 +28,7 @@ Smart Campaigns是Marketo的引擎。 除了使用智能营销活动发送电子
 
 **文档：**
 
-* [了解智能营销活动文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [了解智能营销活动文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=zh-Hans)
 
 **专家客户博客文章：**
 

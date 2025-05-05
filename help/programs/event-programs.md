@@ -26,11 +26,11 @@ ht-degree: 0%
 
 有关更多信息，请参阅相关的产品指南：
 
-* [了解活动计划文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [了解活动计划文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=zh-Hans)
 
 观看其他视频以了解有关此功能的更多帮助：
-* [活动浏览](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [网络研讨会介绍](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [活动浏览](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=zh-Hans)
+* [网络研讨会介绍](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=zh-Hans)
 
 向同行学习如何使用活动计划：
 * [专家客户博客帖子：活动计划](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)

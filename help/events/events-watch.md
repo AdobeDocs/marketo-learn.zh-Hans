@@ -24,4 +24,4 @@ ht-degree: 0%
 
 有关如何创建事件程序的更多信息，请参阅产品指南：
 
-* [创建新的活动计划文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [创建新的活动计划文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=zh-Hans)

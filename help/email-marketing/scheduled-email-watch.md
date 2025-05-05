@@ -24,4 +24,4 @@ ht-degree: 0%
 
 有关电子邮件程序的更多信息，请参阅产品指南：
 
-* [了解电子邮件程序文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [了解电子邮件程序文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=zh-Hans)

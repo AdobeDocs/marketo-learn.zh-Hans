@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ## 步骤1：创建Smart Campaign {#step-one}
 
-1. 转到&#x200B;**营销活动**，然后在[程序](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}文件夹下，创建一个名为`Send Webinar Reminder`的新[Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}。
+1. 转到&#x200B;**营销活动**，然后在[程序](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}文件夹下，创建一个名为`Send Webinar Reminder`的新[Smart Campaign](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}。
 
-1. 在&#x200B;**智能列表**&#x200B;选项卡中，[添加触发器](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"}以允许通过API调用营销活动：
+1. 在&#x200B;**智能列表**&#x200B;选项卡中，[添加触发器](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"}以允许通过API调用营销活动：
 
    * 选择&#x200B;**请求营销活动**&#x200B;作为触发器
    * 将&#x200B;**Source**&#x200B;设置为`Web Service API`
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 第2步：定义电子邮件内容 {#step-two}
 
-创建或编辑同时引用人员和[我的令牌](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}的[电子邮件资产](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"}。
+创建或编辑同时引用人员和[我的令牌](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}的[电子邮件资产](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"}。
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Join here: {{my.JoinLink}}
 
 ## 步骤4：设置活动资格规则并激活活动 {#step-four}
 
-1. 配置[资格规则](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"}以控制人员通过Smart Campaign运行的频率。
+1. 配置[资格规则](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"}以控制人员通过Smart Campaign运行的频率。
 
 1. 配置完毕后，单击&#x200B;**激活**&#x200B;以启用Smart Campaign接收API触发的请求。
 
@@ -133,7 +133,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }

@@ -15,8 +15,8 @@ ht-degree: 0%
 
 有关更多信息，请参阅相关的产品指南：
 
-* [了解程序文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [了解智能营销活动文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [了解程序文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=zh-Hans)
+* [了解智能营销活动文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=zh-Hans)
 
 向同行学习如何使用智能营销活动：
 

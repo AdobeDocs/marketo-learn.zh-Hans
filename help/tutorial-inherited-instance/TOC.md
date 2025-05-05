@@ -23,4 +23,4 @@ ht-degree: 0%
 + [制定实例治理指南](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [直观地展示您的营销技术栈栈](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [项目启动前质量保证流程](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)
