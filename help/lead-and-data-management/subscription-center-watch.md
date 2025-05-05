@@ -20,4 +20,4 @@ ht-degree: 0%
 
 通过设置和管理您的订阅中心，了解如何在您和订阅者之间实施流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412232/?quality=12&learn=on&captions=chi_hans){transcript=true}

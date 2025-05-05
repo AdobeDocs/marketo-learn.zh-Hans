@@ -22,7 +22,7 @@ ht-degree: 0%
 
 了解Microsoft Dynamics 365同步的工作方式并正确配置设置，以允许两个系统相互交谈。 本教程将指导您了解同步的工作原理、下载Marketo商机管理(MLM)解决方案、安装用于服务器到服务器连接的MLM解决方案以及连接两个系统。 我们还会分享有关验证同步、限制已同步记录数量以及估计同步时间的其他提示和技巧，以帮助您设置Microsoft Dynamics同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430208/?learn=on&captions=chi_hans)
 
 ## 视频中使用的链接
 

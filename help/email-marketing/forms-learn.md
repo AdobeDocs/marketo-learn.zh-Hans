@@ -18,4 +18,4 @@ ht-degree: 0%
 
 当潜在客户访问您的网站时，使用[!DNL Marketo forms]逐步捕获人员数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411670/?quality=12&learn=on&captions=chi_hans){transcript=true}

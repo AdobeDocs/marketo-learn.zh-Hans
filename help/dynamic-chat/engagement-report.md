@@ -20,7 +20,7 @@ ht-degree: 7%
 
 现在了解Web访客如何参与您的对话框的趋势。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437710/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 更有用的视频
 

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 提供相关的内容是营销的重要理念之一。 了解如何使用Marketo Content AI以及如何在使用Marketo时应用动态内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411446/?quality=12&learn=on&captions=chi_hans){transcript=true}

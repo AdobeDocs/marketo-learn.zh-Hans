@@ -18,7 +18,7 @@ ht-degree: 15%
 
 [!UICONTROL Dynamic Chat]是为营销和销售构建的新聊天机器人解决方案。 它与[!DNL Marketo Engage]本机集成，这使您能够将[!UICONTROL Dynamic Chat]用作跨渠道营销中的新渠道。 它易于使用和设置。 进行快速产品导览：
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345053/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 更有用的视频
 

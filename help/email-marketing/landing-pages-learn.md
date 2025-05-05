@@ -18,4 +18,4 @@ ht-degree: 0%
 
 通过构建和设计包含最佳实践的登陆页面来提高转化率。
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412007/?quality=12&learn=on&captions=chi_hans){transcript=true}

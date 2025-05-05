@@ -22,7 +22,7 @@ ht-degree: 0%
 
 了解Marketo Engage中的关键报表以及如何提取它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432184/?learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 

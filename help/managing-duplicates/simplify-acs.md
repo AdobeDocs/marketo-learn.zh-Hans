@@ -20,4 +20,4 @@ ht-degree: 0%
 
 探索Adobe的专业服务如何帮助轻松管理重复记录。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436794/?learn=on&enablevpops&captions=chi_hans)

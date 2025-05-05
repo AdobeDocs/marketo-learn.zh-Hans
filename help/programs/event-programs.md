@@ -20,7 +20,7 @@ ht-degree: 0%
 
 通过观看此视频，形成对事件的基本了解并构建您的第一个事件程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454004/?learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 

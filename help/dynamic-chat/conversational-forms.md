@@ -22,4 +22,4 @@ ht-degree: 4%
 
 在我们的分步视频中，我们将引导您完成该过程，以便为您的企业轻松实施此强大的工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443366/?learn=on&captions=chi_hans)

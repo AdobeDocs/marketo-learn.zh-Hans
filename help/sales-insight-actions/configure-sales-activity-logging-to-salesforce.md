@@ -16,7 +16,7 @@ ht-degree: 0%
 
 了解如何配置销售分析操作活动并将其记录到您的[!DNL Salesforce]帐户。
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449209/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 相关视频
 

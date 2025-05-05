@@ -16,7 +16,7 @@ ht-degree: 0%
 
 本视频概述了如何访问您的[!UICONTROL 销售分析操作]帐户以创建内容、配置您的帐户、邀请新用户等。
 
->[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441593/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 相关视频
 

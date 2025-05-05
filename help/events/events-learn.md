@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在活动营销项目中利用现场参与来建立关系，产生善意，并赢得潜在购买者和客户的信任。
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411680/?quality=12&learn=on&captions=chi_hans){transcript=true}

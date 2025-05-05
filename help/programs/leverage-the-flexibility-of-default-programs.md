@@ -22,4 +22,4 @@ ht-degree: 0%
 在四种程序类型中，默认程序是最灵活的，您可以利用要创建的内容进行创意。
 了解两个常见用例：Web表单和付费媒体人员生成。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453862?learn=on&captions=chi_hans){transcript=true}

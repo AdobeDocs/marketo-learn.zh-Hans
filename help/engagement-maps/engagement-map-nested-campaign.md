@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解如何使用参与图破译互连且深度嵌套的营销活动，以便更好地了解整个客户历程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423293/?learn=on&captions=chi_hans){transcript=true}

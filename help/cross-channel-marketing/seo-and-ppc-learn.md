@@ -18,4 +18,4 @@ ht-degree: 0%
 
 您的网站是否会在数百个搜索结果中丢失？ 了解如何通过改进SEO和PPC策略来提高品牌知名度。
 
->[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413399/?quality=12&learn=on&captions=chi_hans){transcript=true}

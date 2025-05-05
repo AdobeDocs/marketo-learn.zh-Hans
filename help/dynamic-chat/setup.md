@@ -18,7 +18,7 @@ ht-degree: 0%
 
 帮助您将聊天机器人JavaScript安装到您的网站或登陆页并自定义其外观以匹配您的品牌的指南。
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345019/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 更有用的视频
 

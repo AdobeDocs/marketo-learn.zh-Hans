@@ -18,4 +18,4 @@ ht-degree: 0%
 
 难以与订阅者沟通？ 让他们告诉您他们想要什么通信内容，以及他们想要从您那里听到的频率。 了解如何创建和管理订阅中心以制定适当的节奏和流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412227/?quality=12&learn=on&captions=chi_hans){transcript=true}

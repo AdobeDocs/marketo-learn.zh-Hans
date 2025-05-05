@@ -20,4 +20,4 @@ ht-degree: 0%
 
 通过将清理过的数据重新导入到Marketo Engage中，并通过可操作的活动有效地管理重复项，完成批量合并。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452757/?learn=on&enablevpops&captions=chi_hans)

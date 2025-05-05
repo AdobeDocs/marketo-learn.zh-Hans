@@ -18,4 +18,4 @@ ht-degree: 0%
 
 准备好以个人身份参与电子邮件营销。 了解如何发送与受众相关的引人入胜的消息，并衡量电子邮件促销活动的ROI。
 
->[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412017/?quality=12&learn=on&captions=chi_hans){transcript=true}

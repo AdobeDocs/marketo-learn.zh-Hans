@@ -19,4 +19,4 @@ ht-degree: 0%
 
 按照[!DNL Marketo's]建议的组织项目和实例的最佳实践操作，可以帮助您和您的同事在需要时找到实例中所需的内容，并帮助您更准确地报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413373/?quality=12&learn=on&captions=chi_hans){transcript=true}

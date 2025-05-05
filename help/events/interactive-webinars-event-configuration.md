@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何在交付之前配置交互式网络研讨会事件，以满足网络研讨会的目标并确保交付足够有效，从而让参与者关注并激发对品牌、产品和服务的兴趣。 等等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448994/?learn=on&captions=chi_hans)

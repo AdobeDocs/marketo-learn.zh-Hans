@@ -18,4 +18,4 @@ ht-degree: 0%
 
 根据每位网站访客的身份和行为，为他们提供个人和相关体验。 了解如何对网站访客进行分段和定位，以创建更量身定制、更有意义且富有吸引力的体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413414/?quality=12&learn=on&captions=chi_hans){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 使用Conversations SDK将网页上的任何CTA点击、页面加载或任何访客操作转换为引人入胜的对话。 以下是在您的网站上实施的分步指南
 
->[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448872/?learn=on&captions=chi_hans)

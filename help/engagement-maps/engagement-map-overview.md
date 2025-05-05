@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解参与度图如何提高营销活动速度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423302/?learn=on&captions=chi_hans){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 随着当今技术的普及，移动营销已成为企业必须采取的策略之一。 了解如何通过方便的移动设备创建实时和个人连接，从而与买家发展关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411685/?quality=12&learn=on&captions=chi_hans){transcript=true}

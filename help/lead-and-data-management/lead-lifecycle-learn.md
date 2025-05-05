@@ -18,4 +18,4 @@ ht-degree: 0%
 
 您是否知道在买方历程的每个阶段有多少潜在客户，以及销售人员应在何时联系他们？ 了解如何创建一个[!UICONTROL 人员生命周期]计划，该计划使用评分来深入了解潜在客户在其历程中的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412252/?quality=12&learn=on&captions=chi_hans){transcript=true}

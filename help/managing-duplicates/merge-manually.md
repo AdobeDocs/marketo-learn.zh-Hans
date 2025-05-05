@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何在数据库部分中手动合并重复项，非常适用于精确且可控地处理较少的记录。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443660/?learn=on&enablevpops&captions=chi_hans)

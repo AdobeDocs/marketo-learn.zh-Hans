@@ -18,4 +18,4 @@ ht-degree: 0%
 
 要在当今不断变化的数字营销格局中取胜，您需要一个能够应对营销人员每天面临的不断变化的挑战的团队。 了解如何构建营销组织以应对新挑战、团队中所需的人员类型，以及如何以最佳方式让营销人员将您的组织融入参与经济。
 
->[!VIDEO](https://video.tv.adobe.com/v/345416/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413389/?quality=12&learn=on&captions=chi_hans){transcript=true}

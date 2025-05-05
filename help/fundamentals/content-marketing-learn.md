@@ -18,4 +18,4 @@ ht-degree: 0%
 
 通过制定内容营销策略，吸引、获取和吸引受众。 了解获得成功的关键步骤，包括优化和衡量内容的影响。
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413384/?quality=12&learn=on&captions=chi_hans){transcript=true}

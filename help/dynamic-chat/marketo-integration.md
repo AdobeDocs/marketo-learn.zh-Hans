@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!UICONTROL Dynamic Chat]本机集成到[!DNL Marketo Engage]中，这使您能够使用聊天机器人对话中的上下文来重新定位潜在客户或为其评分。
 
->[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345040/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 更有用的视频
 

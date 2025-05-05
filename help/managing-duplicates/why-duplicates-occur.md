@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解重复项如何源自各种来源（包括CRM同步、表单填写和数据导入），以及如何最大程度地减少它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443900/?learn=on&enablevpops&captions=chi_hans)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 使用对话框预览功能，在发布之前预览对话框非常简单。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436869/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 更有用的视频
 

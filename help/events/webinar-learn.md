@@ -18,4 +18,4 @@ ht-degree: 0%
 
 是否准备好将网络研讨会作为营销活动的一部分来运行？ 了解网络研讨会如何与[!DNL Marketo Engage]及其Adobe Exchange网络研讨会合作伙伴协作。
 
->[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411660/?quality=12&learn=on&captions=chi_hans){transcript=true}

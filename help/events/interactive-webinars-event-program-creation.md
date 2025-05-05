@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何设置事件程序，以便您以Marketo Engage创建和计划交互式网络研讨会活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443422/?learn=on&captions=chi_hans)

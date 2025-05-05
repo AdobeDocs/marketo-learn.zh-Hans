@@ -18,4 +18,4 @@ ht-degree: 0%
 
 如果电子邮件无法在订阅者的收件箱中显示，则营销消息将无法实现您的目标。 了解如何向希望阅读电子邮件的订阅者成功发送电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411475/?quality=12&learn=on&captions=chi_hans){transcript=true}

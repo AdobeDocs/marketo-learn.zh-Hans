@@ -18,4 +18,4 @@ ht-degree: 0%
 
 希望确保您的内容营销吸引潜在购买者并创造商机？ 创建采购员角色将帮助您确定您需要什么类型的内容，以及采购员如何查找和使用信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413394/?quality=12&learn=on&captions=chi_hans){transcript=true}

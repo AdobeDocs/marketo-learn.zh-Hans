@@ -20,4 +20,4 @@ ht-degree: 0%
 
 探索用于通过结构化工作流和定期审核查找和防止重复项的工具和提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447109/?learn=on&enablevpops&captions=chi_hans)

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 了解如何推动GenAI支持的对话，使您的访客能够提问、获取快速响应并生成对话摘要。 直接在您的Marketo实例中利用对话式洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454481/?learn=on&captions=chi_hans)

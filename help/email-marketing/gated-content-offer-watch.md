@@ -18,4 +18,4 @@ ht-degree: 0%
 
 观看如何在Marketo中设置和跟踪封闭式内容电子邮件程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412029/?quality=12&learn=on&captions=chi_hans){transcript=true}

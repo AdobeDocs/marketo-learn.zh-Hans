@@ -20,7 +20,7 @@ ht-degree: 0%
 
 了解四种项目类型、如何导入项目、潜在客户/人员评分项目和定义渠道标记。 了解常见用例和最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422753/?learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解参与图如何帮助快速排除和修复活动问题
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423284/?learn=on&captions=chi_hans){transcript=true}

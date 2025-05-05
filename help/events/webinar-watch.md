@@ -18,5 +18,5 @@ ht-degree: 0%
 
 了解如何从Marketo创建和管理网络研讨会。
 
->[!VIDEO](https://video.tv.adobe.com/v/345477/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411655/?quality=12&learn=on&captions=chi_hans){transcript=true}
 

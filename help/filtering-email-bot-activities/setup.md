@@ -18,4 +18,4 @@ ht-degree: 0%
 
 本指南可帮助您按机器人识别电子邮件活动，以及您如何过滤和创建不包括机器人的营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445122/?quality=12&learn=on&captions=chi_hans){transcript=true}

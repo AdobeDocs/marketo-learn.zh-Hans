@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何通过最佳实践、电子邮件身份验证和信誉来优化电子邮件可投放性。
 
->[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411470/?quality=12&learn=on&captions=chi_hans){transcript=true}

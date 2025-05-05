@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何在Marketo程序中使用令牌。 利用Marketo程序中的令牌可帮助进行个性化，缩短程序构建时间，并减少拼写错误或人为错误的可能性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423546/?learn=on&captions=chi_hans){transcript=true}

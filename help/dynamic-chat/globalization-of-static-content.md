@@ -20,7 +20,7 @@ ht-degree: 0%
 
 您可能已经知道如何创建非英语对话框（如果没有，[单击此处](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}）。 您可以使用所选的语言对静态/系统内容进行个性化设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3439224/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 更有用的视频
 

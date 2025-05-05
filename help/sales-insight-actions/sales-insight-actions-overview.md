@@ -16,7 +16,7 @@ ht-degree: 0%
 
 使用营销辅助的智能和参与工具，通过销售分析操作在一个工作流程中加快发现潜在客户的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447255/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 相关视频
 

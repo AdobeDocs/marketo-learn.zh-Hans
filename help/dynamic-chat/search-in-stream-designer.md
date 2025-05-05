@@ -20,7 +20,7 @@ ht-degree: 0%
 
 快速搜索可以帮助您通过一次单击访问流设计器中的任何信息卡。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437253/?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 更有用的视频
 

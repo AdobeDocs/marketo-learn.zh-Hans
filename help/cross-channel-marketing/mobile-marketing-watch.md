@@ -18,4 +18,4 @@ ht-degree: 0%
 
 观看如何创建买方角色、设置KPI、确定通信节奏、使用[!DNL Marketo]营销日历等，以改进您的移动营销策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413409/?quality=12&learn=on&captions=chi_hans){transcript=true}

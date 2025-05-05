@@ -18,4 +18,4 @@ ht-degree: 0%
 
 当您的所有营销工作都符合支持组织目标的策略时，您将能够更好地证明项目和营销活动的价值。 了解如何通过制定营销目标和策略来集中工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/345419/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413378/?quality=12&learn=on&captions=chi_hans){transcript=true}

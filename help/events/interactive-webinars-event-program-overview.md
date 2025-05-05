@@ -20,4 +20,4 @@ ht-degree: 0%
 
 快速浏览交互式网络研讨会事件程序中的各种元素，并了解可以采取哪些操作来优化该程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450090/?learn=on&captions=chi_hans)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 观看如何构建、设计和组织包含渐进式分析的表单。
 
->[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411665/?quality=12&learn=on&captions=chi_hans){transcript=true}

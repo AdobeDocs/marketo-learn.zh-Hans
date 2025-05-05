@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何设置字段映射、合并逻辑和计划，以在Marketo Engage和iPaaS工具之间自动进行重复管理。 本视频演示使用Vertify作为工作流示例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453817/?learn=on&enablevpops&captions=chi_hans)

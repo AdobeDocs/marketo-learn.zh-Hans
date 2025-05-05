@@ -20,4 +20,4 @@ ht-degree: 0%
 
 回顾Marketo Engage中处理重复项的关键解决方案，并根据您团队的需求和资源选择最佳解决方案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436650/?learn=on&enablevpops&captions=chi_hans)

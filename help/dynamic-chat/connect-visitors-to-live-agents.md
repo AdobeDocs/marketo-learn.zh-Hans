@@ -26,4 +26,4 @@ ht-degree: 0%
 * 确保您始终与募捐者交谈
 * 表单填写后或自动聊天对话期间提供
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452069/?learn=on&captions=chi_hans)

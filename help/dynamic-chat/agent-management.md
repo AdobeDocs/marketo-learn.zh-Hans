@@ -21,4 +21,4 @@ ht-degree: 0%
 本指南可帮助您了解可用于从一个位置管理所有代理的所有功能，这些代理将与您的Web访客进行交互。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424829/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447243/?learn=on&captions=chi_hans)

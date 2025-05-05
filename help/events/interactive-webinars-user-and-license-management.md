@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解交互式网络研讨会的用户权限以及交互式网络研讨会许可证的许可证可用性和使用限制监控。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446126/?learn=on&captions=chi_hans)

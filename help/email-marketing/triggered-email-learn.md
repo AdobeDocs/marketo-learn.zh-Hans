@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何使用[!DNL Marketo]通过触发的电子邮件营销活动与及时相关的消息传递进行交互，以利用购买者的行为。
 
->[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411485/?quality=12&learn=on&captions=chi_hans){transcript=true}

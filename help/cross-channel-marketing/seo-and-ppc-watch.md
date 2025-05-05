@@ -18,4 +18,4 @@ ht-degree: 0%
 
 观察如何实施成功步骤以创建有益的SEO和PPC策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413404/?quality=12&learn=on&captions=chi_hans){transcript=true}

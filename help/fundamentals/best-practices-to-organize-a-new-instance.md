@@ -20,7 +20,7 @@ ht-degree: 0%
 
 当您首次开始使用Marketo Engage时，组织是关键。 通过在实例中保持井然有序，您和您的同事可以轻松跟踪营销活动、项目和资产。 了解如何使用文件夹、标准命名惯例和功能（如克隆）在[!UICONTROL 营销活动]中组织导航树，以便在新的[!DNL Marketo Engage]实例中轻松与同事协作。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422761/?learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 

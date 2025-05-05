@@ -18,4 +18,4 @@ ht-degree: 0%
 
 观看如何将[!DNL Marketo]连接到我们的几个数字广告LaunchPoint合作伙伴。
 
->[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412262/?quality=12&learn=on&captions=chi_hans){transcript=true}

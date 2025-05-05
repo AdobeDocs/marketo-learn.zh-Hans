@@ -18,4 +18,4 @@ ht-degree: 0%
 
 使用个性化的电子邮件新闻稿，以经济高效的方式与潜在客户和客户接洽。
 
->[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411997/?quality=12&learn=on&captions=chi_hans){transcript=true}

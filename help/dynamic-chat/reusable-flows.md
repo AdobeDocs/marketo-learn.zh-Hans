@@ -20,4 +20,4 @@ ht-degree: 0%
 
 使用新的对话流卡简化对话的设计和管理。 创建一次对话流并将其重新用于多个对话框。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446655/?learn=on&captions=chi_hans)

@@ -22,7 +22,7 @@ ht-degree: 2%
 
 了解如何在Analytics和Database部分中导航以在Marketo Engage中提取其他现成的报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446430/?learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 

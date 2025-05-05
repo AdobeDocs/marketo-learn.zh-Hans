@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何在Marketo中创建电子邮件A/B测试以提高电子邮件性能。
 
->[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411451/?quality=12&learn=on&captions=chi_hans){transcript=true}

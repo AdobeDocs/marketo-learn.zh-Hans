@@ -18,4 +18,4 @@ ht-degree: 0%
 
 作为内容营销策略，筛选一些最佳内容将有助于生成潜在客户并了解哪些访客是认真的。 了解封闭内容、其工作方式以及成功步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412222/?quality=12&learn=on&captions=chi_hans){transcript=true}

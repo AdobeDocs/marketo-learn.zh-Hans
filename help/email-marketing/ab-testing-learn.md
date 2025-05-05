@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Marketo的内置A/B测试功能可帮助您制定数据驱动型决策，以通过测试主题行、星期和时间、“发件人”地址等内容来提高电子邮件的有效性。 了解如何在Marketo中使用电子邮件A/B测试来帮助提高电子邮件性能。
 
->[!VIDEO](https://video.tv.adobe.com/v/345483/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411456/?quality=12&learn=on&captions=chi_hans){transcript=true}

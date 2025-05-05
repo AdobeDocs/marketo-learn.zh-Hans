@@ -18,4 +18,4 @@ ht-degree: 0%
 
 不确定如何最好地利用社交营销？ 了解如何使用您的社交渠道有效提高品牌认知度并培养品牌互动。
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412039/?quality=12&learn=on&captions=chi_hans){transcript=true}

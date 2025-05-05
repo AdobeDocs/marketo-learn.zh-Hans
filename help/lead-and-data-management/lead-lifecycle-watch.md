@@ -18,4 +18,4 @@ ht-degree: 0%
 
 创建一个[!UICONTROL 人员生命周期]计划，使用计划状态跟踪您的潜在客户，并对准备销售的潜在客户执行操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412247/?quality=12&learn=on&captions=chi_hans){transcript=true}

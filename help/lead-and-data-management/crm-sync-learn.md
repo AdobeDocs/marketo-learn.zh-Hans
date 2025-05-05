@@ -18,4 +18,4 @@ ht-degree: 0%
 
 通过[!DNL Marketo] CRM同步，您可以通过在[!DNL Marketo]与您的CRM之间无缝共享相关信息，来帮助协调营销和销售活动。 了解如何将[!DNL Marketo]同步到您的CRM。
 
->[!VIDEO](https://video.tv.adobe.com/v/345428/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412034/?quality=12&learn=on&captions=chi_hans){transcript=true}

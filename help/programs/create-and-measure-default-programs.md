@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何创建和衡量默认程序是否成功。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424472/?learn=on&captions=chi_hans){transcript=true}
