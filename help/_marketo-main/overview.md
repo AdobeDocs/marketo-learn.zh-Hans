@@ -23,7 +23,7 @@ ht-degree: 19%
 
 ## 新增功能 {#whats-new}
 
-* [实施实时聊天的最佳实践](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
+* [实施实时聊天的最佳实践](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _了解在Dynamic Chat中实施实时聊天功能时应遵循的最佳实践。_
 
 * [交互式网络研讨会概述](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
