@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 9%
+source-wordcount: '470'
+ht-degree: 8%
 
 ---
 
@@ -17,18 +17,22 @@ ht-degree: 9%
 + 基础知识 {#fundamentals}
    + [目标和战略](/help/fundamentals/goals-and-strategy-learn.md)
    + [组织结构](/help/fundamentals/organizational-structure-learn.md)
-   + [迁移到Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [内容营销](/help/fundamentals/content-marketing-learn.md)
    + [买家角色](/help/fundamentals/buyer-personas-learn.md)
+   + [智能列表](/help/fundamentals/smart-lists.md)
+   + [静态列表](/help/fundamentals/static-lists.md)
    + [项目和活动](/help/fundamentals/programs-and-campaigns.md)
+   + [迁移到Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [组织新实例的最佳实践](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳实践](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用令牌进行个性化](/help/personalization/personalize-with-tokens.md)
-   + [实施新实例 — 教程](https://experienceleague.adobe.com/zh-hans/docs/experiences-by-you/implementing-new-instance/overview)
+   + [实施新实例 — 教程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hans)
 + 项目和活动 {#programs-and-campaigns}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
+   + [了解计划成员资格](/help/programs/understanding-program-membership.md)
    + [智能营销活动 101](/help/campaigns/smart-campaigns-101.md)
+   + [渠道、标记和期间成本简介](/help/campaigns/channels-tags-period-costs.md)
    + [活动项目群](/help/programs/event-programs.md)
    + 默认程序 {#default-programs}
       + [创建和测量默认程序](/help/programs/create-and-measure-default-programs.md)
@@ -95,8 +99,9 @@ ht-degree: 9%
    + [访问Sales Insight Actions实例](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [将销售活动日志记录配置到 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 潜在客户和数据管理 {#lead-and-data-management}
+   + [了解评分](/help/lead-and-data-management/understanding-scoring.md)
    + [商机/人员评分](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [负责人/人员评分演练](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [销售线索/人员评分演练](/help/lead-and-data-management/lead-scoring-watch.md)
    + [订阅中心](/help/lead-and-data-management/subscription-center-learn.md)
    + [订阅中心演练](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM同步](/help/lead-and-data-management/crm-sync-learn.md)
@@ -121,7 +126,7 @@ ht-degree: 9%
 + 报告和分析 {#reporting}
    + [关键报表](/help/reporting/key-reports.md)
 + 集成 {#integrations}
-   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hans)
+   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API帮助 — 如何在变量中设置访问令牌](/help/integrations/api-set-access-token-variable.md)
    + [如何使用REST API和令牌在Marketo Engage中触发智能营销活动](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重复项 {#manage-duplicates}
