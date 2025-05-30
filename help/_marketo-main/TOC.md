@@ -3,7 +3,7 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
+source-git-commit: f5e642f54afb279cab8cd8084d5eed60faa7933c
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 8%
@@ -26,13 +26,13 @@ ht-degree: 8%
    + [组织新实例的最佳实践](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳实践](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [使用令牌进行个性化](/help/personalization/personalize-with-tokens.md)
-   + [实施新实例 — 教程](https://experienceleague.adobe.com/zh-hans/docs/experiences-by-you/implementing-new-instance/overview)
+   + [实施新实例 — 教程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hans)
 + 项目和活动 {#programs-and-campaigns}
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
    + [了解计划成员资格](/help/programs/understanding-program-membership.md)
    + [智能营销活动 101](/help/campaigns/smart-campaigns-101.md)
-   + [渠道、标记和期间成本简介](/help/campaigns/channels-tags-period-costs.md)
+   + [渠道、标记和期间成本简介](/help/programs/channels-tags-period-costs.md)
    + [活动项目群](/help/programs/event-programs.md)
    + 默认程序 {#default-programs}
       + [创建和测量默认程序](/help/programs/create-and-measure-default-programs.md)
@@ -126,7 +126,7 @@ ht-degree: 8%
 + 报告和分析 {#reporting}
    + [关键报表](/help/reporting/key-reports.md)
 + 集成 {#integrations}
-   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hans)
+   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API帮助 — 如何在变量中设置访问令牌](/help/integrations/api-set-access-token-variable.md)
    + [如何使用REST API和令牌在Marketo Engage中触发智能营销活动](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重复项 {#manage-duplicates}
