@@ -18,4 +18,4 @@ ht-degree: 0%
 
 通过使用潜在客户/人员评分计划，提高营销活动为销售人员提供的潜在客户质量。 了解商机/人员评分、其工作方式以及成功实现可衡量收益的步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412242/?quality=12&learn=on&captions=chi_hans){transcript=true}
