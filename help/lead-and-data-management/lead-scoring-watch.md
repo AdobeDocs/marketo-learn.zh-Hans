@@ -18,4 +18,4 @@ ht-degree: 0%
 
 观看如何构建商机/人员评分运营项目、在营销活动中使用令牌以及导入预建营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412237/?quality=12&learn=on&captions=chi_hans){transcript=true}
