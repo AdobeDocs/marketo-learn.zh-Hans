@@ -20,4 +20,4 @@ ht-degree: 0%
 
 详细了解人员以及他们与特定项目的关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463189/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463202/?learn=on&enablevpops&captions=chi_hans)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何通过智能列表使用简单过滤器查找特定人群组。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463213/?learn=on&enablevpops&captions=chi_hans)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何向您的人员/潜在客户分配评分，以评估他们对您的内容的参与度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463246/?learn=on&enablevpops&captions=chi_hans)
