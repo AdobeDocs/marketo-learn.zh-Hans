@@ -20,4 +20,4 @@ ht-degree: 0%
 
 令牌是拉入个性化数据以供在Smart Campaign流量步骤、电子邮件、登陆页面等中使用的变量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470582/?learn=on&enablevpops&captions=chi_hans)
