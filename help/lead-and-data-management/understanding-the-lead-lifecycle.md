@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解潜在客户（人员）如何通过其购买者历程的不同阶段取得进展。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470605/?learn=on&enablevpops&captions=chi_hans)

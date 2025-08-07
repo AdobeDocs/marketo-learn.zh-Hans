@@ -20,4 +20,4 @@ ht-degree: 27%
 
 计划代表一个营销方案。了解如何以各种方式利用这些受众来吸引受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470497/?learn=on&enablevpops&captions=chi_hans)

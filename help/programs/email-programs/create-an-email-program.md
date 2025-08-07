@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何使用电子邮件计划快速轻松地向多个收件人发送电子邮件并跟踪其结果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470617/?learn=on&enablevpops&captions=chi_hans)

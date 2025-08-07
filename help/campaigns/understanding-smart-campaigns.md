@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Smart Campaigns是Marketo Engage的引擎。 它们可用于发送电子邮件、程序等。 了解Marketo中的这些重要工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470570/?learn=on&enablevpops&captions=chi_hans)
