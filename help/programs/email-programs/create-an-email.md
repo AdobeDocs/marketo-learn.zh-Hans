@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何在电子邮件程序中创建、个性化和测试电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470644/?learn=on&enablevpops&captions=chi_hans)

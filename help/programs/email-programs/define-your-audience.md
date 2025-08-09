@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解在使用电子邮件项目时如何定义所需的受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470677/?learn=on&enablevpops&captions=chi_hans)

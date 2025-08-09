@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何在电子邮件程序中创建、自定义和批准登陆页面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470631/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470655/?learn=on&enablevpops&captions=chi_hans)

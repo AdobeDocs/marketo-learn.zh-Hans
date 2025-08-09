@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何创建和使用表单来捕获潜在客户/人员数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470632/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470666/?learn=on&enablevpops&captions=chi_hans)
