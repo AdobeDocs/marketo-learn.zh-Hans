@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
+source-git-commit: 9cf0fca2786f14ff1d2f4ddacce8b6f44ca964ca
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 9%
+source-wordcount: '499'
+ht-degree: 12%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 9%
    + [迁移到Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [组织新实例的最佳实践](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳实践](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [实施新实例 — 教程](https://experienceleague.adobe.com/zh-hans/docs/experiences-by-you/implementing-new-instance/overview)
+   + [实施新实例 — 教程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hans)
 + 项目和活动 {#programs-and-campaigns}
    + [了解项目群](/help/programs/understanding-programs.md)
    + [了解项目和活动](/help/programs/understanding-programs-and-campaigns.md)
    + [了解计划成员资格](/help/programs/understanding-program-membership.md)
-   + [了解智能营销活动](/help/campaigns/understanding-smart-campaigns.md)
+   + [了解智能活动](/help/campaigns/understanding-smart-campaigns.md)
    + [智能营销活动 101](/help/campaigns/smart-campaigns-101.md)
    + [渠道、标记和期间成本简介](/help/programs/channels-tags-period-costs.md)
    + [活动项目群](/help/programs/event-programs.md)
@@ -42,7 +42,7 @@ ht-degree: 9%
       + [创建和测量默认程序](/help/programs/create-and-measure-default-programs.md)
       + [利用默认程序的灵活性](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + 电子邮件程序 {#email-programs}
-      + [创建电子邮件程序](/help/programs/email-programs/create-an-email-program.md)
+      + [创建电子邮件项目](/help/programs/email-programs/create-an-email-program.md)
       + [创建电子邮件](/help/programs/email-programs/create-an-email.md)
       + [定义受众](/help/programs/email-programs/define-your-audience.md)
       + [创建登陆页面](/help/programs/email-programs/create-a-landing-page.md)
@@ -76,7 +76,6 @@ ht-degree: 9%
    + [移动营销演练](/help/cross-channel-marketing/mobile-marketing-watch.md)
    + [SEO和PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO和PPC演练](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-   + [社交媒体营销](/help/cross-channel-marketing/social-marketing-learn.md)
    + [Web个性化](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Web个性化演练](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -120,7 +119,7 @@ ht-degree: 9%
    + [Microsoft Dynamics同步快速入门](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [潜在客户生命周期](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [潜在客户生命周期演练](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ 活动 {#events}
++ 事件 {#events}
    + [活动演练](/help/events/events-watch.md)
    + [创建事件程序](/help/events/events-learn.md)
    + [网络研讨会](/help/events/webinar-learn.md)
@@ -137,7 +136,7 @@ ht-degree: 9%
 + 报告和分析 {#reporting}
    + [关键报表](/help/reporting/key-reports.md)
 + 集成 {#integrations}
-   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hans)
+   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API帮助 — 如何在变量中设置访问令牌](/help/integrations/api-set-access-token-variable.md)
    + [如何使用REST API和令牌在Marketo Engage中触发智能营销活动](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重复项 {#manage-duplicates}
