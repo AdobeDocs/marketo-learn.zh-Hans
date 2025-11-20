@@ -30,9 +30,9 @@ ht-degree: 14%
 * 设置
    * **[设置和安装您的聊天机器人](setup.md)**
      *了解设置[!UICONTROL Dynamic Chat]订阅的步骤。*
-   * **[激活您与[!UICONTROL Dynamic Chat]](marketo-integration.md)**的Marketo集成
+   * **[激活您与[!UICONTROL Dynamic Chat]](marketo-integration.md)**&#x200B;的Marketo集成
      *通过对话定位您的Web访客，并使用Marketo中的潜在客户信息对其进行个性化设置。*
-   * **[添加和管理[!UICONTROL Dynamic Chat]](user-management.md)**的用户
+   * **[添加和管理[!UICONTROL Dynamic Chat]](user-management.md)**&#x200B;的用户
      *了解如何在[!UICONTROL Dynamic Chat]中添加或管理用户。*
    * **[代理管理](agent-management.md)**
      *了解如何管理代理。*
