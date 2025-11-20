@@ -28,7 +28,7 @@ ht-degree: 12%
    + [迁移到Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [组织新实例的最佳实践](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳实践](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [实施新实例 — 教程](https://experienceleague.adobe.com/zh-hans/docs/experiences-by-you/implementing-new-instance/overview)
+   + [实施新实例 — 教程](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hans)
 + 项目和活动 {#programs-and-campaigns}
    + [了解项目群](/help/programs/understanding-programs.md)
@@ -136,7 +136,7 @@ ht-degree: 12%
 + 报告和分析 {#reporting}
    + [关键报表](/help/reporting/key-reports.md)
 + 集成 {#integrations}
-   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hans)
+   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API帮助 — 如何在变量中设置访问令牌](/help/integrations/api-set-access-token-variable.md)
    + [如何使用REST API和令牌在Marketo Engage中触发智能营销活动](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重复项 {#manage-duplicates}
