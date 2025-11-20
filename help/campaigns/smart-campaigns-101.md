@@ -21,7 +21,7 @@ ht-degree: 40%
 
 Smart Campaigns是Marketo的引擎。 除了使用智能营销活动发送电子邮件和项目之外，您还可以将智能营销活动用于各种用例。 了解如何使用Smart Campaigns进行数据标准化和自动警报。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424497/?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 
 ## 其他资源
