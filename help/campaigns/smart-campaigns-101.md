@@ -21,7 +21,7 @@ ht-degree: 100%
 
 智能营销活动是 Marketo 的引擎。除了用于发送电子邮件和项目之外，智能营销活动还可用于多种应用场景。了解如何利用智能营销活动实现数据规范化和自动化提醒。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424497/?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 
 ## 其他资源

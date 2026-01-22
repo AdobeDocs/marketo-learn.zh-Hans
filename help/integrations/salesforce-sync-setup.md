@@ -22,7 +22,7 @@ ht-degree: 100%
 
 了解 Marketo Engage 与 Salesforce 如何协同工作，以保持销售与营销数据的同步。本教程将引导您了解同步的工作原理、如何设置同步以确保数据正确流转，以及用于确认同步正常运行的关键检查事项。此外，还将分享管理 Salesforce 同步的实用技巧，帮助您选择需要同步的字段，并隐藏不再需要的字段。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425613/?captions=chi_hans&learn=on)
 
 ## 视频中使用的链接
 

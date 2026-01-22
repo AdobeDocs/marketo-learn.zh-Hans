@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解参与地图如何帮助提升营销活动的推进速度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423302/?captions=chi_hans&learn=on){transcript=true}

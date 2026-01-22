@@ -20,4 +20,4 @@ ht-degree: 100%
 
 智能营销活动是 Marketo Engage 的引擎。它们可用于发送电子邮件、项目等多种用途。全面了解 Marketo 中这些不可或缺的工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470570/?captions=chi_hans&learn=on&enablevpops)
