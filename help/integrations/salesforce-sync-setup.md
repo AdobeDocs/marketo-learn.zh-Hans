@@ -26,18 +26,18 @@ ht-degree: 100%
 
 ## 视频中使用的链接
 
-* [了解 Salesforce 同步](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+* [了解 Salesforce 同步](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=zh-Hans)
 
-* [将 Marketo 字段添加到 Salesforce（企业版/无限制版）](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html)
+* [将 Marketo 字段添加到 Salesforce（企业版/无限制版）](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html?lang=zh-Hans)
 
-* [在 Salesforce 中创建 Marketo 用户（企业版/无限制版）](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html)
+* [在 Salesforce 中创建 Marketo 用户（企业版/无限制版）](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html?lang=zh-Hans)
 
-* [连接 Marketo 和 Salesforce（企业版/无限制版）](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html)
+* [连接 Marketo 和 Salesforce（企业版/无限制版）](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html?lang=zh-Hans)
 
-* [在继续 Marketo 与 Salesforce 同步之前，用户需要先在 Salesforce 端设置已连接的应用程序。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)
+* [在继续 Marketo 与 Salesforce 同步之前，用户需要先在 Salesforce 端设置已连接的应用程序。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html?lang=zh-Hans)
 
-* [Salesforce 同步状态](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html)
+* [Salesforce 同步状态](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html?lang=zh-Hans)
 
-* [隐藏和取消隐藏字段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html)
+* [隐藏和取消隐藏字段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html?lang=zh-Hans)
 
-* [教程：了解如何将 Marketo 与您的 CRM 同步](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)
+* [教程：了解如何将 Marketo 与您的 CRM 同步](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html?lang=zh-Hans)

@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # [!DNL Marketo Engage] 教程
 
-浏览我们的教程库，充分发挥 [!DNL Marketo Engage] 的价值。这些教程可作为[[!DNL Marketo] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}的补充，帮助您更深入地理解营销自动化功能。
+浏览我们的教程库，充分发挥 [!DNL Marketo Engage] 的价值。这些教程可作为[[!DNL Marketo] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}的补充，帮助您更深入地理解营销自动化功能。
 
 <!-- <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
