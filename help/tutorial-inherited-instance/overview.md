@@ -1,6 +1,6 @@
 ---
-title: 审核继承Marketo Engage实例的提示和技巧
-description: 了解如何优化和扩展继承的实时Marketo Engage实例。
+title: 有关审核继承的Marketo Engage实例的提示和技巧
+description: 了解如何优化和扩展您继承的实时Marketo Engage实例。
 feature: Administration
 role: Admin
 level: Beginner
@@ -8,22 +8,22 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: false
+index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
-# 审核继承Marketo Engage实例的提示和技巧 — 教程概述
+# 有关审核继承的Marketo Engage实例的提示和技巧 — 教程概述
 
-*Source：AdobeMarketo Champions*
+*Source： Adobe Marketo Champions*
 
 如果您继承了一个由多人管理的实时Marketo Engage实例，您可能会发现自己对似乎不合适的所有内容进行心理记录。 对清理和优化工作进行组织非常重要，方法是先对任务进行分类，然后确定那些取得长足进展的任务的优先次序。
 
-此“继承实例审核提示和技巧”教程源自AdobeMarketo Champions，为新管理员提供了分步指南。 该教程随附可下载的[审核核对清单](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=zh-Hans)和模板，帮助您立即启动继承的实例。 观看教程，从同行学习中获得灵感！ 
+此“继承实例审核提示和技巧”教程源自Adobe Marketo Champions，为新管理员提供了分步指南。 该教程随附可下载的[审核核对清单](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html)和模板，帮助您立即启动继承的实例。 观看教程，从同行学习中获得灵感！ 
 
 ## 主题和您将学习的内容
 

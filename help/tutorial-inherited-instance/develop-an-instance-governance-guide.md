@@ -1,6 +1,6 @@
 ---
 title: 使用文档开发实例治理指南
-description: 了解如何建立强大的过程来创建和维护Marketo Engage实例的文档和更改日志。 这样不仅可以为团队的知识共享节省时间，还可以提高实例的健康和效率。
+description: 了解如何建立一个强大的过程，用于创建和维护Marketo Engage实例的文档和更改日志。 这样不仅可以为团队的知识共享节省时间，还可以提高实例的健康和效率。
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
@@ -8,18 +8,18 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
+index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 0%
+source-wordcount: '959'
+ht-degree: 1%
 
 ---
 
 # 使用文档开发实例治理指南
 
-当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的Marketo Engage实例[&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，这是提高效率的关键策略之一。
+当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的Marketo Engage实例](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，[提高效率是关键策略之一。
 
 此分步教程源自[!DNL Adobe Marketo Champion] (2018)，作者Nick Hajdin将指导您完成此过程，概述实例设置、记录主要运行程序并维护[!DNL changelog]以实施严格的治理策略。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. 以可扩展方式更轻松地培训内部用户。
 2. 在[!DNL Marketo Engage]中长期更有效地构建。
-3. 保持实例的运行状况和卫生，以节省您花费数小时挖掘电子邮件、[审核跟踪](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=zh-Hans)和[活动日志](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=zh-Hans)以获取上下文。
+3. 保持实例的运行状况和卫生，以节省您花费数小时挖掘电子邮件、[审核跟踪](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)和[活动日志](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)以获取上下文。
 4. 如果您的团队遇到任何人员调整，请节省将[!DNL Marketo Engage]知识移交给新[!DNL Marketo Engage]管理员的时间。
 
 ## [!DNL Marketo Engage]治理指南101
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### 第2步：识别[!DNL Marketo Engage]文档和[!DNL Changelogs]中要包含的元素
 
-格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。 [以下是一个简单的文档和更改日志Excel模板](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，其中包含您可以开始使用的重要元素。 这些功能包括：
+格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。[以下是一个简单的文档和更改日志Excel模板](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，其中涵盖了您可以开始使用的重要元素。 这些功能包括：
 
 * 文档
    * 项目模板名称
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 **定期审核：**&#x200B;预安排全年审核和维护时间，以包含任何新更改、优化或调整。
 
-维护有关Marketo Engage实例的全面和最新的文档可以节省您的长期时间和精力，并有助于有效的实例管理。
+维护有关Marketo Engage实例的全面和最新文档可为您节省长期的时间和精力，并有助于高效的实例管理。
 
 ### 作者
 
@@ -116,6 +116,6 @@ ht-degree: 0%
 ![尼克·哈伊丁](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
 
 **赵蔼明**
-*采用和维系市场经理，Adobe*
+*Adobe采用和维系市场经理*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![赵蔼明](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
