@@ -24,4 +24,4 @@ ht-degree: 17%
 
 在本教程中，我们将向您介绍Marketo Engage中最重要的部分，包括管理员、营销活动、设计工作室和数据库，并在此过程中为您提供审核和优化提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453032/?captions=chi_hans&learn=on)
