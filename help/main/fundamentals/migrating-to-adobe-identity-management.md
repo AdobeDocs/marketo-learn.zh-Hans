@@ -32,7 +32,7 @@ Adobe 正在升级您管理 Adobe Marketo Engage 订阅和用户的方式。 通
 
 * 请与您的 IT 团队协作，将[本文顶部](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}列出的所有 Adobe 域名加入允许列表，以防在迁移至 Adobe Identity 后影响 Marketo Engage 的访问。
 
-* **可选：**[在用户迁移之前实施单点登录（SSO）](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}。
+* **可选：**&#x200B;[在用户迁移之前实施单点登录（SSO）](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}。
 
   >[!NOTE]
   >
