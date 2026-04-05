@@ -18,7 +18,7 @@ ht-degree: 2%
 
 使用Dynamic Chat加快[!DNL target]客户潜在客户的销售连接。 通过通过[Admin Console](https://adminconsole.adobe.com/)将您的销售代理添加为用户，使访客能够预订与各种销售代表的会议，并且每个代理都应连接自己的日历。
 
->[!VIDEO](https://video.tv.adobe.com/v/340258/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345011/?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 ## 更有用的视频
 

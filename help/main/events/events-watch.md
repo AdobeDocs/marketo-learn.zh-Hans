@@ -18,7 +18,7 @@ ht-degree: 2%
 
 了解如何基于Marketo中的预建项目创建展会活动项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411675/?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 ## 其他资源
 

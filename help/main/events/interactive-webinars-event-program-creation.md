@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何设置活动计划，以便您在 Marketo Engage 中创建和安排交互式网络研讨会活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443422/?captions=chi_hans&learn=on)

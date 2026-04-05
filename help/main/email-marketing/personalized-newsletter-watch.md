@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何在Marketo中创建个性化的新闻稿电子邮件程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/345470/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411992/?captions=chi_hans&quality=12&learn=on){transcript=true}

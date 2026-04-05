@@ -20,4 +20,4 @@ ht-degree: 47%
 
 了解在哪里可以找到有关已举办的交互式网络研讨会活动的绩效和参与度的详细信息。 发现根据所收集的参与见解和意图，以个性化方式细分、评分和培养潜在客户/参与者的操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447858/?captions=chi_hans&learn=on)

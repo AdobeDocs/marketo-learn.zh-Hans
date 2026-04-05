@@ -16,7 +16,7 @@ ht-degree: 0%
 
 了解如何配置销售Insight Actions活动并将其记录到您的[!DNL Salesforce]帐户。
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449209/?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 ## 相关视频
 

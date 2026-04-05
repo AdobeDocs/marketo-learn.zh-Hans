@@ -20,4 +20,4 @@ ht-degree: 14%
 
 了解如何在Marketo Engage中创建常规人员列表。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463191/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463224/?captions=chi_hans&learn=on&enablevpops)

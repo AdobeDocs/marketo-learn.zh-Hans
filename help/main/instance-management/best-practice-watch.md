@@ -19,4 +19,4 @@ ht-degree: 0%
 
 观看如何在Marketo中实施Marketo建议的项目和实例最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412257/?captions=chi_hans&quality=12&learn=on){transcript=true}

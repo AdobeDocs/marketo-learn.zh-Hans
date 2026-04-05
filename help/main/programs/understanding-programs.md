@@ -20,4 +20,4 @@ ht-degree: 36%
 
 项目代表一份独立的营销方案。 了解如何以各种方式利用这些受众来吸引受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470497/?captions=chi_hans&learn=on&enablevpops)

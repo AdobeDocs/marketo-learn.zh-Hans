@@ -20,4 +20,4 @@ ht-degree: 100%
 
 快速浏览交互式网络研讨会活动计划中的各个元素，并了解可以采取哪些措施来改进它。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450090/?captions=chi_hans&learn=on)

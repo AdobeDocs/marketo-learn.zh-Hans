@@ -20,7 +20,7 @@ ht-degree: 24%
 
 观看本视频，建立基本的理解并构建您的第一个活动计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454004/?captions=chi_hans&learn=on){transcript=true}
 
 ## 其他资源
 

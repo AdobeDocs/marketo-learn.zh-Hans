@@ -26,4 +26,4 @@ ht-degree: 6%
 - 根据访客选择/兴趣推荐的内容
 - 共享文档并跟踪参与
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445111/?captions=chi_hans&learn=on)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 通过[!UICONTROL person nurturing]，您可以倾听个人的需求，并在其独特的购买者历程中用相关内容做出响应。 了解培养计划、其工作方式以及成功步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411650/?captions=chi_hans&quality=12&learn=on){transcript=true}

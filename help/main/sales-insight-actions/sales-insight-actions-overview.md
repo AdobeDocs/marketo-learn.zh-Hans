@@ -16,7 +16,7 @@ ht-degree: 0%
 
 使用Sales Insight Actions在单个工作流程中，通过营销支持的智能和参与工具加快发现潜在客户的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447255/?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 ## 相关视频
 

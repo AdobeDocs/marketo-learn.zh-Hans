@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何创建、自定义和个性化登陆页面。
 
->[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412002/?captions=chi_hans&quality=12&learn=on){transcript=true}

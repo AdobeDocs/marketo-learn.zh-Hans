@@ -18,7 +18,7 @@ ht-degree: 2%
 
 了解如何创建、管理和跟踪计划的电子邮件计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412012/?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 ## 其他资源
 

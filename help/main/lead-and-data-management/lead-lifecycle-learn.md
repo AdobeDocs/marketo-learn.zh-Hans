@@ -18,4 +18,4 @@ ht-degree: 0%
 
 您是否知道在买方历程的每个阶段有多少潜在客户，以及销售人员应在何时联系他们？ 了解如何创建一个[!UICONTROL person lifecycle]项目，该项目使用评分来获得有关您的潜在客户在其历程中所处的洞察信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412252/?captions=chi_hans&quality=12&learn=on){transcript=true}

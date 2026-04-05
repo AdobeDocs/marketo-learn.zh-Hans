@@ -18,7 +18,7 @@ ht-degree: 22%
 
 设计有针对性的个性化对话是为每个 Web 访客创造出色的对话体验的关键。 了解如何创建和管理对话。
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443805/?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 ## 更有用的视频
 

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 创建一个[!UICONTROL person lifecycle]项目群，使用项目群状态跟踪您的潜在客户，并对准备销售的销售客户采取行动。
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412247/?captions=chi_hans&quality=12&learn=on){transcript=true}

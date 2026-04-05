@@ -22,4 +22,4 @@ ht-degree: 54%
 在四种计划类型中，默认计划最为灵活，您可发挥创意设想要创建什么。
 了解两个常见用例：Web表单和付费媒体人员生成。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453862?captions=chi_hans&learn=on){transcript=true}

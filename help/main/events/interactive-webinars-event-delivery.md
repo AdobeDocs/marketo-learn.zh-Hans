@@ -20,4 +20,4 @@ ht-degree: 45%
 
 了解如何以最佳方式举办交互式网络研讨会活动，以实现您的目标并吸引与会者。 确保您的内容产生兴趣，以便您可以通过不同的参与工具来激发意图，从而帮助更好地进行个性化培养和细分。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440047/?captions=chi_hans&learn=on)

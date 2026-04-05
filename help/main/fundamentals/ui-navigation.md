@@ -20,7 +20,7 @@ ht-degree: 1%
 
 了解如何导航用户界面并熟悉您在Marketo Engage平台中的操作方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450436/?captions=chi_hans&learn=on){transcript=true}
 
 ## 其他资源
 
