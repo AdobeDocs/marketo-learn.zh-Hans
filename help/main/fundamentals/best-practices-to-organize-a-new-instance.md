@@ -26,10 +26,10 @@ ht-degree: 12%
 
 **产品指南：**
 
-* [最佳做法：如何组织您的项目](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
-* [克隆项目](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
-* [克隆项目中的资源](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html)
-* [导入项目](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
-* [了解文件夹](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html)
-* [创建新营销活动文件夹](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
-* [了解工作区和人员分区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
+* [最佳做法：如何组织您的项目](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=zh-Hans)
+* [克隆项目](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html?lang=zh-Hans)
+* [克隆项目中的资源](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html?lang=zh-Hans)
+* [导入项目](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=zh-Hans)
+* [了解文件夹](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html?lang=zh-Hans)
+* [创建新营销活动文件夹](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=zh-Hans)
+* [了解工作区和人员分区](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=zh-Hans)
