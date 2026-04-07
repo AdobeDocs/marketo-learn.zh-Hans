@@ -19,4 +19,4 @@ ht-degree: 0%
 
 了解如何动态控制哪些受众可查看哪些内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481292/?captions=chi_hans&learn=on&enablevpops)
