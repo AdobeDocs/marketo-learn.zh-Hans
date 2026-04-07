@@ -19,4 +19,4 @@ ht-degree: 0%
 
 使用Marketo Engage Email Designer中的AI Assistant帮助您创建即时、高性能、直观的电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483183/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483194/?captions=chi_hans&learn=on&enablevpops)
