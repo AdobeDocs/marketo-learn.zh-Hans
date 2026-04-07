@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
+source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '548'
 ht-degree: 95%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 95%
    + [组织新实例的最佳做法](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳做法](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [实施新实例 — 教程](https://experienceleague.adobe.com/zh-hans/docs/experiences-by-you/implementing-new-instance/overview)
-   + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hans)
+   + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + 项目与营销活动 {#programs-and-campaigns}
    + [了解项目](/help/main/programs/understanding-programs.md)
    + [了解项目与营销活动](/help/main/programs/understanding-programs-and-campaigns.md)
@@ -134,7 +134,7 @@ ht-degree: 95%
 + 报告和分析 {#reporting}
    + [关键报告](/help/main/reporting/key-reports.md)
 + 集成 {#integrations}
-   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hans)
+   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API 帮助 - 如何在变量中设置访问令牌](/help/main/integrations/api-set-access-token-variable.md)
    + [如何使用 REST API 和令牌在 Marketo Engage 中触发智能营销活动](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重复数据 {#manage-duplicates}
@@ -151,5 +151,6 @@ ht-degree: 95%
    + [简化重复数据管理](/help/main/managing-duplicates/simplify-acs.md)
    + [选择管理重复数据的最佳策略](/help/main/managing-duplicates/duplicate-strategy.md)
 + 短片 {#shorts}
-   + [电子邮件Designer的AI助手](/help/main/shorts/ai-assistant-email-designer.md)
+   + [电子邮件设计器的AI助手](/help/main/shorts/ai-assistant-email-designer.md)
+   + [条件内容](/help/main/shorts/conditional-content.md)
 
