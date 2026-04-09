@@ -4,13 +4,13 @@ description: 了解参与图如何帮助快速排除和修复活动问题
 feature: Smart Campaigns
 role: User
 level: Beginner
-hidefromtoc: false
 doc-type: Feature Video
+hidefromtoc: false
 last-substantial-update: 2023-07-31T00:00:00Z
 jira: KT-13742
 thumbnail: 3422246.jpeg
 exl-id: e90390bc-a2b3-49ef-9251-0169b4304b3f
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 33%
