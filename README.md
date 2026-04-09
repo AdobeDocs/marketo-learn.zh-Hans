@@ -1,10 +1,60 @@
 ---
-source-git-commit: 56beb5010ac97a137b29dd980437d12712504f31
+source-git-commit: 33fc78768c3664f9ed9b608c260414b16f37613a
 workflow-type: tm+mt
-source-wordcount: '7'
-ht-degree: 0%
+source-wordcount: '437'
+ht-degree: 48%
 
 ---
-# 已存档
+# 贡献文章
 
-此存储库已迁移到<https://github.com/Adobe-Enterprise-Docs/marketo-learn.zh-Hans>。
+我们欢迎社区成员以及文档团队以外的 Adobe 员工积极贡献文章。
+
+## Adobe Open Source 行为准则
+
+该项目采用了 [Adobe Open Source 行为准则](code-of-conduct.md)或 [.NET Foundation 行为准则](https://dotnetfoundation.org/code-of-conduct)。 有关更多信息，请参阅[参与](contributing.md)文章。
+
+## 关于您对Adobe内容的投稿
+
+请参阅[Adobe文档参与者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
+
+您的参与方式取决于您的身份以及您希望参与的更改类型：
+
+### 次要更改
+
+如果您出于善意而想要对文章进行次要更新，请访问文章，并单击文章中的&#x200B;**编辑**&#x200B;链接以转到文章所对应的GitHub源。 然后，只需使用GitHub UI即可进行更新。 有关更多信息，请参阅 [Adobe Docs 参与者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
+
+您对本存储库中文档和代码示例提交的细微更正或说明均受 Adobe 使用条款的约束。
+
+### 社区成员的重大更改或新文章
+
+如果您是Adobe社区的一员，并且希望创建新文章或提交重大更改，请使用Git存储库中的“问题”选项卡来提交问题，从而开始与文档团队的对话。 在就计划达成共识后，您需要与员工合作，通过公共和专用存储库中的工作组合来帮助引入新内容。
+
+<!--
+If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
+-->
+
+### Adobe员工做出的主要更改
+
+如果您是来自[!UICONTROL Adobe Experience Cloud]解决方案产品团队的技术文档撰稿人、项目经理或开发人员，并且您的工作就是撰写或创作技术文章，那么您应当使用位于`https://git.corp.adobe.com/AdobeDocs`的专用存储库。
+
+<!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
+
+## 工具和设置
+
+社区参与者可以使用 GitHub UI 进行基本编辑或创建存储库分支，以做出主要更改。
+
+有关详细信息，请参阅 [Adobe Docs 参与者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
+
+## 如何使用Markdown格式化主题
+
+此存储库中的所有文章都使用GitHub风格的标记。 如果您不熟悉Markdown，请参阅：
+
+* [Markdown 基础知识](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [可打印的Markdown速查表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+## 标签
+
+在公共存储库中，会为拉取请求分配自动标签，以便帮助我们管理拉取请求工作流，以及帮助您了解拉取请求的处理进展：
+
+* **已发送给作者的更改**：已通知作者拉取请求处于待处理状态。
+* **准备合并**：等待我们的拉取请求审核工作组进行审核。
