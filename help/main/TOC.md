@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 95%
+ht-degree: 84%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 95%
    + [组织新实例的最佳做法](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳做法](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [实施新实例 — 教程](https://experienceleague.adobe.com/zh-hans/docs/experiences-by-you/implementing-new-instance/overview)
-   + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=zh-Hans)
+   + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + 项目与营销活动 {#programs-and-campaigns}
    + [了解项目](/help/main/programs/understanding-programs.md)
    + [了解项目与营销活动](/help/main/programs/understanding-programs-and-campaigns.md)
@@ -111,7 +111,7 @@ ht-degree: 95%
    + [销售线索 / 人员评分操作演示](/help/main/lead-and-data-management/lead-scoring-watch.md)
    + [了解销售线索生命周期](/help/main/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [订阅中心](/help/main/lead-and-data-management/subscription-center-learn.md)
-   + [订阅中心操作演示](/help/main/lead-and-data-management/subscription-center-watch.md)
+   + {hide-from-toc}[订阅中心演练](/help/main/lead-and-data-management/subscription-center-watch.md)
    + [CRM 同步](/help/main/lead-and-data-management/crm-sync-learn.md)
    + [Salesforce 同步快速入门](/help/main/integrations/salesforce-sync-setup.md)
    + [开始使用 Microsoft Dynamics 同步](/help/main/integrations/microsoft-dynamics-sync-setup.md)
@@ -134,22 +134,22 @@ ht-degree: 95%
 + 报告和分析 {#reporting}
    + [关键报告](/help/main/reporting/key-reports.md)
 + 集成 {#integrations}
-   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=zh-Hans)
+   + [Marketo与Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API 帮助 - 如何在变量中设置访问令牌](/help/main/integrations/api-set-access-token-variable.md)
    + [如何使用 REST API 和令牌在 Marketo Engage 中触发智能营销活动](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + 管理重复数据 {#manage-duplicates}
-   + [重复数据管理简介](/help/main/managing-duplicates/introduction-managing-duplicates.md)
-   + [了解重复数据产生的原因](/help/main/managing-duplicates/why-duplicates-occur.md)
-   + [识别并防止重复记录](/help/main/managing-duplicates/identify-prevent-duplicates.md)
-   + [判断何时需要保留重复记录](/help/main/managing-duplicates/determine-necessary-duplicates.md)
-   + [手动合并重复记录](/help/main/managing-duplicates/merge-manually.md)
-   + [批量合并重复记录（第 1 部分）](/help/main/managing-duplicates/bulk-merge-part-1.md)
-   + [批量合并重复记录（第 2 部分）](/help/main/managing-duplicates/bulk-merge-part-2.md)
-   + [批量合并重复记录（第 3 部分）](/help/main/managing-duplicates/bulk-merge-part-3.md)
-   + [自动化重复数据管理（第 1 部分）](/help/main/managing-duplicates/automate-integration-part-1.md)
-   + [自动化重复数据管理（第 2 部分）](/help/main/managing-duplicates/automate-integration-part-2.md)
-   + [简化重复数据管理](/help/main/managing-duplicates/simplify-acs.md)
-   + [选择管理重复数据的最佳策略](/help/main/managing-duplicates/duplicate-strategy.md)
+   + {hide-from-toc}[管理重复项简介](/help/main/managing-duplicates/introduction-managing-duplicates.md)
+   + {hide-from-toc}[了解为什么出现重复项](/help/main/managing-duplicates/why-duplicates-occur.md)
+   + {hide-from-toc}[识别和防止重复记录](/help/main/managing-duplicates/identify-prevent-duplicates.md)
+   + {hide-from-toc}[确定何时需要重复记录](/help/main/managing-duplicates/determine-necessary-duplicates.md)
+   + {hide-from-toc}[手动合并重复记录](/help/main/managing-duplicates/merge-manually.md)
+   + {hide-from-toc}[批量合并重复部分1](/help/main/managing-duplicates/bulk-merge-part-1.md)
+   + {hide-from-toc}[批量合并重复部分2](/help/main/managing-duplicates/bulk-merge-part-2.md)
+   + {hide-from-toc}[批量合并重复部分3](/help/main/managing-duplicates/bulk-merge-part-3.md)
+   + {hide-from-toc}[自动复制管理部分1](/help/main/managing-duplicates/automate-integration-part-1.md)
+   + {hide-from-toc}[自动复制管理部分2](/help/main/managing-duplicates/automate-integration-part-2.md)
+   + {hide-from-toc}[简化重复项管理](/help/main/managing-duplicates/simplify-acs.md)
+   + {hide-from-toc}[选择管理重复项的最佳策略](/help/main/managing-duplicates/duplicate-strategy.md)
 + 短片 {#shorts}
    + [电子邮件设计器的AI助手](/help/main/shorts/ai-assistant-email-designer.md)
    + [条件内容](/help/main/shorts/conditional-content.md)
