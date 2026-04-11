@@ -46,4 +46,4 @@ ht-degree: 20%
 
 * [在 Dynamics 中删除字段之前先编辑要同步的字段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html?lang=zh-Hans)
 
-* [教程：了解如何将Marketo同步到CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)
+* [教程：了解如何将Marketo同步到CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html?lang=zh-Hans)
