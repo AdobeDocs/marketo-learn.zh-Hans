@@ -40,4 +40,4 @@ ht-degree: 85%
 
 * [隐藏和取消隐藏字段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html?lang=zh-Hans)
 
-* [教程：了解如何将Marketo同步到CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)
+* [教程：了解如何将Marketo同步到CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html?lang=zh-Hans)
