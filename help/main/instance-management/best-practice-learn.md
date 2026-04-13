@@ -7,7 +7,7 @@ jira: KT-10736
 hide: true
 thumbnail: 345420.jpeg
 exl-id: c128913a-a4f7-4f45-ab62-3ced27f068d5
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+source-git-commit: 64d974552c11da5b7740c85df0515b322ce9cf5f
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 按照[!DNL Marketo's]建议的组织项目和实例的最佳实践操作，可以帮助您和您的同事在需要时找到实例中所需的内容，并帮助您更准确地报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413373/?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
