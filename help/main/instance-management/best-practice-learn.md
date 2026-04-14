@@ -7,7 +7,7 @@ jira: KT-10736
 hide: true
 thumbnail: 345420.jpeg
 exl-id: c128913a-a4f7-4f45-ab62-3ced27f068d5
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+source-git-commit: 64d974552c11da5b7740c85df0515b322ce9cf5f
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
