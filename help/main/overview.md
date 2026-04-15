@@ -12,7 +12,7 @@ ht-degree: 73%
 
 # [!DNL Marketo Engage] 教程
 
-浏览我们的教程库，充分发挥 [!DNL Marketo Engage] 的价值。 这些教程可作为[[!DNL Marketo] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}的补充，帮助您更深入地理解营销自动化功能。
+浏览我们的教程库，充分发挥 [!DNL Marketo Engage] 的价值。 这些教程可作为[[!DNL Marketo] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}的补充，帮助您更深入地理解营销自动化功能。
 
 <!-- 
 <div id="recs-overview-body-1"></div>
@@ -25,10 +25,10 @@ ht-degree: 73%
 
 ## 新增功能 {#whats-new}
 
-* 用于电子邮件Designer的[AI助手](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+* 用于电子邮件Designer的[AI助手](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
   _在Marketo Engage Email Designer中使用AI助手帮助您创建具有现代、性能和直观的电子邮件。_
 
-* [条件内容](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
+* [条件内容](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/shorts/conditional-content)
   _了解如何动态控制哪个受众看到的内容。_
 
 * [实施实时聊天的最佳实践](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
