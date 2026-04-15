@@ -3,10 +3,10 @@ title: Marketo Engage 教程
 description: 观看关于  [!DNL Marketo Engage] 的视频教程。 帮助您更好地了解如何使用营销自动化等功能。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 94%
+source-wordcount: '249'
+ht-degree: 73%
 
 ---
 
@@ -25,14 +25,14 @@ ht-degree: 94%
 
 ## 新增功能 {#whats-new}
 
+* 用于电子邮件Designer的[AI助手](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+  _在Marketo Engage Email Designer中使用AI助手帮助您创建具有现代、性能和直观的电子邮件。_
+
+* [条件内容](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/shorts/conditional-content)
+  _了解如何动态控制哪个受众看到的内容。_
+
 * [实施实时聊天的最佳实践](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _了解在 Dynamic Chat 中实施实时聊天功能时应遵循的最佳做法。_
-
-* [交互式网络研讨会概述](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
-  _全面了解 Marketo Engage 内置的交互式网络研讨会平台。_
-
-* [迁移至Adobe Identity Management](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _了解 Adobe Identity Management 的迁移流程，以便在一个集中位置统一管理用户的 Adobe Marketo Engage 以及其他 Adobe 帐户和产品。_
 
 ## 最受欢迎的视频 {#most-popular-videos}
 

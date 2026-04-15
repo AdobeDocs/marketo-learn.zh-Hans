@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '543'
 ht-degree: 84%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 84%
    + [令牌概述](/help/main/fundamentals/tokens-overview.md)
    + [使用令牌实现个性化](/help/main/personalization/personalize-with-tokens.md)
    + [项目与营销活动](/help/main/fundamentals/programs-and-campaigns.md)
-   + [迁移至 Adobe Identity Management](/help/main/fundamentals/migrating-to-adobe-identity-management.md)
    + [组织新实例的最佳做法](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [创建基础项目的最佳做法](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [实施新实例 — 教程](https://experienceleague.adobe.com/zh-hans/docs/experiences-by-you/implementing-new-instance/overview)
