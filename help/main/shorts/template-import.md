@@ -20,4 +20,4 @@ ht-degree: 8%
 
 了解如何将现有电子邮件模板从经典编辑器导入Email Designer，从而保留您的设计并加快模板创建。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483500/?captions=chi_hans&learn=on&enablevpops)
