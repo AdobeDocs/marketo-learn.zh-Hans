@@ -10,7 +10,7 @@ type: Tutorial
 doc-type: video
 feature-set: Marketo Engage
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/marketo-learn.en
+git-repo: https://github.com/AdobeDocs/marketo-learn.zh-Hans
 index: true
 source-git-commit: 46cefb0d1dae6fc55c60f9e1faa1e324b7a5666e
 workflow-type: tm+mt
