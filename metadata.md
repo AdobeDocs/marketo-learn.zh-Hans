@@ -1,6 +1,8 @@
 ---
 cloud: Experience Cloud
 solution: Marketo Engage
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 product: marketo
 landing-page-name: marketo-engage
 landing-page-breadcrumb-title: Marketo Engage
@@ -10,16 +12,16 @@ feature-set: Marketo Engage
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo-learn.zh-Hans
 index: true
-source-git-commit: d486e3d7fc1b9aed1e447dd230bc8d65a2caeb50
+source-git-commit: 46cefb0d1dae6fc55c60f9e1faa1e324b7a5666e
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: 70
+ht-degree: 68%
 
 ---
 
 
-# 元数据供内部使用
+# 供内部使用的元数据
 
-[!DNL metadata].md文件包含存储库级别的元数据，这些元数据将传递到存储库中的用户指南[!DNL TOC.md]文件。 如果要更改任何用户指南的metadata.md内容，请在任何TOC.md文件中进行更改。
+[!DNL metadata].md文件包含存储库级别的元数据，这些元数据将传递到存储库中的用户指南[!DNL TOC.md]文件。 如果要更改任何用户指南的 metadata.md 内容，请在任何 TOC.md 文件中进行更改。
 
-查看[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en)以获取&#x200B;**解决方案**、**产品**&#x200B;和&#x200B;**类型**&#x200B;的有效值列表。
+查看[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=zh-hans)以获取&#x200B;**解决方案**、**产品**&#x200B;和&#x200B;**类型**&#x200B;的有效值列表。
