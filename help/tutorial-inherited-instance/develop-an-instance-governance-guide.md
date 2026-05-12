@@ -5,14 +5,31 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: 959
 ht-degree: 1%
 
 ---
@@ -51,7 +68,7 @@ ht-degree: 1%
 
 ### 第2步：识别[!DNL Marketo Engage]文档和[!DNL Changelogs]中要包含的元素
 
-格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。[以下是一个简单的文档和更改日志Excel模板](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，其中涵盖了您可以开始使用的重要元素。 这些功能包括：
+格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。 [以下是一个简单的文档和更改日志Excel模板](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，其中包含您可以开始使用的重要元素。 这些功能包括：
 
 * 文档
    * 项目模板名称

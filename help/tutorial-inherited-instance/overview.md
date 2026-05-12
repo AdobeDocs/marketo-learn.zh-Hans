@@ -5,14 +5,30 @@ feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 68bcc96ad48de8df1ab64c45fe5ce80af21bc288
+TQID: https://experienceleague.adobe.com/vh3KlG5uffYOzjxm8KdzIFHi--x-wUeLQvLT7PcoO-4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: 295
 ht-degree: 0%
 
 ---

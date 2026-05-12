@@ -5,14 +5,47 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
-source-git-commit: 98e4cfe72cc7dfe0158f49c910d263d8e4671297
+TQID: https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '6064'
+source-wordcount: 6064
 ht-degree: 2%
 
 ---
@@ -36,7 +69,7 @@ ht-degree: 2%
 
 请回答以下问题来思考您的QA过程：
 
-* **谁能够为审核者和审批者角色提供服务？**
+* **谁能够为审阅者和审批者提供服务？**
 如果您所在的组织较小，则[!DNL Marketo Engage]管理员可能扮演营销和营销运营的混合角色。 建议使用非生成器[!DNL Marketo Engage]考虑使用超级用户来审核程序。 新的一双新眼有助于发现问题。
 
 * **构建者和审阅者如何协作以及记录注释和更改？**
@@ -92,7 +125,7 @@ ht-degree: 2%
 | 2 | **正在测试** | 是否进行了跨设备测试？ 浏览器？ 它是否既可呈现干净又可正常使用？ | **是：** <br>如果您无法以“是”来回答，则应该跨设备和浏览器对此进行测试。 |  |
 | 3 | **数据** | 如果营销活动中有表单，那么该表单是否已测试？ 所有触发器是否按预期流动？ 所有表单字段是否均准确映射？ 在查看了人员记录的活动日志（而不只是字段）后，您能否证明这一点？ | **是：** <br>如果不能用是来回答，则应该对此进行测试。 | [将表单字段设置为隐藏](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=zh-Hans){target="_blank"}<br><br> [设置隐藏表单字段值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=zh-Hans){target="_blank"} |
 | 4 | **跟踪** | 如果营销活动中有一个表单，那么是否有隐藏的UTM字段来跟踪提交的源？ 这些测试过吗？ | **是或否：**&#x200B;如果您回答“否”，请了解您跟踪哪些来源将用户定向到此表单的能力有限。 | [反向链接参数](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=zh-Hans#referrer-parameter){target="_blank"} |
-| 5 | **GDPR/CASL合规性** | <li>如果数据是通过表单捕获的，该选择加入是否符合您的公司政策？ <li>您是否提供包含有效隐私策略链接的收藏集声明？ | **是：** <br>了解您的相关合规性环境：如果您不能使用“是”回答此问题，则必须更新“隐私策略”部分以确保它符合合规性。**如果您不知道，请向您的法律团队寻求适当的建议。** | [隐私管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hans){target="_blank"} |
+| 5 | **GDPR/CASL合规性** | <li>如果数据是通过表单捕获的，该选择加入是否符合您的公司政策？ <li>您是否提供包含有效隐私策略链接的收藏集声明？ | **是：** <br>了解您的相关合规性环境：如果您不能使用“是”回答此问题，则必须更新“隐私策略”部分以确保它符合合规性。 **如果您不知道，请向您的法律团队寻求适当的建议。** | [隐私管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hans){target="_blank"} |
 | 6 | **Google Analytics集成** | 您的Web Personalization是否已与Google Analytics集成？ | **是或否：**<br>&#x200B;如果回答否，请了解您跟踪哪些Web个性化影响的能力有限。 | 在Google中[个性化再营销](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.html?lang=zh-Hans){target="_blank"} |
 | 7 | **Web区段** | <li>所选区段是否合适，是否适用于正确的域？ <li>是否要将区段发送到Google Analytics？ | **是：** <br>如果不能使用“是”回答，则必须对其进行更新。 | [Web区段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/web-segments.html?lang=zh-Hans){target="_blank"}<br><br>[查找使用特定区段的Web营销活动](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment.html?lang=zh-Hans){target="_blank"} |
 
@@ -121,7 +154,7 @@ ht-degree: 2%
 | 2 | **设计** | 表单品牌的设计一致吗？ | **是：** <br>如果不能使用“是”回答此问题，则可能需要一个很好的理由才能获得它，或者必须更新CSS才能使其符合品牌要求。 |  |
 | 3 | **数据流** | 所有数据是否按预期映射到字段？ 您是否查看了测试记录的活动日志以证明这一点？ | **是：** <br>如果您无法以“是”回答问题，则应修复并测试映射。 | [查找人员的活动日志](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=zh-Hans){target="_blank"} |
 | 4 | **跟踪** | 是否已设置隐藏的UTM字段来跟踪提交到此表单的源？ 这些测试过吗？ | **是或否：** <br>如果回答否，请了解您跟踪哪些来源将用户定向到此表单的能力有限。 | [将表单字段设置为隐藏](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=zh-Hans){target="_blank"}<br><br>[设置隐藏的表单字段值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=zh-Hans){target="_blank"} |
-| 5 | **GDPR/CASL合规性** | 如果数据是通过表单捕获的，是否遵守选择加入规定，您是否提供包含有效隐私策略链接的收集声明？ | **是：** <br>了解您的相关合规性环境：如果您不能使用“是”回答此问题，则必须更新以确保它符合合规性。**如果您不知道，请寻求适当的建议。** | [隐私管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hans){target="_blank"} |
+| 5 | **GDPR/CASL合规性** | 如果数据是通过表单捕获的，是否遵守选择加入规定，您是否提供包含有效隐私策略链接的收集声明？ | **是：** <br>了解您的相关合规性环境：如果您不能使用“是”回答此问题，则必须更新以确保它符合合规性。 **如果不知道，请寻求适当的建议。** | [隐私管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hans){target="_blank"} |
 
 >[!TAB 智能营销活动]
 
@@ -168,7 +201,7 @@ ht-degree: 2%
 | 2 | **发件人姓名** | 您是否已与品牌所有者进行核实，并确认该名称可安全使用？ | **是：** <br>如果您无法以“是”回答问题，则应在继续之前进行检查。 | [编辑您的电子邮件标题](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=zh-Hans){target="_blank"}<br><br>[更改电子邮件和标签中的默认值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.html?lang=zh-Hans){target="_blank"} |
 | 3 | **回复地址** | 您是否已与品牌所有者进行核实，并确认其使用安全？ | **是：** <br>如果您无法以“是”回答问题，则应在继续之前进行检查。 | [编辑您的电子邮件标头](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=zh-Hans){target="_blank"} |
 | 4 | **预编译标头设置** | 您是否根据最佳实践设置了预标题(即 80个字元，完整的句子，先加载有价值的比特)？ | **是：** <br><br>如果不能以是回答，则应在继续之前更新。 | [电子邮件设置](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html?lang=zh-Hans){target="_blank"} |
-| 5 | **复制校对** | 是否有拼写或语法问题？<br>这个口气适合您的品牌吗？ | **是：** <br>如果您无法以“是”回答问题，则应该先进行修复，然后再继续。 |  |
+| 5 | **复制校对** | 是否有拼写或语法问题？ <br>该基调是否适合您的品牌？ | **是：** <br>如果您无法以“是”回答问题，则应该先进行修复，然后再继续。 |  |
 | 6 | **可扫描性** | 扫描时能否理解此电子邮件中的关键信息？ | **是或不适用：** <br>电子邮件最佳实践建议，确保扫描时能够理解您电子邮件的关键邮件非常重要。 如果选择不应用此实践，请注意，这可能会影响电子邮件的性能。 |  |
 | 7 | **取消订阅** | 电子邮件是否具有功能性的取消订阅链接（您已测试该链接）？ | **是或不适用：**<br>&#x200B;只有当电子邮件是[可操作的](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html?lang=zh-Hans){target="_blank"}时，不适用才有效。 如果存在疑问，相信取消订阅不是必需的，那么纳入更安全。 | [了解取消订阅](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hans){target="_blank"} |
 | 8 | **文本版本** | <li>您是否创建了电子邮件的文本版本？ <li>您是否给自己发送了文本版本的测试？ | **是：**<br>&#x200B;如果您无法以“是”回答问题，则应在继续之前进行测试。 |  |
@@ -185,7 +218,7 @@ ht-degree: 2%
 | 19 | **A/B和Champ/Challenger测试** | 您是否对电子邮件进行了冠军/挑战者测试？ | **是或否：**<br>&#x200B;如果您没有进行任何测试，请思考您是否可能错过了解受众更多信息的机会。 | [创建A/B测试](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=zh-Hans)<br><br>[添加电子邮件冠军/挑战者](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=zh-Hans){target="_blank"} |
 | 20 | **客户端测试** | 您是否通过客户端测试软件运行了电子邮件？<li>您是否发现主要电子邮件客户端有任何显示问题？ <li>您是否更正了或记录为非紧急模板修复？ <li>您是否发现任何加载速度问题并尝试改进？<li>您是否发现任何主题行/预览行问题？ 他们解决了吗？ | **是或不适用：**<br>&#x200B;如果您无法以“是”回答（除非您没有测试软件），则应在发送之前完成此操作。 | 客户端测试软件的示例包括Litmus或Acid上的Email或[Marketo Email Deliverability Power Pack](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=zh-Hans)<br><br>[收件箱跟踪器教程](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=zh-Hans){target="_blank"} |
 | 21 | **垃圾邮件测试** | 您是否通过垃圾邮件流程运行电子邮件？<li>有没有任何列入阻止列表的旗帜被升起以引起注意？<li>您是否识别了任何收件箱位置/电子邮件客户端标记？ <li>您是否寻找潜在原因并尝试解决它们？ | **是或不适用：**<br>&#x200B;如果您无法用是回答（除非您没有测试软件），则应在发送之前完成此操作。 | 如果您在合同中包含[Marketo的收件箱跟踪器功能](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=zh-Hans){target="_blank"}，或者使用Litmus或Email on Acid等工具，请对此使用。 |
-| 22 | **其他分析** | 电子邮件是否包含其他Analytics代码？ | **是或不适用：**<br>       如果您无法通过是回答（除非您没有其他分析软件），则应在发送之前完成此操作。 |  |
+| 22 | **其他分析** | 电子邮件是否包含其他Analytics代码？ | **是或不适用：**<br>&#x200B;如果您无法用是回答（除非您没有其他分析软件），则应在发送前完成此操作。 |  |
 
 >[!TAB 最终检查]
 
@@ -206,7 +239,7 @@ ht-degree: 2%
 
 **Grace Brebner**
 Marketo冠军（2021年）
-*Digital Pi， LLC - A Merkle公司的APAC地区客户战略总监*
+*APAC地区客户策略总监，Digital Pi， LLC — 一家默克尔公司*
 
 ![Grace Brebner](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
 
