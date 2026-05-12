@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: 605
 ht-degree: 1%
 
 ---
@@ -25,7 +31,7 @@ ht-degree: 1%
 
 1. **熟悉您从实时实例继承的营销技术栈栈。** 我们鼓励所有营销运营经理/平台运营经理在新公司开始工作时都进行这项练习。 此创建过程使管理员用户能够查看从外部集成发送到[!DNL Marketo Engage]的数据和活动的全貌，并轻松解决API错误。
 2. **熟悉管理外部集成的关键利益相关者。** Kelly Jo Horton用于快速识别利益相关者的提示是引用API用户列表。
-   1. **导航到“管理员”部分的“集成>LaunchPoint”选项卡。** 了解有关如何导航到“LaunchPoint”选项卡的详细信息：[创建用于REST API的自定义服务](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=zh-Hans){target="_blank"}。
+   1. **导航到“管理员”部分的“集成>LaunchPoint”选项卡。** 了解有关如何导航到“LaunchPoint”选项卡的详细信息：[创建用于REST API的自定义服务](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}。
    2. 在“API调用信息”部分的“集成”>“Web服务”选项卡中，查找按API用户排列的API使用情况统计数据。 通过单击API调用编号，您可以查看每个用户发出的具体单个调用。
 
 ## 如何执行此可视化数据流图练习

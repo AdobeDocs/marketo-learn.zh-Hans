@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 68bcc96ad48de8df1ab64c45fe5ce80af21bc288
+TQID: https://experienceleague.adobe.com/vh3KlG5uffYOzjxm8KdzIFHi--x-wUeLQvLT7PcoO-4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: 295
 ht-degree: 0%
 
 ---
@@ -23,7 +29,7 @@ ht-degree: 0%
 
 如果您继承了一个由多人管理的实时Marketo Engage实例，您可能会发现自己对似乎不合适的所有内容进行心理记录。 对清理和优化工作进行组织非常重要，方法是先对任务进行分类，然后确定那些取得长足进展的任务的优先次序。
 
-此“继承实例审核提示和技巧”教程源自Adobe Marketo Champions，为新管理员提供了分步指南。 该教程随附可下载的[审核核对清单](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=zh-Hans)和模板，帮助您立即启动继承的实例。 观看教程，从同行学习中获得灵感！
+此“继承实例审核提示和技巧”教程源自Adobe Marketo Champions，为新管理员提供了分步指南。 该教程随附可下载的[审核核对清单](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html)和模板，帮助您立即启动继承的实例。 观看教程，从同行学习中获得灵感！
 
 ## 主题和您将学习的内容
 
