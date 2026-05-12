@@ -11,11 +11,18 @@ thumbnail: KT-13875.jpeg
 index: true
 exl-id: 3b7e6127-28fd-4dce-915d-5af9bcce984b
 TQID: https://experienceleague.adobe.com/JM26ZReC9P8rKS8IqjIV5TKLxT0xInUHysdM7zo0LzM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
 source-wordcount: 460
@@ -39,7 +46,7 @@ ht-degree: 0%
 
 **步骤1：**&#x200B;转到Marketo Engage中的&#x200B;*[!UICONTROL Admin]部分*。 在&#x200B;*[!UICONTROL Integration]*&#x200B;下，根据您使用的[!DNL CRM]，单击&#x200B;*[!DNL Salesforce]*、*[!DNL Microsoft Dynamics]*&#x200B;或&#x200B;*[!DNL Veeva]*，然后单击&#x200B;*[!UICONTROL Sync Errors]*&#x200B;选项卡。
 
-**步骤2：**&#x200B;您可以选择通过[!UICONTROL Filter]面板](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}将错误记录[导出为 [!DNL CSV] 文件。 如果您只有几个小时，直接从&#x200B;*[!UICONTROL Sync Errors]*&#x200B;选项卡复制并粘贴将是理想的选择。
+**步骤2：**&#x200B;您可以选择通过[!UICONTROL Filter]面板[&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}将错误记录导出为 [!DNL CSV] 文件。 如果您只有几个小时，直接从&#x200B;*[!UICONTROL Sync Errors]*&#x200B;选项卡复制并粘贴将是理想的选择。
 
 **步骤3：**&#x200B;记下发生错误的日期。
 
