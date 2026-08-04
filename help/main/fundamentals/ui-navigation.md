@@ -20,11 +20,11 @@ ht-degree: 1%
 
 了解如何导航用户界面并熟悉您在Marketo Engage平台中的操作方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450436/?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## 其他资源
 
-* [Marketo Engage术语表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=zh-Hans)
+* [Marketo Engage术语表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
 使用Marketo时可能会遇到的许多术语的定义。
-* [图标术语表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=zh-Hans)
+* [图标术语表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
 Marketo Engage界面的图标词汇表。
