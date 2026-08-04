@@ -19,4 +19,4 @@ ht-degree: 23%
 
 发现重复项具有针对性的情况，如多人家庭或合规性需求，以及如何有效管理它们。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441949/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442055/?captions=chi_hans&learn=on&enablevpops)

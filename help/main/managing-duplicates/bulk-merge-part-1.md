@@ -19,4 +19,4 @@ ht-degree: 0%
 
 详细了解批量处理重复项合并的场景和原理。 通过将重复记录导出到Excel以进行高效的数据清理和整合，开始批量合并。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429473/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439235/?captions=chi_hans&learn=on&enablevpops)
