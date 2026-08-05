@@ -19,4 +19,4 @@ ht-degree: 0%
 
 详细了解管理Marketo Engage数据库中重复记录的核心概念、这些概念对工作流的影响，以及维护干净数据的4种方法。 观看每个视频剪辑，了解如何保持数据库干净和健康。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441776/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441961/?captions=chi_hans&learn=on&enablevpops)
