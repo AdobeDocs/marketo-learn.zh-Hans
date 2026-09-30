@@ -16,4 +16,4 @@ ht-degree: 0%
 
 了解如何从Adobe Experience Cloud访问Marketo Engage并快速浏览界面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429413t1/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443693/?captions=chi_hans&learn=on&enablevpops)
