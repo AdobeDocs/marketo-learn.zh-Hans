@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 教程
 user-guide-description: Adobe Marketo Engage 的视频和教程集合。
 breadcrumb-title: Marketo Engage 教程
 auto-video-transcripts: true
-source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
+source-git-commit: d448a04a177ddb861cc29e55914e0045437a734f
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '554'
 ht-degree: 83%
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 83%
     + [参与地图嵌套营销活动](/help/main/engagement-maps/engagement-map-nested-campaign.md)
     + [参与地图错误检测和解决](/help/main/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + 电子邮件营销 {#email-marketing}
+  + [电子邮件设计器概述](/help/main/email-marketing/email-designer-overview.md)
   + [计划的电子邮件](/help/main/email-marketing/scheduled-email-learn.md)
   + [计划的电子邮件操作演示](/help/main/email-marketing/scheduled-email-watch.md)
   + [个性化新闻稿](/help/main/email-marketing/personalized-newsletter-learn.md)
