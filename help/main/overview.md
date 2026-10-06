@@ -3,14 +3,14 @@ title: Marketo Engage 教程
 description: 观看[!DNL Marketo Engage]的视频教程。 帮助您更好地了解如何使用营销自动化等功能。
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
+source-git-commit: d448a04a177ddb861cc29e55914e0045437a734f
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 69%
+source-wordcount: '218'
+ht-degree: 68%
 ---
 # [!DNL Marketo Engage] 教程
 
-浏览我们的教程库，充分发挥 [!DNL Marketo Engage] 的价值。 这些教程可作为[[!DNL Marketo] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans){target="_blank"}的补充，帮助您更深入地理解营销自动化功能。
+浏览我们的教程库，充分发挥 [!DNL Marketo Engage] 的价值。 这些教程可作为[[!DNL Marketo] 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}的补充，帮助您更深入地理解营销自动化功能。
 
 <!-- 
 <div id="recs-overview-body-1"></div>
@@ -23,14 +23,14 @@ ht-degree: 69%
 
 ## 新增功能 {#whats-new}
 
+* [发送电子邮件给Designer概述](/help/main/email-marketing/email-designer-overview.md)
+  _了解Marketo Engage Email Designer中的许多可用功能。_
+
 * Adobe Experience Cloud上的[Marketo Engage](/help/main/fundamentals/marketo-engage-aec.md)
   _了解如何从Adobe Experience Cloud访问Marketo Engage并快速浏览界面。_
 
 * [模板导入](/help/main/shorts/template-import.md)
   _了解如何将现有电子邮件模板从经典编辑器导入Email Designer，从而保留您的设计并加快模板创建……_
-
-* [条件内容](/help/main/shorts/conditional-content.md)
-  _了解如何动态控制哪个受众看到的内容。_
 
 ## 最受欢迎的视频 {#most-popular-videos}
 
