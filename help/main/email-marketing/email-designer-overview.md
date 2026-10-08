@@ -28,4 +28,4 @@ ht-degree: 25%
 
 了解有关高级Marketo Engage电子邮件Designer的更多信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504158/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504179/?captions=chi_hans&learn=on&enablevpops)
