@@ -10,26 +10,33 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+TQID: 'https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 605
+source-wordcount: '633'
 ht-degree: 1%
-
 ---
-
 # 创建可视化数据流图以了解您的营销技术栈栈
 
 作为接管已运行多年的[!DNL Marketo Engage]实例的管理员，审核和整理实例几乎是一项不可能完成的任务。 当Adobe [!DNL Marketo Champion] (2019) Kelly Jo Horton进入一个已建立很久的实例时，她通过[创建“潜在客户和数据源”的图表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}来应对此挑战，以熟悉数据世界。 在本教程中，您将了解如何通过构建Kelly Jo Horton分享的示例来创建自己的数据流图。 让我们了解一下您的MarTech生态系统！
@@ -38,7 +45,7 @@ ht-degree: 1%
 
 1. **熟悉您从实时实例继承的营销技术栈栈。** 我们鼓励所有营销运营经理/平台运营经理在新公司开始工作时都进行这项练习。 此创建过程使管理员用户能够查看从外部集成发送到[!DNL Marketo Engage]的数据和活动的全貌，并轻松解决API错误。
 2. **熟悉管理外部集成的关键利益相关者。** Kelly Jo Horton用于快速识别利益相关者的提示是引用API用户列表。
-   1. **导航到“管理员”部分的“集成>LaunchPoint”选项卡。** 了解有关如何导航到“LaunchPoint”选项卡的详细信息：[创建用于REST API的自定义服务](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=zh-Hans){target="_blank"}。
+   1. **导航到“管理员”部分的“集成>LaunchPoint”选项卡。** 了解有关如何导航到“LaunchPoint”选项卡的详细信息：[创建用于REST API的自定义服务](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}。
    2. 在“API调用信息”部分的“集成”>“Web服务”选项卡中，查找按API用户排列的API使用情况统计数据。 通过单击API调用编号，您可以查看每个用户发出的具体单个调用。
 
 ## 如何执行此可视化数据流图练习

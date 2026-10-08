@@ -5,13 +5,28 @@ feature: REST API
 role: Admin, Developer
 level: Experienced
 exl-id: 46e54729-92ab-4bbb-9877-f762708def67
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: dca84292-69e9-4116-a575-667d31fa060d
+    internal-label: APIs
+subfeature_v2:
+  - id: cf1396d8-ab85-4e93-b35d-d9b573024abf
+    internal-label: REST APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '718'
 ht-degree: 3%
-
 ---
-
 # 如何使用 REST API 和令牌在 Marketo Engage 中触发智能营销活动
 
 本教程将指导您了解如何使用REST API在Marketo Engage中触发Smart Campaign，以及使用我的令牌个性化电子邮件。 此用例非常适用于客户触发的通知，例如网络研讨会提醒、入门步骤或购买后跟进。
@@ -22,17 +37,17 @@ ht-degree: 3%
 
 * 触发来自Marketo Engage的提醒电子邮件
 * 通过以下方式对其进行个性化：
-   * 人员的名字
-   * 网络研讨会标题
-   * 唯一的加入链接
+  * 人员的名字
+  * 网络研讨会标题
+  * 唯一的加入链接
 
 可使用REST API和“我的令牌”完成此操作。
 
 ## 步骤1：创建Smart Campaign {#step-one}
 
-1. 转到&#x200B;**营销活动**，然后在[程序](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}文件夹下，创建一个名为`Send Webinar Reminder`的新[Smart Campaign](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}。
+1. 转到&#x200B;**营销活动**，然后在[程序](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}文件夹下，创建一个名为`Send Webinar Reminder`的新[Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}。
 
-1. 在&#x200B;**智能列表**&#x200B;选项卡中，[添加触发器](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"}以允许通过API调用营销活动：
+1. 在&#x200B;**智能列表**&#x200B;选项卡中，[添加触发器](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"}以允许通过API调用营销活动：
 
    * 选择&#x200B;**请求营销活动**&#x200B;作为触发器
    * 将&#x200B;**Source**&#x200B;设置为`Web Service API`
@@ -41,7 +56,7 @@ ht-degree: 3%
 
 ## 第2步：定义电子邮件内容 {#step-two}
 
-创建或编辑同时引用人员和[我的令牌](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}的[电子邮件资产](https://experienceleague.adobe.com/zh-hans/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"}。
+创建或编辑同时引用人员和[我的令牌](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}的[电子邮件资产](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"}。
 
 >[!NOTE]
 >
@@ -83,7 +98,7 @@ Join here: {{my.JoinLink}}
 
 ## 步骤4：设置活动资格规则并激活活动 {#step-four}
 
-1. 配置[资格规则](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"}以控制人员通过Smart Campaign运行的频率。
+1. 配置[资格规则](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"}以控制人员通过Smart Campaign运行的频率。
 
 1. 配置完毕后，单击&#x200B;**激活**&#x200B;以启用Smart Campaign接收API触发的请求。
 
@@ -134,7 +149,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }
