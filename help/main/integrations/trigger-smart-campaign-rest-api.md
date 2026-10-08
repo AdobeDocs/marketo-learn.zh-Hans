@@ -5,13 +5,28 @@ feature: REST API
 role: Admin, Developer
 level: Experienced
 exl-id: 46e54729-92ab-4bbb-9877-f762708def67
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: dca84292-69e9-4116-a575-667d31fa060d
+    internal-label: APIs
+subfeature_v2:
+  - id: cf1396d8-ab85-4e93-b35d-d9b573024abf
+    internal-label: REST APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '718'
 ht-degree: 3%
-
 ---
-
 # 如何使用 REST API 和令牌在 Marketo Engage 中触发智能营销活动
 
 本教程将指导您了解如何使用REST API在Marketo Engage中触发Smart Campaign，以及使用我的令牌个性化电子邮件。 此用例非常适用于客户触发的通知，例如网络研讨会提醒、入门步骤或购买后跟进。
@@ -22,9 +37,9 @@ ht-degree: 3%
 
 * 触发来自Marketo Engage的提醒电子邮件
 * 通过以下方式对其进行个性化：
-   * 人员的名字
-   * 网络研讨会标题
-   * 唯一的加入链接
+  * 人员的名字
+  * 网络研讨会标题
+  * 唯一的加入链接
 
 可使用REST API和“我的令牌”完成此操作。
 

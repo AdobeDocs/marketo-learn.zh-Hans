@@ -10,30 +10,41 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-TQID: https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM
+TQID: 'https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 959
+source-wordcount: '959'
 ht-degree: 1%
-
 ---
-
 # 使用文档开发实例治理指南
 
 当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的Marketo Engage实例[&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，提高效率是关键策略之一。
@@ -71,22 +82,22 @@ ht-degree: 1%
 格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。 [以下是一个简单的文档和更改日志Excel模板](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，其中包含您可以开始使用的重要元素。 这些功能包括：
 
 * 文档
-   * 项目模板名称
-   * 渠道
-   * 创建日期
-   * 创建者
-   * 计划的目的
-   * 状态
-   * 链接到计划模板
-   * 注释
+  * 项目模板名称
+  * 渠道
+  * 创建日期
+  * 创建者
+  * 计划的目的
+  * 状态
+  * 链接到计划模板
+  * 注释
 * Changelog
-   * 项目模板名称
-   * 更改日期
-   * 更新者
-   * 更新目的
-   * 更改前的体验（包括链接/屏幕截图）
-   * 更改后的体验（包括链接/屏幕截图）
-   * 项目群的URL
+  * 项目模板名称
+  * 更改日期
+  * 更新者
+  * 更新目的
+  * 更改前的体验（包括链接/屏幕截图）
+  * 更改后的体验（包括链接/屏幕截图）
+  * 项目群的URL
 
 ### 步骤3：确定并记录主要运行方案的当前状态
 

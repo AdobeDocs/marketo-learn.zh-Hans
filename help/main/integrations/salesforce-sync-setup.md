@@ -7,17 +7,38 @@ topic: Integrations
 role: Admin
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-10-17T00:00:00Z
+last-substantial-update: 2023-10-17T00:00:00.000Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
 exl-id: 2a88c233-ef13-47da-ae2a-5f0ace7a07e5
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ced46716-1611-5972-ad23-93d0944e2543
+    internal-label: Marketing
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 85%
-
 ---
-
 # Salesforce 同步快速入门
 
 了解 Marketo Engage 与 Salesforce 如何协同工作，以保持销售与营销数据的同步。 本教程将引导您了解同步的工作原理、如何设置同步以确保数据正确流转，以及用于确认同步正常运行的关键检查事项。 此外，还将分享管理 Salesforce 同步的实用技巧，帮助您选择需要同步的字段，并隐藏不再需要的字段。

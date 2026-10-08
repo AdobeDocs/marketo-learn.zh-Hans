@@ -1,5 +1,5 @@
 ---
-title: 如何使用 [!DNL Marketo] 实例和程序最佳实践
+title: 如何使用[!DNL Marketo]实例和程序最佳实践
 description: 观看如何在Marketo中实施Marketo建议的项目和实例最佳实践。
 role: User
 level: Beginner
@@ -7,13 +7,20 @@ jira: KT-10737
 hide: true
 thumbnail: 345421.jpeg
 exl-id: 6dc6cf48-240a-45fd-9156-ece411064e89
-source-git-commit: 64d974552c11da5b7740c85df0515b322ce9cf5f
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '42'
 ht-degree: 0%
-
 ---
-
 # 如何使用[!DNL Marketo]实例和程序最佳实践
 
 观看如何在Marketo中实施Marketo建议的项目和实例最佳实践。
