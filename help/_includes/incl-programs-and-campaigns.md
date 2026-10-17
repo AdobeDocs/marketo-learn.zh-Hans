@@ -1,13 +1,12 @@
 ---
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
-
+source-wordcount: '126'
+ht-degree: 36%
 ---
 # 项目和营销策划包括
 
-项目代表单个营销计划。 了解如何将其与营销活动结合使用，以各种方式触及受众。
+项目代表一份独立的营销方案。 了解如何将其与营销活动结合使用，以各种方式触及受众。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418042/?quality=12&learn=on){transcript=true}
 
@@ -16,7 +15,7 @@ ht-degree: 0%
 有关更多信息，请参阅相关的产品指南：
 
 * [了解程序文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=zh-Hans)
-* [了解智能营销活动文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=zh-Hans)
+* [了解“智能营销活动”文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=zh-hans)
 
 向同行学习如何使用智能营销活动：
 
