@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: "Marketo Engage"
 usetq: true
 product: marketo
 landing-page-name: marketo-engage
@@ -11,15 +12,13 @@ type: Tutorial
 doc-type: video
 feature-set: Marketo Engage
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/marketo-learn.zh-Hans
+git-repo: https://github.com/AdobeDocs/marketo-learn.en
 index: true
 source-git-commit: 4c62ba2035a5faa3eb337bfcbdd56a5e447d5555
 workflow-type: tm+mt
-source-wordcount: 70
-ht-degree: 68%
-
+source-wordcount: '65'
+ht-degree: 73%
 ---
-
 
 # 供内部使用的元数据
 
