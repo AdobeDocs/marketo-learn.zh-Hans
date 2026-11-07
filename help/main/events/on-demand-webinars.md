@@ -30,4 +30,4 @@ ht-degree: 0%
 
 按需网络研讨会捕获并优化已注册但未参加活动的潜在客户，但这些潜在客户希望通过观看录像获取与活动相关的信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436552/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506210/?captions=chi_hans&learn=on)
